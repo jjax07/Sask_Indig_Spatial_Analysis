@@ -1,0 +1,10 @@
+# Large grid reference files - too large for GitHub
+Sask_Reserves/SaskGrid_2021_Section.geojson
+Sask_Reserves/SaskGrid_2021_Township.geojson
+
+# ArcGIS system files
+.DS_Store
+*.lyrx
+
+# XML metadata sidecar files
+*.csv.xml
