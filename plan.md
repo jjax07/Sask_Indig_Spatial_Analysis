@@ -1,5 +1,20 @@
 # plan.md — Saskatchewan Indigenous Spatial Analysis: Implementation Plan
 
+## Implementation Log
+
+### Phase 0 — completed 2026-04-01
+Script: `analysis/00_prepare_data.py`. All outputs written to `analysis/data/`.
+
+**Issues resolved during implementation:**
+- `Sask_1921_Urban_Muni_Full.geojson` has duplicate column names after stripping both field prefixes (`L0Sask1921Full.*` and `UrbanSaskHist - Final.csv.*`). Fixed by keeping only the `L0Sask1921Full.*` spatial columns and dropping the CSV columns entirely before writing to GPKG.
+- `NAME` is a reserved field name in OGR/GPKG format. The Métis community GeoJSON `Name` field was renamed to `community_name` on load.
+- Neo4j query returns 818 records (not 429) due to multiple IS_TYPE relationships per Settlement. **Deduplicate on `census_id` at the start of Phase 1.**
+- 194 of 818 Settlement records (after dedup: some fraction of 429) are missing a `founded` year. Phase 1 must fall back to `incorporated` year where `founded` is null, and flag residual nulls.
+- All 54 surrender parcels have clean year data after sentinel handling — no nulls.
+- All 42 surrender UNIQUE_IDs match the master table.
+
+---
+
 ## Project Context and Interpretive Frame
 
 This plan operationalizes the spatial and temporal analysis described in `Indigenous_Spatial_Analysis.md`. The driving argument — that urban municipalities grew on or adjacent to Indigenous spaces systematically reduced through surrender, coercion, and encroachment — requires that the analysis be structured to surface temporal sequencing, not just proximity. Statistical proximity without the chronological relationship between municipal founding and surrender year produces description, not argument. Every output must therefore carry both dimensions.

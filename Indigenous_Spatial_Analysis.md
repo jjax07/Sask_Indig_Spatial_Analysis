@@ -122,6 +122,12 @@ For each: query `Métis_Communities_Research (1).docx` and the graphrag corpus f
 
 - [x] Data inventory complete
 - [x] Export verification complete (Sask_Reserves, SK_Metis_Communities, Urban_Munis)
-- [ ] Spatial analysis script
-- [ ] Temporal sequencing analysis
-- [ ] Case study corpus queries
+- [x] Repositories initialized: GitHub `jjax07/Sask_Indig_Spatial_Analysis`, GitLab `jjack07/sask_indig_spatial_analysis`
+- [x] Implementation plan written (`plan.md`)
+- [x] Phase 0 — Data preparation complete (`analysis/00_prepare_data.py`)
+- [ ] Phase 1 — Spatial proximity analysis
+- [ ] Phase 2 — Temporal sequencing analysis
+- [ ] Phase 3 — Métis overlap analysis
+- [ ] Phase 4 — Case study builder
+- [ ] Phase 5 — Neo4j enrichment
+- [ ] Case study corpus queries (graphrag / local histories)
