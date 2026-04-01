@@ -8,3 +8,6 @@ Sask_Reserves/SaskGrid_2021_Township.geojson
 
 # XML metadata sidecar files
 *.csv.xml
+
+# Intermediate analysis outputs
+analysis/data/
