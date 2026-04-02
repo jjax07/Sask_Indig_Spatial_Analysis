@@ -130,6 +130,6 @@ For each: query `Métis_Communities_Research (1).docx` and the graphrag corpus f
 - [x] Phase 1 — Spatial proximity analysis complete (`analysis/01_spatial_proximity.py`)
 - [x] Phase 2 — Temporal sequencing analysis complete (`analysis/02_temporal_sequencing.py`)
 - [x] Phase 3 — Métis overlap analysis complete (`analysis/03_metis_overlap.py`)
-- [ ] Phase 4 — Case study builder (7 cases: Kamsack, Broadview, North Battleford, Prince Albert, Regina, Duck Lake, Fort Qu'Appelle)
+- [x] Phase 4 — Case study builder complete (`analysis/04_case_studies.py`, profiles in `analysis/case_studies/`)
 - [ ] Phase 5 — Neo4j enrichment
 - [ ] Case study corpus queries (graphrag / local histories)

@@ -45,6 +45,19 @@ Script: `analysis/02_temporal_sequencing.py`. Output: `analysis/02_temporal_resu
 
 ---
 
+### Phase 4 — completed 2026-04-02
+Script: `analysis/04_case_studies.py`. Outputs: `analysis/case_studies/*.md` (7 files), `analysis/04_case_study_data.xlsx`.
+
+**Key findings surfaced:**
+- Kamsack: CNR pursued Cote surrender in 1904, 1905, and 1907 specifically for settlement of Kamsack — the clearest documented link between settler pressure and formal surrender in the dataset
+- Kamsack founding event context (KG) explicitly states "Coté First Nation land surrender played a large role in the settling of Kamsack"
+- Crowstand Residential School appears in Kamsack's 1889 events — predates the 1904 railway and 1906 surrender, indicating institutional settler presence on the landscape before formal alienation
+
+**Issues resolved:**
+- `name_match_tcpuid` was not written to the Phase 3 Excel Displacement_Cases sheet (was in-memory only). Phase 4 matches displacement cases by municipality name substring instead.
+
+---
+
 ### Phase 3 — completed 2026-04-02
 Script: `analysis/03_metis_overlap.py`. Output: `analysis/03_metis_results.xlsx`.
 
@@ -427,7 +440,7 @@ EPSG:3347 requires pyproj with the PROJ datum grid for Canada. Confirm with:
 | North Battleford | SK186026 | City | 4,108 | Moosomin, Thunderchild, Grizzly Bear's Head/Lean Man, Mosquito — 7 within 25 km | 9 km; founded 1904, +1–6 yrs before surrender | Battleford community founded 1868, predated muni by 7 yrs |
 | Prince Albert | SK185026 | City | 7,558 | Chakastaypasin (1897) | 17 km; founded 1885, +12 yrs | Community founded 1862, predated muni by 23 yrs |
 | Regina | SK176022 | City | 34,432 | Piapot (1919) | 21.5 km; founded 1882, +36 yrs — long-established pressure | Regina community founded 1882 (same year) |
-| Duck Lake | SK185037 | Town | 437 | Stoney Knoll (1877) | 23.5 km; founded 1875, railway 1890, +2 yrs | Community founded 1870, predated muni by 5 yrs |
+| Duck Lake | SK185027 | Town | 437 | Stoney Knoll (1877) | 23.5 km; founded 1875, railway 1890, +2 yrs | Community founded 1870, predated muni by 5 yrs |
 | Fort Qu'Appelle | SK175029 | Village | ~800 | TBD from outputs | TBD | Community founded 1870, muni 1880, Y_DEPART 1950 — clearest displacement arc |
 
 ---
