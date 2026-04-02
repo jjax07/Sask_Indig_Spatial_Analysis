@@ -117,6 +117,37 @@ _Note: Population figures are for the whole reserve, not the surrendered portion
 > Patented to the HBC sometime after the initial survey in 1887, returned to the department in 1927.
 > Signed Treaty 6 adhesion, 1879. Among others near Fort Walsh in early 1880s. Some of Lucky Man's followers were incorporated into Battleford bands. Two sections patented to HBC in reserve, later returned. Seemingly, no other surrenders.
 
+## Historical Context — Martin-McGuire Findings
+
+_Source: Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998)._
+
+### Mosquito / Grizzly Bear's Head / Lean Man IR 110 & 111 — 1905 (Ch. 4, p. 188)
+
+14,400 acres surrendered out of 23,168; location: Eagle Hills, south of Battleford.
+
+The bands maintained a land-intensive livestock operation, with hay sales, wood and craft sales. The Department **restricted them from selling hay to outside buyers** to avoid competing with non-Indian farmers — a direct constraint on band economic development.
+
+Demand for the surrender came from Agent Joseph Day in February 1905 — purportedly initiated by the Band — but **there was no elected leadership at the time of the surrender**. Martin-McGuire notes pointedly: "It is worth considering that because some government officials later acquired the land, and the surrender was endorsed with the projections of good sales, there may have been some external demand as well."
+
+### Moosomin IR 112 — 1909 surrender (Ch. 4, pp. 229–232)
+
+Land quality: "excellent quality" (Surveyor Simpson, 1881). The Band was self-sufficient by 1906-07 with a prosperous cattle industry; annual reports for 1906 and 1907 confirmed they were buying farm machinery.
+
+**Political pressure timeline:**
+- **1902:** Local MLA B. Prince wrote to Liberal MP **T.O. Davis** to have the Thunderchild and Moosomin reserves (described as "in the centre of settlement" and "between the two rivers") opened to settlement. The letter was forwarded to the Department.
+- **1902:** James Smart (or Sifton) proposed moving the Indians to the north side of the Saskatchewan River.
+- **1906:** Anglican Bishop of Saskatchewan Newnham pushed surrender on grounds land was "wasted on too few Indians."
+- **November 1906:** Josie Moosomin (son of the deceased Chief) wrote expressing fears about a prearranged surrender — confirmed **no elected Chief at time of surrender**.
+- **1907:** Agent Day warned against any time lag between discussing terms and voting, lest "agitators" dissuade the Band.
+- **1907:** Liberal MP George McCraney and MLAs Prince and Champagne had previously met with Pedley to discuss removal of both the Moosomin and Thunderchild bands.
+- **1909:** surrender taken.
+
+**Railway mechanism (Type 2 + Type 3):** Canadian Northern Railway was surveyed near the reserve; **Highgate station was placed on the reserve** (right-of-way 93.25 acres; station grounds 9.24 acres). The line made reserve land more valuable to outsiders while also providing the Band with easier market access.
+
+**Executive Summary note (p. xxvii):** The Moosomin case is the explicit illustration of the "excess lands" rationale applied when bands were *recovering* agricultural productivity. The replacement reserve Inspector Graham later reported was "practically useless as a farming proposition."
+
+Note: the same T.O. Davis (Liberal MP) who applied political pressure for the Moosomin surrender also acquired land from the Chacastapaysin reserve near Prince Albert — see Prince Albert case study.
+
 ## Gaps and Questions for Follow-up
 
 Suggested archival and corpus queries for qualitative follow-up:

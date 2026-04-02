@@ -106,6 +106,35 @@ Community departure recorded — — after municipal founding, consistent with d
 > Surrendered for settlement of Lakeview (Regina Beach) in 1919
 > Surveyed in 1885 as a fishing station for multiple reserves. 219.7 acres surrendered in 1919 for railway and settlement of Lakeview (Regina Beach). Remaining 1207.5 acres shared by multiple nations.
 
+## Historical Context — Martin-McGuire Findings
+
+_Source: Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998)._
+
+### 1911 Indian Act amendment — no-consent clause (Executive Summary, p. xxiii)
+
+> "In a 1911 amendment that directly contravened the treaties, the *Indian Act* allowed the government to take reserve land without consent, where the reserve was in or near a town of over 8,000 people, or where the land was needed for public purposes."
+
+Regina's 1921 population was 34,432; it would have been well over 8,000 by 1911. Any reserve within proximity of Regina would have been legally vulnerable to expropriation without consent under this amendment. The Piapot surrender (1918/1919) and Muscowpetung (1909) postdate or overlap with this change in the legal framework.
+
+### Muscowpetung IR 80 — 1909 surrender (Ch. 4, pp. 218–221; Ch. 7)
+
+Land quality: "first-class soils" (Surveyor John C. Nelson, 1881). The Band had a gradual trend towards self-support through the 1880s–1890s; by 1902 Graham's annual report described "progress...marked" with few rations issued.
+
+**Political pressure sequence:**
+- **Jan 1902:** George Bulyea, Commissioner of Agriculture for the NWT, wrote Sifton about a possible surrender from both Pasqua and Muscowpetung. The idea had been voted down by the Indians previously over concerns about funding.
+- **1904:** Dr. Kalbfleisch, Medical Inspector for the Qu'Appelle Agency, proposed a surrender of grazing lands; Graham called a meeting.
+- **Jan 1905:** Graham called a Band meeting and proposed taking the bottom 1½ rows of the reserve. **All but two or three of the male voters were present — and they all voted against a surrender.**
+- **1905:** Settler letters flooded in (C.P. Beeching, J.H. Beeching, G.M. Yerpa, W.A. McKenzie, Neil Finley, H.T. Smith) reporting a rumour (apparently covered in the *Winnipeg Free Press*) that over 10,000 acres of Muscowpetung would open to settlement. McLean replied to all that no surrender was intended.
+- **Late 1905:** Graham wrote to Frank Oliver proposing surrenders from both Pasqua and Muscowpetung.
+- **Railway factor:** Grand Trunk Pacific planned a branch line from Melville to Regina which would pass near Pasqua — increasing market value of adjacent reserve land.
+- **1909:** surrender taken.
+
+**Railway mechanism (Type 3):** Martin-McGuire categorizes Muscowpetung under reserves where "the proximity of the line to the reserve simply increased the market value of reserve land" (Ch. 7).
+
+**Aftermath (Ch. 7):** Protests at Muscowpetung about delays in receiving both equity and interest payments; the agent appears to have used his discretion in withholding interest moneys already delivered to him for distribution.
+
+**Land purchaser:** Western Canada Colonization Company (St Paul, Minnesota; Winnipeg) bought land at the Muscowpetung sale, subsequently sold to James Wallis of Dubuque, Iowa (Ch. 2).
+
 ## Gaps and Questions for Follow-up
 
 Suggested archival and corpus queries for qualitative follow-up:

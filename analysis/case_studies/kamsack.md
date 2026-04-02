@@ -79,6 +79,44 @@ _No georeferenced Métis communities within 50 km._
 > Surrendered to be sold in 1909, $85 paid to each individual.
 > initial survey 1884. Confusing extensions made in the 1890s, seemingly the 1884 survey stuck. In 1909, 7600 acres "unanimously" surrendered to be sold.
 
+## Historical Context — Martin-McGuire Findings
+
+_Source: Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998)._
+
+### Surrender mechanism — Cote IR 64
+
+Martin-McGuire identifies Kamsack as the clearest example of the railway→townsite→surrender sequence (Type 2 railway mechanism: railway company wanted station grounds, which drove a larger townsite surrender).
+
+**1904 surrender (book p. 183):** Canadian Northern Railway moved onto the Cote reserve in **May 1903 before authorization** — a documented trespass requiring threat of legal action before the CNR withdrew. CNR then formally applied Sept 1903 to purchase 574 acres for station and townsite on the southwest corner. The surrender ultimately yielded 272 acres for the Kamsack townsite + 30.06 acres for CNR station grounds. The Cote Band had 456 head of cattle by 1900 and a self-improving economy.
+
+> "This is the founding mechanism for Kamsack: railway came first, then townsite demand, then surrender." — Martin-McGuire, Ch. 4 p. 183
+
+**1905 surrender (book p. 186):** 18,043 acres. Commissioner of Dominion Lands wrote June 1904 asking whether *half the reserve* could be opened to settlement. Frank Oliver wrote July 1905 that Canadian Northern wanted "the whole southern portion of the reserve opened for sale." Oliver hired Rev. John McDougall specifically to negotiate this surrender at $10/day. Internal report noted surrender would "put some settlement between them and [the town]."
+
+**1907 surrender (book p. 200):** 10,740 acres. Inspector Graham proposed "nullifying" the 1905 surrender and doing a new one closer to the townsite, since 1905 land "was not of very good quality and did not attract settlers." D.C. Scott (later Deputy Superintendent) supported: new surrender would "place a barrier between the reserve and the town."
+
+**Aftermath (Ch. 7):** Cote protested failure to pay the second expected payment from the 1905 surrender. Band threatened legal action in 1909 when members realized they had to repay advances before receiving interest from capital.
+
+### Kamsack Land Company — conflict of interest (Ch. 2, pp. 64–65)
+
+The Kamsack Land Company (formed 1908) was composed of individuals directly implicated in the Cote surrenders:
+
+- **W.G. Blewett** — Indian Agent who *took* the surrender (and who later reported that The Key Band wished to surrender, triggering the 1909 Key surrender)
+- **J.I. Wallace** — physician who had *advocated* the surrender
+- **Rev. McWhinney** — principal of Crowstand School; purchased land at the Cote 1908 sale
+- **Theodore Miles, E.C. Lawrence, Charles Ingram, Thomas Foley, W.E. Ouellette** — directors, several purchased land at the 1907 surrender land sale in 1908
+- **Crescent Realty of Yorkton** (E.L. Cash investor) — also acquired land from the Cote sales
+
+Source: SAB, RG 348, file 3364.
+
+### The Key IR 65 — 1909 surrender (Ch. 4, pp. 222–225)
+
+The Key Band was economically productive: 70 people, 94 cattle in the early 1890s, rising to 225 cattle by 1896. Cattle industry largely replaced grain, supplemented by seneca roots, furs, freighting, and wage labour.
+
+In 1903, the Department of the Interior withdrew the northern half of the Pelly Agency haylands for a Doukhobor reserve — removing a key resource from the Key Band's economy. Agent Carruthers subsequently pushed a partial surrender, which the Band voted to accept in December 1903; the Department did not respond to this vote.
+
+In April 1908, **MP E.L. Cash** (Yorkton) inquired about a Key surrender; Pedley said the Department had "no correspondence intimating a desire on the part of the Indians." In July 1908, **Agent William Blewett** (the same Blewett who was a founding director of the Kamsack Land Company) reported that the Band wished to surrender part of the reserve. Graham's first formal meeting with the Band was January 18, 1909.
+
 ## Gaps and Questions for Follow-up
 
 Suggested archival and corpus queries for qualitative follow-up:

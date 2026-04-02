@@ -100,6 +100,36 @@ _Road allowance community proximity to this municipality was intentional: reside
 > Road Allowance transfered to government without compensation.
 > provided access to Crooked Lake for fishing. Surrendered in totatily sometime after 1913.
 
+## Historical Context — Martin-McGuire Findings
+
+_Source: Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998)._
+
+### Cowessess IR 73 — 1907 surrender (Ch. 4, pp. 202–206)
+
+Martin-McGuire calls the Cowessess case "the clearest Type A sequence in the dataset" — a textbook example of sustained settler pressure culminating in a forced surrender of a highly productive reserve.
+
+The Band was among the most agriculturally successful in the agency: they ignored Hayter Reed's peasant farming policy, purchased machinery from their own profits, and by 1900 only the sick and elderly were receiving rations.
+
+**Settler pressure timeline (22 years before the 1907 surrender):**
+- **1885:** Thomas Evans of Broadview asked whether Indians "might be removed elsewhere" — wrote to PM and Minister of Interior
+- **1886:** Moosomin settlers petitioned Minister to push reserves north 6 miles to open CPR frontage. Deputy Minister of Interior Burgess: "an exceedingly undesirable thing that for nearly twenty miles along the line of a railway there should be an Indian Reserve"
+- **1891:** another petition, same ask
+- **1899:** Conservative MP R.S. Lake raised it with Sifton; Surveyor Ponton argued band had "surplus" land "preventing the development of market towns along the stretch adjacent to the reserves"
+- **1902:** another petition from residents; Agent Begg recommended surrender
+- **1904:** Sifton asked McKenna to approach Indians again
+- **1907:** surrender taken — 20,704 acres out of 49,920
+
+Railway mechanism (Type 3): proximity of CPR main line to reserve raised market value of the land; reserve land was perceived as blocking CPR frontage development.
+
+**Procedural violations:**
+- Department refused to deal with the Band's lawyers — **twice**. Insisted on dealing with an Indian Agent who was later fired and accused of neglect.
+- **Four Department employees purchased Cowessess land** — prohibited by the *Indian Act*
+- Inspector Graham paid band members $66/head cash, "continued well into the night and for several days following" (consistent with pattern of using cash at the vote to secure surrender)
+
+**Aftermath (Ch. 7):** Cowessess participated in the 1911 delegation to Ottawa and protested the implementation of the surrender. Hired lawyers to inquire about Land Management deductions and the use of land sales proceeds to fund medical expenses, which they understood to be a treaty obligation.
+
+**Land purchaser:** Western Canada Colonization Company (St Paul, Minnesota; Winnipeg) acquired land at the Cowessess (Crooked Lakes) sale (Ch. 2).
+
 ## Gaps and Questions for Follow-up
 
 Suggested archival and corpus queries for qualitative follow-up:

@@ -18,9 +18,48 @@ This subproject examines the spatial relationships between:
 **Theoretical frame:**
 - Paige Raibmon's lens on colonial dispossession — bottom-up settler pressure, ideological privileging of "productive" farming, government accommodation of fait accompli
 - Bill Waiser, *Cheated: First Nations Land Surrenders on the Prairies 1896–1911* — the mechanics of surrender under the Laurier government
+- Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998) — the primary comparative study of all 25 prairie surrenders in this period; confirms and deepens the Waiser frame with archival citations
 - Source approach: settler perspectives in newspapers and local histories alongside government policy record; look for evidence of settlers farming reserve land before formal surrender
 
 **Key case studies to pursue:** Kamsack (most obvious — near Cote, Keeseekoose, Key First Nation reserves), Regina, North Battleford, Prince Albert, Broadview. Any municipality with reserves in proximity.
+
+---
+
+## Policy Mechanisms — Martin-McGuire Confirmed Findings
+
+_Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998). Findings confirmed with page citations from Executive Summary and chapters._
+
+### Frank Oliver quotes (1906) — on settler priority
+
+The 1906 *Indian Act* amendment raising the distribution ceiling from 10% to 50% was explicitly justified by Oliver as an inducement to surrender (Executive Summary, pp. xxi–xxii):
+
+> "Of course, the Indian Department or the government have no right or authority to interfere with their holding, although it is in excess of the amount contemplated by the treaty. The only way they can be induced to release their holding is by purchase, as they are proprietors in every sense. . . . The present conditions, when land is in demand, when towns are building up in many cases in close proximity to these reserves is certainly one which demands attention, and the purpose of this Bill is that it shall be given attention."
+
+> "of course the interests of the people must come first and if it becomes a question between the Indians and the whites, the interests of the whites will have to be provided for."
+
+### Three mechanisms by which railway development drove surrender demand (Ch. 7)
+
+1. **Right-of-way split:** A railway severed the reserve, leading officials to conclude one portion should be surrendered (e.g., Peigan)
+2. **Station grounds → townsite:** Railway company wanted a surrender for station grounds, which led to an initiative to surrender a larger area for townsite development (e.g., **Cote/Kamsack**, The Pas, Fishing Lake, Moosomin)
+3. **Proximity raised market value:** The line simply made reserve land more valuable to outsiders and speculators (e.g., Crooked Lakes/**Cowessess**, Michel, Pasqua, **Muscowpetung**, Moose Mountain, Bobtail)
+
+This taxonomy directly supports the Type A temporal classification used in this project: in all three cases, the railway precedes or accompanies the surrender pressure.
+
+### "Excess lands" rationale — applied in at least 10 of 25 surrenders (Executive Summary, pp. xxvii–xxix)
+
+The rationale originated with Hayter Reed's peasant farming policy (1888), which withheld machinery and allotted land individually, creating an appearance of "surplus." As bands recovered agricultural productivity in the post-Reed era, the same rationale was applied against them — precisely when reserves were most economically active, not least.
+
+Critically: the "excess lands" argument was deployed when bands were prosperous and outsiders perceived the land as economically valuable. Examples confirmed: Cote, Moosomin/Thunderchild, Mistawasis, Samson and Bobtail, Roseau River, Crooked Lakes, Michel, Moose Mountain, Stony Plain/Enoch.
+
+### 1911 Indian Act amendment — expropriation without consent (Executive Summary, p. xxiii)
+
+> "In a 1911 amendment that directly contravened the treaties, the *Indian Act* allowed the government to take reserve land without consent, where the reserve was in or near a town of over 8,000 people, or where the land was needed for public purposes."
+
+Applicable to all case studies involving urban municipalities that exceeded 8,000 population by 1911 (Regina: 34,432 in 1921; Prince Albert: 7,558 in 1921 — likely borderline).
+
+### Senior officials speculating in surrendered land
+
+Smart and Pedley (successive DSGIAs 1897–1913) conspired to purchase land from surrendered reserves including Pheasant's Rump, Ocean Man, Chacastapaysin, Cumberland 100, and Enoch. The Ferguson Commission (1915) found this to be a conflict of interest. Liberal MP T.O. Davis (Prince Albert) also acquired Chacastapaysin lands, transferred to Fenton Farms Ltd. in 1917. The Kamsack Land Company (1908) included the Indian Agent who took the Cote surrender and the physician who had advocated it.
 
 ---
 

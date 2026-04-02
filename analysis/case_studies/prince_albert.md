@@ -88,6 +88,26 @@ Community departure recorded — — after municipal founding, consistent with d
 > Road Allowance surrender.
 > Initially surveyed in 1881, overlapped St. Laurent Metis Settlement surveyed in 1878. Recognized in 1884 and resurveyed in 1888. Order in Council confirmed reserve in 1889. Surrender taken in 1895 for a road allowance.
 
+## Historical Context — Martin-McGuire Findings
+
+_Source: Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998)._
+
+### Chakastaypasin / Chacastapaysin IR 98 — 1897 surrender
+
+The reserve in the project data as "Chakastaypasin" (PRF98) is the same as "Chacastapaysin" in Martin-McGuire — variant spellings of the same reserve. The population trajectory confirms this: from 92 members in 1881, falling to 52 by 1885, 19 by 1889, and zero records (-99) by 1893 onward, consistent with members having transferred to other reserves following the 1885 Resistance.
+
+**Precedent-setting case (Ch. 7, p. 63):** Chapter 7 identifies Chacastapaysin as one of the small group of early surrenders (Sharphead, Passpasschase, Young Chipeewayan, Chacastapaysin) that created the "excess lands" rationale: the Department concluded that where no people were currently using a reserve, bands acquiring entitlement rights elsewhere could be used to justify a full surrender. This reasoning was then extended to inhabited, productive reserves in at least 10 of the 25 surrenders studied.
+
+**Smart/Pedley/White syndicate (Ch. 1, p. 280; Ch. 2, pp. 792–793):**
+James Smart (DSGIA 1897–1902), Frank Pedley (DSGIA 1902–1913), and William J. White purchased land from several surrendered reserves including **Chacastapaysin**. Collier (Sifton's former secretary) alleged in late 1904 that Smart and White "cut a deal with the CPR to buy lands cheaply for resale" — Sifton acknowledged this with his consent.
+
+**T.O. Davis connection (Ch. 2, pp. 898–902):**
+T.O. Davis, **Liberal MP for Prince Albert**, acquired land from the Chacastapaysin reserve and transferred his interest to Fenton Farms Ltd. in 1917 (SAB, RG 348, file 3841). This is the Prince Albert "connection" to Chacastapaysin: it runs through the riding's MP, not the reserve's geographic location.
+
+Note: T.O. Davis also applied political pressure for the Moosomin IR 112 surrender near North Battleford — see North Battleford case study.
+
+**Flag:** The reserve's geographic location (confirmed near Prince Albert at 17,430 m distance) is consistent with Treaty 6 territory. The Chacastapaysin surrender was an OIC-forced transfer (1897) without meaningful consent, predating the 1906 and 1911 *Indian Act* amendments that codified such mechanisms.
+
 ## Gaps and Questions for Follow-up
 
 Suggested archival and corpus queries for qualitative follow-up:

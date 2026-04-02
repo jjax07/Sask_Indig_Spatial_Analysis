@@ -16,15 +16,15 @@
 | File | Size | Status |
 |------|------|--------|
 | `table of contents.pdf` | 397K | **Read** — contains full Executive Summary + Introduction |
-| `Chapter 1.pdf` | 177K | Unread |
-| `Chapter 2.pdf` | 171K | Unread |
-| `Chapter 3.pdf` | 416K | Unread |
-| `Chapter 4.pdf` | 1.9M | Unread |
-| `Chapter 5.pdf` | 815K | Unread |
-| `Chapter 6.pdf` | 451K | Unread |
-| `Chapter 7.pdf` | 230K | Unread |
-| `appendices_only.pdf` | 2.7M | Unread |
-| `appendices_full.pdf` | 1.9M | Unread |
+| `Chapter 1.pdf` | 177K | **Grep-read** — key policy/personnel sections; full read pending |
+| `Chapter 2.pdf` | 171K | **Grep-read** — case study reserves fully covered |
+| `Chapter 3.pdf` | 416K | Unread — lower priority; Chacastapaysin 1897 narrative if needed |
+| `Chapter 4.pdf` | 1.9M | **Partially read** — book pp. 183–243 extracted and read (via two txt extracts) |
+| `Chapter 5.pdf` | 815K | Unread — Consent; lower priority |
+| `Chapter 6.pdf` | 451K | **Extracted to .txt** — not yet read; next priority |
+| `Chapter 7.pdf` | 230K | **Read** — full Observations and Conclusions chapter |
+| `appendices_only.pdf` | 2.7M | Unread — assess after Chapter 6 |
+| `appendices_full.pdf` | 1.9M | Unread — assess after Chapter 6 |
 
 **Reading strategy:** Read small chapters whole; read Chapter 4 (largest, highest-value) in targeted page ranges using TOC to isolate relevant reserve entries. Appendices last — assess need after chapter content is incorporated.
 
@@ -206,6 +206,70 @@ The Smart/Pedley/White syndicate bought from "Ocean Man/Pheasant's Rump **and Ch
 
 ---
 
+## Chapter 2 Key Findings (read 2026-04-02, session 2)
+
+### Kamsack Land Company (Ch. 2, pp. 64–65)
+Formed 1908. Directors: W.G. Blewett (Indian Agent who *took* the Cote surrender), J.I. Wallace (physician who *advocated* it), Rev. McWhinney (Crowstand School principal, purchased land at Cote 1908 sale), Theodore Miles, E.C. Lawrence, Charles Ingram, Thomas Foley, W.E. Ouellette. Crescent Realty of Yorkton (E.L. Cash investor) also bought from Cote sales. Source: SAB, RG 348, file 3364.
+
+### Chacastapaysin / Smart connection confirmed (Ch. 2, pp. 792–793)
+Smart and William J. White described explicitly as "partners in the **Moose Mountain and Chacastapaysin** land purchases." Sifton acknowledged Smart's CPR land deal (10,000 acres at $4/acre — $1 below going rate) with his consent.
+
+### Fenton Farms / T.O. Davis / Prince Albert (Ch. 2, pp. 898–902)
+T.O. Davis, Liberal MP for Prince Albert, transferred his interest in **Chacastapaysin reserve lands** to Fenton Farms Ltd. in 1917 (SAB, RG 348, file 3841). This is the Prince Albert "connection" to Chacastapaysin — through the MP, not geography.
+
+### Western Canada Colonization Company (Ch. 2, pp. 844–857)
+Bought land at both **Muscowpetung** and **Cowessess (Crooked Lakes)** sales. St Paul, Minnesota base; Winnipeg office. Directors at time of Crooked Lakes sales (1909): Lynch, Halsey, Robertson, Nason, Delahunt. Muscowpetung land sold to James Wallis of Dubuque, Iowa.
+
+---
+
+## Chapter 1 Key Findings (read 2026-04-02, session 2 — grep summary)
+
+- Smart, Pedley confirmed conspiring to buy from surrendered reserves: "Pheasant's Rump, Ocean Man, Chacastapaysin, Cumberland 100, and Enoch" (Ch. 1, p. 280)
+- Peasant farming policy legacy: "It left a legacy of underused land" which was then cited as justification for surrenders — but "when surrenders began to occur...reserves were in fact in a new economic era, one of expansion of production and increasing diversification" (Ch. 1, pp. 143–149)
+- Sifton's network: C.W. Speers, A.J. Adamson, T.O. Davis, Frank Oliver, Walter Scott, and others — "land speculators as well as Liberals, and they used their political connections freely to gain favours" (Ch. 1, p. 287)
+
+---
+
+## Chapter 7 Key Findings (read 2026-04-02, session 2)
+
+- **Three railway mechanisms** confirmed (see `Indigenous_Spatial_Analysis.md` — Policy Mechanisms section)
+- **Elder testimony themes** (pp. 478–523): agent was "the boss" and could override votes; Inspector Graham described as bringing a gun to meetings (intimidation); money "on the table" was deciding factor; people often did not understand that they were selling (thought leasing or that government was buying in trust)
+- **Graham portrait** (pp. 413–426): deeply embedded in land company networks, political elite (Assiniboia Club, Walter Scott's neighbour); "could hardly have been unaware of land values"
+- **Consent analysis**: affidavit was often the *only* evidence of consent, but did not signify consent itself; non-attendance at meetings was taken as tacit consent despite no evidence attendees understood this
+
+---
+
+## Chapter 4 Extended Extract Findings (book pp. 210–243, read 2026-04-02, session 2)
+
+New extract: `Chapter 4 Page 210-243.txt` — PDF pages 49–82 of full Chapter 4.
+
+### Muscowpetung IR 80 — 1909 (book pp. 218–221)
+- "First-class soils" — excellent farmland
+- Jan 1905: Graham called Band meeting; **all but 2–3 voted against surrender**
+- 1905: settler letter campaign; rumour reported in *Winnipeg Free Press* of 10,000 acres opening
+- Railway: Grand Trunk Pacific branch line planned from Melville to Regina, passing near Pasqua — raised adjacent land values
+- Protests post-surrender: agent withheld interest moneys already given to him for distribution
+- Purchaser: Western Canada Colonization Company → James Wallis, Dubuque, Iowa
+
+### The Key IR 65 — 1909 (book pp. 222–225)
+- 70 people, 225 cattle by 1896; prosperous cattle/seneca root/freighting economy
+- 1903: Doukhobor reserve took Key Band's northern haylands (Department of Interior unilateral)
+- Dec 1903: Band voted to surrender 8 sq. miles — Department never responded
+- 1908: MP E.L. Cash inquired about surrender — Pedley said no plans
+- July 1908: Agent **Blewett** (Kamsack Land Company founder) reported Band wished to surrender
+- Jan 1909: Graham's first formal meeting with Band
+
+### Moosomin IR 112 — 1909 (book pp. 229–232)
+- Self-sufficient by 1906-07, buying farm machinery; "excellent quality" land
+- Highgate station placed on reserve; CNoR right-of-way 93.25 acres, station grounds 9.24 acres
+- 1902: MLA Prince wrote T.O. Davis (Prince Albert MP) to have reserves "opened to settlement"
+- No elected Chief at time of surrender (confirmed)
+- Agent Day warned against time lag between discussing and voting — to prevent "agitators"
+- MP McCraney + MLAs Prince and Champagne had met with Pedley about removal of both bands
+- Final terms: $10,000 down payment to each band + removal costs + 6 months rations + shingle mill
+
+---
+
 ## Reading Log
 
 | Date | File | Content read | Notes |
@@ -213,18 +277,46 @@ The Smart/Pedley/White syndicate bought from "Ocean Man/Pheasant's Rump **and Ch
 | 2026-04-02 | `table of contents.pdf` | TOC only | Context compaction interrupted session. Key findings partially recovered from recap. |
 | 2026-04-02 | `table of contents.pdf` | Full file — TOC + Executive Summary (pp. xiii–xlviii) + Introduction (pp. 3–5) + map | Executive Summary is complete and extremely valuable. All major policy findings now confirmed with page citations. |
 | 2026-04-02 | `Chapter 4 Page 183-210.txt` | Book pp. 183–210 (some pages image-only, no text) | Cote 1904/1905/1907, Mosquito/GBH/LM 1905, Cowessess 1907. Key findings recorded above. Session interrupted at p. 210 (Peguis/St Peters). Chapters 1, 2, 6, 7 .txt files extracted but not yet read. |
+| 2026-04-02 | `First Nation land surrenders on the Prairies - Chapter 2.txt` | Full file — grep for case study reserves | Kamsack Land Company, Smart/White/Chacastapaysin, Fenton Farms/Davis, Western Canada Colonization Company. |
+| 2026-04-02 | `First Nation land surrenders on the Prairies - Chapter 1.txt` | Grep summary — key policy/personnel sections | Smart/Pedley confirmed; peasant farming legacy; Sifton network. Full read still pending. |
+| 2026-04-02 | `First Nation land surrenders on the Prairies - Chapter 7.txt` | Book pp. 427–510 (read in chunks, offset 0–800) | Three railway mechanisms; elder testimony themes; Graham portrait; consent analysis. Full chapter absorbed. |
+| 2026-04-02 | `Chapter 4 Page 210-243.txt` | Book pp. 210–243 (new extract, PDF pages 49–82) | Muscowpetung 1909, The Key 1909, Moosomin 1909. Key findings recorded above. St Peters/Peguis covered (pp. 210–217) but not a priority case study. |
+
+---
+
+## Incorporation Status
+
+| Finding | Target file | Status |
+|---------|------------|--------|
+| Frank Oliver 1906 quotes | `Indigenous_Spatial_Analysis.md` — Policy Mechanisms | **Done** |
+| Three railway mechanisms | `Indigenous_Spatial_Analysis.md` — Policy Mechanisms | **Done** |
+| "Excess lands" rationale | `Indigenous_Spatial_Analysis.md` — Policy Mechanisms | **Done** |
+| 1911 Indian Act no-consent clause | `Indigenous_Spatial_Analysis.md` + `analysis/case_studies/regina.md` | **Done** |
+| Kamsack Land Company (Ch. 2, p. 64) | `analysis/case_studies/kamsack.md` | **Done** |
+| Cote IR 64 three-entry surrender narrative | `analysis/case_studies/kamsack.md` | **Done** |
+| The Key IR 65 narrative | `analysis/case_studies/kamsack.md` | **Done** |
+| Cowessess IR 73 narrative | `analysis/case_studies/broadview.md` | **Done** |
+| Mosquito/GBH/LM IR 110–111 narrative | `analysis/case_studies/north_battleford.md` | **Done** |
+| Moosomin IR 112 narrative | `analysis/case_studies/north_battleford.md` | **Done** |
+| Smart/Pedley/White syndicate + Chacastapaysin | `analysis/case_studies/prince_albert.md` | **Done** |
+| Muscowpetung IR 80 narrative | `analysis/case_studies/regina.md` | **Done** |
+| Senior official speculation (structural) | `Indigenous_Spatial_Analysis.md` | **Done** |
 
 ---
 
 ## Next Session — Resume Here
 
-1. Read `Chapter 4 Page 183-210.txt` — **already done through p. 210**, no further content needed from this extract
-2. Read `First Nation land surrenders on the Prairies - Chapter 2.txt` — Kamsack Land Company (p. 64)
-3. Read `First Nation land surrenders on the Prairies - Chapter 1.txt` — policy/legal background
-4. Read `First Nation land surrenders on the Prairies - Chapter 7.txt` — conclusions/patterns
-5. Read `First Nation land surrenders on the Prairies - Chapter 6.txt` — terms/implementation (largest, 247K — read in chunks)
-6. Extract more Chapter 4 pages for: Muscowpetung IR 80 (p. 218, Regina), The Key IR 65 (p. 222, Kamsack), Moosomin IR 112 (p. 229, North Battleford), and verify Chacastapaysin location
-7. Incorporate all findings into case study .md files
+**Remaining reads (priority order):**
+
+1. **Chapter 6** (`First Nation land surrenders on the Prairies - Chapter 6.txt`, 247K) — Terms and Implementation. Read in chunks using offset/limit. Focus on: Cowessess, Muscowpetung, Cote, Moosomin, Chacastapaysin entries. Use grep first to find page locations.
+2. **Chapter 1** (full read, not just grep) — Setting the Stage (pp. 7–36). Key for: legal framework, railway expansion, Department organization. Currently only grep-read.
+3. **Chapter 3** (not yet extracted) — Chronology (pp. 66–161). Would contain the Chacastapaysin 1897 surrender narrative. Only needed if Prince Albert case requires more detail.
+4. **Appendices** — assess need after Chapter 6.
+
+**Outstanding questions:**
+- Chacastapaysin exact location (geographic coordinates) — not yet verified against our spatial data. Should check if reserve geometry in `Sask_Reserves/` matches Prince Albert proximity.
+- The Key Band post-surrender: did Blewett profit from The Key surrender the same way Kamsack Land Company did with Cote? (Blewett was the agent for both.)
+- Chapter 6 Cowessess: the Cowessess Board of Management irregularities and post-surrender financial disputes are likely in Ch. 6.
 
 ---
 
