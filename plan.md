@@ -9,9 +9,59 @@ Script: `analysis/00_prepare_data.py`. All outputs written to `analysis/data/`.
 - `Sask_1921_Urban_Muni_Full.geojson` has duplicate column names after stripping both field prefixes (`L0Sask1921Full.*` and `UrbanSaskHist - Final.csv.*`). Fixed by keeping only the `L0Sask1921Full.*` spatial columns and dropping the CSV columns entirely before writing to GPKG.
 - `NAME` is a reserved field name in OGR/GPKG format. The Métis community GeoJSON `Name` field was renamed to `community_name` on load.
 - Neo4j query returns 818 records (not 429) due to multiple IS_TYPE relationships per Settlement. **Deduplicate on `census_id` at the start of Phase 1.**
-- 194 of 818 Settlement records (after dedup: some fraction of 429) are missing a `founded` year. Phase 1 must fall back to `incorporated` year where `founded` is null, and flag residual nulls.
+- 194 of 818 Settlement records (after dedup: some fraction of 429) are missing a `founded` year. Phase 1 must fall back to `incorporated` year where `founded` is null, and flag residual nulls. After dedup and fallback to `incorporated`, residual nulls = 27 of 429.
 - All 54 surrender parcels have clean year data after sentinel handling — no nulls.
 - All 42 surrender UNIQUE_IDs match the master table.
+
+---
+
+### Phase 1 — completed 2026-04-02
+Script: `analysis/01_spatial_proximity.py`. Output: `analysis/01_proximity_results.xlsx`, `analysis/01_proximity_map.geojson`.
+
+**Key findings:**
+- 6 municipalities overlap geometrically with surrendered reserve land: Kamsack, Delmas, Lestock, Regina Beach, Leask, Laird
+- 17 municipalities within 5 km; 124 within 25 km
+- 259 of 429 municipalities have `founding_before_surrender = True` (the "pressure then surrender" signal); 133 founded after surrender; 27 indeterminate
+- `Metis_RoadAllowance.geojson` (11 features) is a separate layer not captured in `metis_located.gpkg` — loaded directly in Phase 3
+
+**Issues resolved:**
+- Neo4j dedup confirmed: 102 null `founded` after dedup (matches source KG workbook exactly; the 194 figure in Phase 0 validation was the pre-dedup count)
+- After `incorporated` fallback: 27 residual nulls with neither year
+
+---
+
+### Phase 2 — completed 2026-04-02
+Script: `analysis/02_temporal_sequencing.py`. Output: `analysis/02_temporal_results.xlsx`.
+
+**Key findings:**
+- 34 affected reserves; 265 municipality–reserve pairs within 25 km
+- Type A (pre-emptive, municipality or railway before first surrender): **165 pairs**
+- Type B (concurrent, within 5 years of major surrender): 70 pairs
+- Type C (post-surrender): 21 pairs; Indeterminate: 9 pairs
+- Railway data: 428 of 429 municipalities have arrival year
+
+**Issues resolved:**
+- `PRF116` appears in proximity pairs but has no acreage data in `surrenders_long.csv` (master table has no SURR_YYYY entries for this record — it is the -99 sentinel record noted in Phase 0). It is present in the Timeline_Table but absent from Reserve_Reduction_Summary.
+
+---
+
+### Phase 3 — completed 2026-04-02
+Script: `analysis/03_metis_overlap.py`. Output: `analysis/03_metis_results.xlsx`.
+
+**Key findings:**
+- 16 displacement case candidates; 9 confirmed Métis community predated associated municipality
+- 11 road allowance communities profiled from `Metis_RoadAllowance.geojson`
+- Road allowance departure dates cluster 1940–1960 (CCF era); 4 of 11 have no departure year
+- 3 road allowance communities at distance 0 (inside municipal boundaries): Saskatoon, Rosetown, Lebret
+- No clean distance-departure year correlation; CCF removals appear to have operated as a province-wide wave rather than working outward from town centres
+
+**Interpretive context recorded:**
+- `Y_DEPART` nulls for road allowance communities reflect undocumented forced removal (often by burning), not missing data or community persistence
+- Road allowance proximity to municipalities was intentional: kinship networks, communal support, and pre-Depression day labour access
+- The same proximity that made these locations strategically valuable made them administratively visible and financially burdensome to municipalities under the pre-welfare relief system; municipal pressure for a provincial solution was a driver of CCF removal policy
+
+**Issues resolved:**
+- `TYPE` field in `Metis_Community.geojson` contains only `Community` for all 42 records — road allowance communities are in the separate `Metis_RoadAllowance.geojson` layer. Phase 3 loads this directly.
 
 ---
 
@@ -208,9 +258,9 @@ Runs first. Produces clean, analysis-ready versions of all layers. No analysis h
 
 4. Identify overlapping cases: communities where the Métis community name matches or closely corresponds to a municipality name (Regina, Prince Albert, Saskatoon, Battleford, Moose Jaw, Estevan all appear in both datasets). For these, construct a side-by-side timeline: Métis `Y_FOUND`, municipal `founded`, Métis `Y_DEPART`. The pattern of Métis community departure coinciding with or following municipal founding/growth is the displacement signal.
 
-5. Handle the 71 unlocated Métis communities separately. Produce a table with known `LOCATION` text and `TYPE` field for manual georeferencing notes. Flag road allowance communities explicitly — their marginal spatial position is itself evidence of displacement.
+5. Handle the 71 unlocated Métis communities separately. Produce a table with known `LOCATION` text and `TYPE` field for manual georeferencing notes. Flag road allowance communities explicitly.
 
-6. For located road allowance communities, compute distance to nearest municipal boundary and nearest railway line. Road allowance communities by definition formed in the gaps of the survey grid; their distance from municipalities and railways reflects intentional marginalisation.
+6. For located road allowance communities, compute distance to nearest municipal boundary. **Interpretive note:** road allowance proximity to municipalities was intentional — Métis residents chose Crown land margins near towns to maintain kinship networks and access pre-Depression day labour markets. Their location near municipalities should not be described as marginal in a geographic sense; what was marginalised was their legal status and land tenure. The `Y_DEPART` field for road allowance communities records forced removal (communities were often burned by CCF provincial government), not natural dispersal. Null `Y_DEPART` values reflect undocumented removals, not persistence. Departure dates cluster in the CCF era (1940–1960); the removal mechanism was partly driven by municipal financial pressure under the pre-welfare relief system, where municipalities bore responsibility for residents within their boundaries.
 
 7. Save to `analysis/03_metis_results.xlsx` with sheets:
    - `Displacement_Cases` — communities with both Métis presence and municipal overlap, with comparative timeline
@@ -225,7 +275,20 @@ Runs first. Produces clean, analysis-ready versions of all layers. No analysis h
 
 **Purpose:** Produce structured profiles for priority municipalities using all data assembled in Phases 1–3, formatted for qualitative follow-up and potential StoryMap integration.
 
-**Priority cases:** Kamsack, Regina, North Battleford, Prince Albert, Broadview.
+**Priority cases:** Kamsack, Broadview, North Battleford, Prince Albert, Regina, Duck Lake, Fort Qu'Appelle (7 cases — expanded from original 5 following Phase 1–3 results review on 2026-04-02).
+
+**Rationale for additions:**
+- **Duck Lake** — Métis community 1870, municipal founding 1875, Type A against Stoney Knoll (first surrender 1877). Historically significant (1885 Resistance site). Earliest reserve surrender in dataset.
+- **Fort Qu'Appelle** — Strongest documented Métis displacement case: community founded 1870, municipal founding 1880, Y_DEPART 1950 (one of the few communities with a recorded departure year). Confirmed "preceded municipality" and "departed after founding" signals.
+
+**Revised framing by case:**
+- Kamsack → direct geometric overlap + verbatim surrender notes naming the town (strongest evidential case)
+- Broadview → longest pre-emptive temporal gap (+25 to +37 years) + 5 reserves within 25 km
+- North Battleford → 7 reserves within 25 km + Métis community (Battleford, founded 1868) predated municipality by 7 years + railway arrived same year as founding
+- Prince Albert → Métis community predated municipality by 23 years (founded 1862, muni 1885)
+- Regina → 36-year temporal gap (founded 1882, Piapot surrender 1919) — long-established settler pressure argument; weakest spatial proximity of the group (21.5 km)
+- Duck Lake → early Type A + Métis displacement + Stoney Knoll (1877, one of earliest surrenders)
+- Fort Qu'Appelle → clearest Métis displacement arc with documented departure
 
 **Data already confirmed for Kamsack:** Three surrender records within or adjacent to the municipality — Cote (PRQA64, 16,240 acres, 1906, "Surrendered for sale and settlement of Kamsack"), Keeseekoose (PRQA66, 7,600 acres, 1909), and The Key (PRQA65, 11,500 acres, 1909). The Cote surrender note explicitly names Kamsack as the driver — this is the clearest documented case in the dataset.
 
@@ -357,13 +420,15 @@ EPSG:3347 requires pyproj with the PROJ datum grid for Canada. Confirm with:
 
 ## Priority Case Study Quick-Reference
 
-| Municipality | TCPUID | Type | Pop 1921 | Key Reserves in Proximity | Notes |
-|---|---|---|---|---|---|
-| Kamsack | SK179019 | Town | 2,002 | Cote (1906, 16,240 ac), Keeseekoose (1909, 7,600 ac), The Key (1909, 11,500 ac) | Cote surrender note explicitly names Kamsack |
-| Regina | SK176022 | City | 34,432 | TBD from Phase 1 | Métis community present |
-| North Battleford | SK186026 | City | 4,108 | TBD from Phase 1 | Métis: Battleford, Bresaylor, Jackfish Lake |
-| Prince Albert | SK185026 | City | 7,558 | TBD from Phase 1 | Métis community present |
-| Broadview | SK175021 | Town | 839 | TBD from Phase 1 | — |
+| Municipality | TCPUID | Type | Pop 1921 | Key Reserves in Proximity | Temporal signal | Métis |
+|---|---|---|---|---|---|---|
+| Kamsack | SK179019 | Town | 2,002 | Cote (1906, 16,240 ac), Keeseekoose (1909, 7,600 ac), The Key (1909, 11,500 ac) | Overlap; founded 1899, +7–10 yrs before surrender | — |
+| Broadview | SK175021 | Town | 839 | Kahkewistahaw (1907), Ochapowace (1919), Cowessess (1907), Fishing Station (1889) — 5 within 25 km | 1,241 m; founded 1882, railway 1882, +25–37 yrs | — |
+| North Battleford | SK186026 | City | 4,108 | Moosomin, Thunderchild, Grizzly Bear's Head/Lean Man, Mosquito — 7 within 25 km | 9 km; founded 1904, +1–6 yrs before surrender | Battleford community founded 1868, predated muni by 7 yrs |
+| Prince Albert | SK185026 | City | 7,558 | Chakastaypasin (1897) | 17 km; founded 1885, +12 yrs | Community founded 1862, predated muni by 23 yrs |
+| Regina | SK176022 | City | 34,432 | Piapot (1919) | 21.5 km; founded 1882, +36 yrs — long-established pressure | Regina community founded 1882 (same year) |
+| Duck Lake | SK185037 | Town | 437 | Stoney Knoll (1877) | 23.5 km; founded 1875, railway 1890, +2 yrs | Community founded 1870, predated muni by 5 yrs |
+| Fort Qu'Appelle | SK175029 | Village | ~800 | TBD from outputs | TBD | Community founded 1870, muni 1880, Y_DEPART 1950 — clearest displacement arc |
 
 ---
 

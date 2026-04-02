@@ -107,12 +107,14 @@ This subproject examines the spatial relationships between:
 - Road allowance communities as evidence of displacement into marginal Crown land
 
 ### Phase 4 — Case Studies
-Priority cases for qualitative follow-up in corpus (local histories, newspapers):
-1. **Kamsack** — near Cote, Keeseekoose, Key First Nation reserves
-2. **Regina** — Métis community presence + reserve proximity
-3. **North Battleford** — reserve adjacency + Métis communities at Battleford/Bresaylor
-4. **Prince Albert** — major centre with Métis presence
-5. **Broadview** — reserve proximity
+Priority cases for qualitative follow-up in corpus (local histories, newspapers) — expanded to 7 following Phase 1–3 results review:
+1. **Kamsack** — direct geometric overlap with Cote reserve; surrender notes explicitly name Kamsack as driver
+2. **Broadview** — largest pre-emptive temporal gap (+25–37 yrs); 5 reserves within 25 km; railway and founding both 1882
+3. **North Battleford** — 7 reserves within 25 km; Métis community (Battleford) predated municipality by 7 years
+4. **Prince Albert** — Métis community predated municipality by 23 years (founded 1862, muni 1885)
+5. **Regina** — 36-year gap between founding (1882) and Piapot surrender (1919); long-established pressure argument
+6. **Duck Lake** — Type A against Stoney Knoll (1877, earliest surrender in dataset); Métis community 1870; 1885 Resistance site
+7. **Fort Qu'Appelle** — clearest documented Métis displacement arc: community 1870, muni 1880, Y_DEPART 1950
 
 For each: query `Métis_Communities_Research (1).docx` and the graphrag corpus for settler-perspective accounts of land use, encroachment, and the period around formal surrender.
 
@@ -125,9 +127,9 @@ For each: query `Métis_Communities_Research (1).docx` and the graphrag corpus f
 - [x] Repositories initialized: GitHub `jjax07/Sask_Indig_Spatial_Analysis`, GitLab `jjack07/sask_indig_spatial_analysis`
 - [x] Implementation plan written (`plan.md`)
 - [x] Phase 0 — Data preparation complete (`analysis/00_prepare_data.py`)
-- [ ] Phase 1 — Spatial proximity analysis
-- [ ] Phase 2 — Temporal sequencing analysis
-- [ ] Phase 3 — Métis overlap analysis
-- [ ] Phase 4 — Case study builder
+- [x] Phase 1 — Spatial proximity analysis complete (`analysis/01_spatial_proximity.py`)
+- [x] Phase 2 — Temporal sequencing analysis complete (`analysis/02_temporal_sequencing.py`)
+- [x] Phase 3 — Métis overlap analysis complete (`analysis/03_metis_overlap.py`)
+- [ ] Phase 4 — Case study builder (7 cases: Kamsack, Broadview, North Battleford, Prince Albert, Regina, Duck Lake, Fort Qu'Appelle)
 - [ ] Phase 5 — Neo4j enrichment
 - [ ] Case study corpus queries (graphrag / local histories)
