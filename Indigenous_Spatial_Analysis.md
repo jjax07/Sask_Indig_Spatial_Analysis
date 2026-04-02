@@ -159,6 +159,24 @@ For each: query `Métis_Communities_Research (1).docx` and the graphrag corpus f
 
 ---
 
+## Synthesis — How Phases 1–4 and McGuire Fit Together
+
+The quantitative phases establish the structural pattern; McGuire and the case study record fill in the mechanism — specifically the urban-commercial side of it.
+
+**Phase 1 (spatial proximity)** shows that surrendered reserves cluster near urban municipalities and rail lines. This is the *what*. McGuire's three-mechanism railway taxonomy gives it a causal spine: railways generated townsite demand (Type 2, e.g., Kamsack/Cote) or raised land market value that attracted speculation (Type 3, e.g., Broadview/Cowessess, Regina/Muscowpetung). The rail arrival dates in the spatial data now have a documented demand chain behind them.
+
+**Phase 2 (temporal sequencing)** classifies most cases as Type A — municipality predated surrender. The multi-year gaps are not absence of evidence; McGuire's archival record shows they are filled by documented petition cycles. Broadview's 25-year gap (1882–1907) is 1885, 1886, 1891, 1899, 1902, 1904, then surrender. The gap *is* the pressure.
+
+**The urban-commercial network is the analytical core.** What the spatial and temporal data cannot show on their own is that the pressure was organized, town-based, and commercially motivated. McGuire makes this visible:
+- Settler petitions came from named town residents and their MPs (Broadview, Moosomin)
+- Land companies buying surrendered land were composed of town-based actors — local physicians, Indian agents, school principals, Yorkton realtors (Kamsack Land Company)
+- The same individual (Agent Blewett) took the Cote surrenders *and* was a founding director of the company that bought the land, *and* later triggered The Key 1909 surrender
+- Urban newspapers (Winnipeg Free Press) reported reserve openings as fait accompli before formal process — settler anticipation generating settler pressure
+
+**What remains (Phase 5):** The spatial pattern and policy record are established. What is missing is the settler-perspective voice from within the towns — local newspaper accounts, booster literature, petitions in the graphrag corpus. That is where the bottom-up urban experience becomes legible.
+
+---
+
 ## Status
 
 - [x] Data inventory complete
