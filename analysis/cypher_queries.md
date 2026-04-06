@@ -155,6 +155,61 @@ ORDER BY gap_years DESC
 
 ---
 
+## 3a (sensitized). Combined event- and Métis-anchored effective gap
+
+**Requires:** `nearest_metis_y_found` property on Settlement nodes (written by inline enrichment script, 2026-04-06 — 32 nodes updated from `analysis/data/metis_full.csv`).
+
+Computes `effective_start = min(founded, earliest institutional event year, nearest_metis_y_found)` and flags which anchor was determinative (`founded` / `event` / `metis`). Returns all Type A municipalities with `effective_gap > 15`, showing both the formal gap and the corrected gap side by side.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.nearest_surrender_year IS NOT NULL
+  AND s.founded IS NOT NULL
+OPTIONAL MATCH (s)-[:HAD_EVENT]->(e:Event)
+WHERE e.type IN ['founding', 'colonization_company', 'justice_system', 'first_church', 'first_school']
+  AND e.year IS NOT NULL
+WITH s,
+  s.founded                AS formal_founded,
+  s.nearest_surrender_year AS surrender_year,
+  s.nearest_metis_y_found  AS metis_y_found,
+  min(e.year)              AS earliest_event_year
+WITH s, formal_founded, surrender_year, metis_y_found, earliest_event_year,
+  reduce(m = formal_founded, x IN [earliest_event_year, metis_y_found] |
+    CASE WHEN x IS NOT NULL AND x < m THEN x ELSE m END
+  ) AS effective_start,
+  CASE
+    WHEN metis_y_found IS NOT NULL AND
+         (earliest_event_year IS NULL OR metis_y_found <= earliest_event_year) AND
+         metis_y_found < formal_founded
+    THEN 'metis'
+    WHEN earliest_event_year IS NOT NULL AND earliest_event_year < formal_founded
+    THEN 'event'
+    ELSE 'founded'
+  END AS anchor
+WITH s, formal_founded, surrender_year, metis_y_found, earliest_event_year,
+     effective_start, anchor,
+  (surrender_year - formal_founded) AS formal_gap,
+  (surrender_year - effective_start) AS effective_gap
+WHERE effective_gap > 15
+RETURN
+  s.census_name               AS name,
+  formal_founded              AS founded,
+  metis_y_found,
+  earliest_event_year,
+  effective_start,
+  anchor,
+  surrender_year,
+  s.nearest_surrender_reserve AS nearest_reserve,
+  formal_gap,
+  effective_gap,
+  (effective_gap - formal_gap) AS gap_correction
+ORDER BY effective_gap DESC
+LIMIT 35
+```
+
+---
+
 ## 4b. Reserves with multiple surrender events in the Type A set
 
 Checks whether any reserves appear more than once across Type A municipalities — indicating multiple separate surrenders on the same reserve, each correlated with a different wave of settlement. Piapot appeared twice in Query 4a; this query tests whether that pattern occurs elsewhere.
@@ -272,6 +327,36 @@ RETURN
   s.temporal_type            AS surrender_temporal_type,
   s.overlap_with_surrender   AS overlap
 ORDER BY metis_dist_m ASC
+```
+
+---
+
+## 5a. Métis temporal sequence — who predated whom
+
+**Requires:** `nearest_metis_y_found` property on Settlement nodes (written during Query 3a sensitized enrichment, 2026-04-06).
+
+Extends Query 5 by adding `nearest_metis_y_found` and computing the gap between Métis community founding and municipal founding. Classifies each case as `metis_first`, `same_year`, `muni_first`, or `unknown`. Sorted by gap descending so the deepest precedence cases appear first.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.metis_community_present = true
+RETURN
+  s.census_name              AS municipality,
+  s.founded                  AS muni_founded,
+  s.nearest_metis_community  AS metis_community,
+  s.nearest_metis_y_found    AS metis_y_found,
+  s.nearest_metis_dist_m     AS metis_dist_m,
+  s.temporal_type            AS temporal_type,
+  s.overlap_with_surrender   AS overlap,
+  CASE
+    WHEN s.nearest_metis_y_found IS NULL OR s.founded IS NULL THEN 'unknown'
+    WHEN s.nearest_metis_y_found < s.founded THEN 'metis_first'
+    WHEN s.nearest_metis_y_found = s.founded THEN 'same_year'
+    ELSE 'muni_first'
+  END AS sequence
+ORDER BY
+  CASE WHEN s.nearest_metis_y_found IS NULL OR s.founded IS NULL THEN 1 ELSE 0 END,
+  s.founded - s.nearest_metis_y_found DESC
 ```
 
 ---

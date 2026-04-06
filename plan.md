@@ -84,6 +84,16 @@ Script: `analysis/05_neo4j_enrichment.py`. Output: `analysis/05_enrichment_log.x
 
 ---
 
+### Phase 5 enrichment (supplemental) — completed 2026-04-06
+
+**Purpose:** Add `nearest_metis_y_found` to Settlement nodes to support the sensitized Query 3a (combined event- and Métis-anchored effective gap). The base Phase 5 enrichment wrote Métis community name and distance but not founding year.
+
+**Method:** Inline Python script (not a separate file). Read `analysis/data/metis_full.csv`, strip whitespace from `NAME`, build `name → Y_FOUND` lookup preferring non-null values when duplicates exist. Match on `nearest_metis_community` property already on Settlement nodes. Write `nearest_metis_y_found` (int) where Y_FOUND is not null.
+
+**Result:** 32 of 34 Métis-associated Settlement nodes updated. 2 skipped (Leask/Muskeg Lake, Naicam/Archerwill) — null Y_FOUND in source data.
+
+---
+
 ### Phase 3 — completed 2026-04-02
 Script: `analysis/03_metis_overlap.py`. Output: `analysis/03_metis_results.xlsx`.
 
