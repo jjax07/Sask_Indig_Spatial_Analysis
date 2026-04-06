@@ -58,6 +58,32 @@ Script: `analysis/04_case_studies.py`. Outputs: `analysis/case_studies/*.md` (7 
 
 ---
 
+### Phase 5 — completed 2026-04-06
+Script: `analysis/05_neo4j_enrichment.py`. Output: `analysis/05_enrichment_log.xlsx`.
+
+**Result:** 429 Settlement nodes updated in Neo4j with 10 new properties derived from Phases 1–3.
+
+**New properties written:**
+- `min_dist_to_surrender_m`, `nearest_surrender_reserve`, `nearest_surrender_year` — from Phase 1
+- `n_surrenders_5km`, `n_surrenders_25km`, `overlap_with_surrender` — from Phase 1
+- `temporal_type` — from Phase 2; reduced to most pre-emptive type per municipality (priority A > B > C > Indeterminate > none)
+- `metis_community_present`, `nearest_metis_community`, `nearest_metis_dist_m` — from Phase 3
+
+**Key counts:**
+- Temporal Type A (municipality predated surrender): 82
+- Temporal Type B (concurrent ±5 yrs): 27
+- Temporal Type C (post-surrender): 8
+- Municipalities with Métis community association: 34
+- Municipalities with geometric surrender overlap: 6
+- Municipalities beyond 25 km of any surrender (temporal_type = none): 305
+
+**Issues resolved:**
+- `temporal_type` is one-row-per-muni×reserve-pair in Phase 2; reduced by taking the most pre-emptive type across all pairs per municipality.
+- `metis_community_present` derived by grouping Phase 3 `All_Located_Proximity` on `nearest_muni_tcpuid`, supplemented by Displacement_Cases name-match set.
+- Log script had column rename order error (`overlap_flag` renamed to `overlap_with_surrender` in `log` copy before summary referenced `enrichment` original); corrected.
+
+---
+
 ### Phase 3 — completed 2026-04-02
 Script: `analysis/03_metis_overlap.py`. Output: `analysis/03_metis_results.xlsx`.
 

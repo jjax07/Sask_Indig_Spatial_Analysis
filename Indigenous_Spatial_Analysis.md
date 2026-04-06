@@ -188,5 +188,5 @@ The quantitative phases establish the structural pattern; McGuire and the case s
 - [x] Phase 2 — Temporal sequencing analysis complete (`analysis/02_temporal_sequencing.py`)
 - [x] Phase 3 — Métis overlap analysis complete (`analysis/03_metis_overlap.py`)
 - [x] Phase 4 — Case study builder complete (`analysis/04_case_studies.py`, profiles in `analysis/case_studies/`)
-- [ ] Phase 5 — Neo4j enrichment
+- [x] Phase 5 — Neo4j enrichment complete (`analysis/05_neo4j_enrichment.py`, log in `analysis/05_enrichment_log.xlsx`)
 - [ ] Case study corpus queries (graphrag / local histories)
