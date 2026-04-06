@@ -16,9 +16,14 @@ This subproject examines the spatial relationships between:
 **Core argument:** Urban municipalities did not simply occupy empty land — they grew on or adjacent to Indigenous spaces that were systematically reduced through surrender, coercion, and encroachment. The temporal sequence matters: in many cases settler pressure preceded and drove formal surrender rather than following it.
 
 **Theoretical frame:**
-- Paige Raibmon's lens on colonial dispossession — bottom-up settler pressure, ideological privileging of "productive" farming, government accommodation of fait accompli
-- Bill Waiser, *Cheated: First Nations Land Surrenders on the Prairies 1896–1911* — the mechanics of surrender under the Laurier government
-- Peggy Martin-McGuire, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998) — the primary comparative study of all 25 prairie surrenders in this period; confirms and deepens the Waiser frame with archival citations
+- **Paige Raibmon**, "Unmaking Native Space" (in *The Power of Promises*, UW Press, 2008) — provides the foundational analytical method: a *genealogical* approach that traces connections between disparate settler *practices* rather than focusing on formal policy or individual intent. Key concepts:
+  - **Microtechniques of dispossession:** Dispossession was accomplished through the accumulation of mundane, everyday settler acts — no unified conspiracy required. "A coherent white-settler society was not required in order to colonize and dispossess."
+  - **Policy vs. practice:** Settler policy has been well studied; settler *practice* on the ground has been neglected. This project attends to both.
+  - **Timing and geography:** "The precise geography and timing of such incidents could be crucial." The temporal sequencing analysis operationalizes this directly.
+  - **On causality:** "Direct causal connections are not necessary to achieve consequential outcomes" — phenomena can be "inextricably and largely accidentally bound by chronology." Spatial and temporal correlation is analytically meaningful even where direct causation cannot be demonstrated.
+  - **Caveat:** Raibmon's case studies are British Columbia (preemption, water rights, timber). Saskatchewan's mechanism is the Indian Act surrender process. The framework applies; the specific practices differ.
+- **Bill Waiser**, *Cheated: First Nations Land Surrenders on the Prairies 1896–1911* — the mechanics of surrender under the Laurier government
+- **Peggy Martin-McGuire**, *First Nation Land Surrenders on the Prairies, 1896–1911* (Indian Claims Commission, 1998) — the primary comparative study of all 25 prairie surrenders in this period; confirms and deepens the Waiser frame with archival citations; three-mechanism railway taxonomy (right-of-way split; station grounds → townsite; proximity raising market value); petition cycle model
 - Source approach: settler perspectives in newspapers and local histories alongside government policy record; look for evidence of settlers farming reserve land before formal surrender
 
 **Key case studies to pursue:** Kamsack (most obvious — near Cote, Keeseekoose, Key First Nation reserves), Regina, North Battleford, Prince Albert, Broadview. Any municipality with reserves in proximity.
@@ -189,4 +194,8 @@ The quantitative phases establish the structural pattern; McGuire and the case s
 - [x] Phase 3 — Métis overlap analysis complete (`analysis/03_metis_overlap.py`)
 - [x] Phase 4 — Case study builder complete (`analysis/04_case_studies.py`, profiles in `analysis/case_studies/`)
 - [x] Phase 5 — Neo4j enrichment complete (`analysis/05_neo4j_enrichment.py`, log in `analysis/05_enrichment_log.xlsx`)
+- [x] Cypher query analysis underway — queries 1, 2, 2a, 2b, 3, 4, 4a documented with findings (`analysis/cypher_queries.md`, `analysis/cypher_query_findings.md`)
+- [x] Raibmon "Unmaking Native Space" read and incorporated into theoretical frame; findings reinterpreted through genealogical/microtechniques lens
+- [ ] Query 3a — founding-type profiles across long-gap Type A municipalities (drafted, not yet run)
+- [ ] Queries 4b–4e, 5–10 (drafted, not yet run)
 - [ ] Case study corpus queries (graphrag / local histories)
