@@ -1369,3 +1369,195 @@ Only one municipality qualifies — **Regina, C** (pop. 34,432, Type A, nearest 
 **Regina's case cannot be confirmed as an invocation of the amendment.** The Piapot surrender (1919) at 21km distance preceded by Regina's pre-existing Type A status is consistent with the standard pressure-then-surrender pattern. Whether the amendment was formally invoked requires archival investigation of the specific surrender proceedings. This dataset can confirm eligibility, not mechanism.
 
 **This is a meaningful negative finding.** It narrows the analytical argument: Saskatchewan's reserve reduction was driven almost entirely by the informal accumulation of small-settler presence, not by top-down expropriation under federal statute. The Frank Oliver amendment is contextually significant — it reveals federal willingness to formalize dispossession when urban interests demanded it — but it was not the operative mechanism in Saskatchewan during the study period.
+
+---
+
+## Query 8c — Commercial type gradient: average distance to surrendered land by type
+
+**Run:** 2026-04-07
+
+### Results
+
+| Commercial type | n | Avg dist_m | Median dist_m | n Type A | n overlap |
+|---|---|---|---|---|---|
+| Doukhobor Settlement | 1 | 7,535 | 7,535 | 1 | 0 |
+| Jewish Colony | 1 | 7,877 | 7,877 | 1 | 0 |
+| Ukrainian Settlement | 8 | 23,927 | 20,340 | 5 | 0 |
+| Organized/Ethnic Settlement | 83 | 43,390 | 28,533 | 20 | 1 |
+| German Settlement | 57 | 49,058 | 35,685 | 11 | 1 |
+| Local Service Centre | 27 | 49,489 | 34,678 | 6 | 0 |
+| City | 7 | 52,678 | 54,803 | 3 | 0 |
+| Railway Town | 20 | 54,680 | 43,658 | 6 | 1 |
+| Regional Service Centre | 39 | 54,881 | 40,766 | 16 | 1 |
+| Small Service Centre | 356 | 58,994 | 49,710 | 57 | 5 |
+| Farm-Service Town | 136 | 64,189 | 50,021 | 20 | 1 |
+| Farm Cluster | 58 | 67,296 | 58,145 | 6 | 1 |
+| St. Peter's Colony | 5 | 68,053 | 68,444 | 0 | 0 |
+| Dutch/Mennonite Settlement | 3 | 94,097 | 128,054 | 0 | 0 |
+
+### Findings
+
+**The expected gradient did not appear.** The hypothesis going into this query was that farm clusters and ethnic colonies would sit closest to surrendered land and cities furthest — reflecting the two-tier mechanism identified in Query 8. Instead, farm clusters average 67,296m — the furthest of any substantive commercial type — while cities average 52,678m. The gradient is effectively reversed from what was expected.
+
+**The explanation is methodological, not substantive.** Query 8c includes all 429 municipalities regardless of temporal type. Farm clusters have only 6 Type A members out of 58 total; the remaining 52 are in the none group, scattered across the province far from any surrendered land. When those 52 are included, they pull the average far upward. The same applies to Farm-Service Towns (20 Type A out of 136 total).
+
+**The "farm clusters closest" finding from Query 1 is a property of Type A farm clusters specifically.** It does not characterize farm clusters as a commercial type in general. Commercial type alone is not a predictor of proximity to surrendered land. Temporal type — whether the settlement predated the surrender — is the load-bearing variable. Query 8c confirms this by demonstrating that the proximity pattern disappears when you remove the Type A filter.
+
+**The practical implication for the argument:** you cannot look at a farm cluster on a map and infer proximity to surrendered land. You have to know whether it predated a surrender. The commercial type tells you what kind of settlement arrived; the temporal type tells you whether its arrival preceded the dispossession it benefitted from.
+
+---
+
+## Temporal type definitions and benefit mechanisms
+
+The three temporal types classify the relationship between a municipality's founding and the nearest reserve surrender. They are not merely chronological categories — each corresponds to a distinct mechanism by which settler municipalities benefitted from Indigenous land dispossession.
+
+### Type A — Pressure preceding surrender
+**Definition:** The municipality was founded more than 5 years before the nearest reserve surrender.
+**Mechanism:** The municipality's existence — its agricultural activity, infrastructure demand, commercial pressure, and accumulated settler presence — generated the conditions that led to formal surrender. This is Raibmon's "accumulated microtechniques" pattern: no single act of conspiracy, but a colonial genealogy whose weight eventually translated into formal legal dispossession. The municipality benefitted from land that was cleared partly in response to its own presence.
+**Dataset:** 82 municipalities (19% of total). The core evidential set for the "pressure then surrender" argument.
+
+### Type B — Simultaneous arrival
+**Definition:** The municipality was founded within 5 years (before or after) of the nearest reserve surrender.
+**Mechanism:** The municipality arrived simultaneously with the surrender process — either planted in anticipation of a surrender already in negotiation, or established immediately after one. The causal direction is ambiguous without archival evidence: the settlement may have generated rapid surrender pressure, or the surrender may have been arranged in advance to accommodate incoming settlement. In either case the municipality benefitted directly from freshly surrendered land. Type B represents the compressed version of the Type A cycle — the petition-to-surrender window collapsed to near-simultaneity, consistent with the most intense phases of the Sifton-era boom.
+**Dataset:** 27 municipalities (6% of total).
+
+### Type C — Post-surrender settlement
+**Definition:** The municipality was founded more than 5 years after the nearest reserve surrender.
+**Mechanism:** The municipality was established on or adjacent to land that had already been cleared through surrender. Settlers arrived into a landscape already reduced — the dispossession preceded them and was not generated by their presence. Type C municipalities are the most direct beneficiaries of the surrender process in a spatial sense: they were literally built on surrendered land or in the space its removal created. However, they are the weakest cases for the "pressure then surrender" argument because they do not demonstrate causal accumulation. Laird is the clearest example: Mennonite settlers arrived 11 years after Stoney Knoll was surrendered, onto land already cleared.
+**Dataset:** 8 municipalities (2% of total).
+
+### Implications for query design
+Each type suggests a different evidential approach:
+- **Type A** queries should focus on temporal gap, institutional depth, railway sequence, and Métis co-presence — building the accumulation argument
+- **Type B** queries should focus on simultaneity, railway arrival dates, and whether the surrender preceded or followed the townsite survey — testing the "anticipated surrender" hypothesis
+- **Type C** queries should focus on the gap between surrender and founding, and on what land-use changes occurred in the interval — documenting direct absorption of surrendered land into settler space
+
+---
+
+## Query 11a — Type B municipalities: compressed pressure or anticipated surrender?
+
+**Run:** 2026-04-07
+
+### Results
+
+| Name | Founded | Railway year | Railway | Surrender year | Reserve | n_25km | dist_m | Métis | Found→surrender | Rail→surrender |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Wakaw, VL | 1903 | 1912 | GTPR | 1899 | One Arrow | 1 | 19,074 | No | −4 | −13 |
+| Springwater, VL | 1911 | 1913 | GTPR | 1908 | Swan Lake | 1 | 23,630 | No | −3 | −5 |
+| Tramping Lake, VL | 1912 | 1913 | CPR | 1908 | Swan Lake | 1 | 11,902 | No | −4 | −5 |
+| Handel, VL | 1912 | 1912 | CPR | 1908 | Swan Lake | 1 | 591 | No | −4 | −4 |
+| Kelfield, VL | 1911 | 1912 | CPR | 1908 | Swan Lake | 1 | 12,778 | No | −3 | −4 |
+| Leipzig, VL | null | 1912 | CPR | 1908 | Swan Lake | 1 | 7,533 | No | null | −4 |
+| Heward, VL | null | 1904 | CPR | 1901 | Ocean Man | 2 | 19,866 | No | null | −3 |
+| Kisbey, VL | 1904 | 1904 | CPR | 1901 | Ocean Man | 2 | 12,062 | No | −3 | −3 |
+| Stoughton, VL | 1901 | 1904 | CPR | 1901 | Ocean Man | 2 | 14,360 | No | 0 | −3 |
+| Wilkie, T-V | 1907 | 1908 | CPR | 1905 | Grizzly Bear's Head | 1 | 19,104 | No | −2 | −3 |
+| Rock Haven, VL | 1912 | 1911 | GTPR | 1908 | Thunderchild | 1 | 23,686 | No | −4 | −3 |
+| Beatty, VL | 1907 | 1905 | CNoR | 1902 | Cumberland | 1 | 2,262 | No | −5 | −3 |
+| Kinistino, VL | 1905 | 1905 | CNoR | 1902 | Cumberland | 1 | 7,311 | No | −3 | −3 |
+| Weldon, VL | 1905 | 1905 | CNoR | 1902 | Cumberland | 2 | 14,564 | Yes | −3 | −3 |
+| Denholm, VL | null | 1913 | CNoR | 1910 | Grizzly Bear's Head | 3 | 20,956 | No | null | −3 |
+| Meota, VL | null | 1911 | CNoR | 1908 | Thunderchild | 4 | 8,139 | Yes | null | −3 |
+| Vawn, VL | null | 1911 | CNoR | 1908 | Thunderchild | 3 | 17,970 | No | null | −3 |
+| Kendal, VL | 1907 | 1907 | CNoR | 1905 | Carry The Kettle | 1 | 2,487 | No | −2 | −2 |
+| Odessa, VL | 1907 | 1907 | CNoR | 1905 | Carry The Kettle | 1 | 12,607 | No | −2 | −2 |
+| Hyas, VL | 1910 | 1910 | CNoR | 1909 | The Key | 2 | 10,171 | No | −1 | −1 |
+| Norquay, VL | null | 1910 | CNoR | 1909 | The Key | 2 | 9,786 | No | null | −1 |
+| Sturgis, VL | null | 1910 | CNoR | 1909 | The Key | 1 | 24,692 | No | null | −1 |
+| Elfros, VL | 1906 | 1908 | CPR | 1907 | Fishing Lake | 2 | 15,699 | No | +1 | −1 |
+| Bangor, VL | 1907 | 1907 | GTPR | 1907 | Little Bone | 1 | 23,032 | No | 0 | 0 |
+| Cavell, VL | null | 1908 | GTPR | 1908 | Swan Lake | 1 | 17,520 | No | null | 0 |
+| Wadena, T-V | 1904 | 1905 | CNoR | 1907 | Fishing Lake | 2 | 5,551 | No | +3 | +2 |
+| Leross, VL | 1908 | 1908 | GTPR | 1920 | Muskowekwan | 3 | 1,941 | No | +12 | +12 |
+
+*Negative values = railway/founding came after the surrender. Positive values = railway/founding came before.*
+
+### Findings
+
+**Type B is predominantly post-surrender colonization, not anticipated surrender.** The majority of Type B municipalities show negative `found_to_surrender_yrs` — they were founded *after* the nearest surrender, not before it. The "anticipated surrender" hypothesis, where towns were planted in advance of a pre-arranged land clearance, is not the dominant pattern. Instead, Type B looks more like **rapid post-surrender colonization**: the surrender cleared the land, and settlers and infrastructure followed quickly.
+
+**Railway also arrived after the surrender in most cases.** Most `rail_to_surrender_yrs` values are negative — the railway came after the surrender, not before. This is the reverse of the Type A pattern identified in Queries 4 and 7a, where railway preceded surrender in every resolvable case. For Type B, the sequence is often: surrender → settlement → railway, not railway → settlement → surrender.
+
+**The Swan Lake cluster is the clearest example.** Swan Lake reserve surrendered in 1908. Five villages — Springwater, Tramping Lake, Handel, Kelfield, Leipzig — were planted in 1911–1912, and the CPR and GTPR arrived in 1912–1913. The land was cleared first; the towns and railway followed as a package within 4–5 years. This is colonial infrastructure responding to already-cleared land, not generating the conditions for clearance.
+
+**Leross is the outlier.** Founded 1908, surrender 1920, gap +12 years — Leross behaves like a Type A municipality. It was planted 12 years before the Muskowekwan surrender and sits at 1,941m from the reserve. Its Type B classification may reflect a data issue or a misalignment between its nearest surrender pairing and its actual pressure history.
+
+**Weldon and Meota are the only Type B municipalities with Métis presence.** Both are near reserves that also appear in the Type A Métis co-presence set (Cumberland and Thunderchild), suggesting the Métis displacement in these zones was already underway when the Type B settlements arrived.
+
+---
+
+## Query 11b — Type C municipalities: post-surrender absorption profile
+
+**Run:** 2026-04-07
+
+### Results
+
+| Name | Surrender year | Founded | Years after | Reserve | dist_m | Métis | Métis y_found | Railway | Rail year |
+|---|---|---|---|---|---|---|---|---|---|
+| Hague, VL | 1897 | 1898 | 1 | Stoney Knoll | 22,890 | No | — | QLSRSC | 1890 |
+| Birch Hills, VL | 1897 | 1903 | 6 | Chakastaypasin | 4,661 | Yes | 1880 | CNoR | 1905 |
+| Hepburn, VL | 1897 | 1908 | 11 | Stoney Knoll | 18,335 | No | — | CNoR | 1910 |
+| Laird, VL | 1897 | 1908 | 11 | Stoney Knoll | 0 | No | — | CNoR | 1910 |
+| Domremy, VL | 1899 | 1913 | 14 | One Arrow | 15,675 | Yes | 1880 | GTPR | 1914 |
+| Kennedy, VL | 1901 | null | null | Pheasant's Rump | 24,563 | No | — | CPR | 1906 |
+| Kuroki, VL | 1907 | null | null | Fishing Lake | 4,922 | No | — | CNoR | 1905 |
+| Waldheim, VL | 1897 | null | null | Stoney Knoll | 7,710 | No | — | CNoR | 1910 |
+
+### Findings
+
+**Stoney Knoll dominates the Type C set.** 4 of 8 Type C municipalities — Hague, Hepburn, Laird, Waldheim — are nearest to Stoney Knoll, surrendered in 1897. Three are explicitly Mennonite settlements (Hague, Hepburn, Waldheim); Laird is also a Mennonite ethnic colony. The Stoney Knoll surrender effectively opened a corridor that was colonized primarily by Mennonite settlers over the following decade.
+
+**Hague is the most rapid post-surrender settlement in the dataset.** Founded 1898, one year after the Stoney Knoll surrender, on the QLSRSC line (railway predating the surrender by 7 years). The Hague-Osler Mennonite Reserve was established in 1895 — two years before the surrender — meaning Mennonite land allocation was being arranged in the same period that Stoney Knoll was being surrendered. The proximity in time raises questions about whether the Mennonite settlement was coordinated with or enabled by the surrender process.
+
+**Two Type C municipalities show Métis presence — the three-layer sequence.** Birch Hills (Chakastaypasin, surrendered 1897, Métis community founded 1880) and Domremy (One Arrow, surrendered 1899, Métis community founded 1880) both have Métis communities that predate both the surrender and the municipal founding. The sequence in both cases: Métis community established → reserve surrendered → municipality founded on the cleared land. This is three distinct layers of dispossession operating on the same geographic space.
+
+**Birch Hills has pre-municipal settlement depth.** The event note records nearby settlement at Harperview from 1884 and a school established there in 1894 — 13 years before the municipal founding in 1903 and nearly a decade before the surrender (1897). The formal founding date understates the actual colonial presence, consistent with the sensitized gap methodology applied in Query 3a.
+
+---
+
+## Query 11c — Cross-type: A, B, and C municipalities nearest the same reserve
+
+**Run:** 2026-04-07
+
+Three reserves attracted municipalities of all three temporal types; nine more attracted two types.
+
+### Reserves with all three types (A, B, C)
+
+**Fishing Lake** (surrendered 1907, 5 municipalities)
+- Type A: Foam Lake (founded 1882, 25-year pre-surrender presence), Margo (1903)
+- Type B: Wadena (1904), Elfros (1906)
+- Type C: Kuroki (null founded)
+Foam Lake's 1882 founding — 25 years before the Fishing Lake surrender — is the longest pre-surrender gap in the cross-type set. The full sequence spans over three decades.
+
+**One Arrow** (surrendered 1899, 3 municipalities)
+- Type A: Duck Lake (founded 1875, Métis present, NWMP/HBC presence)
+- Type B: Wakaw (1903)
+- Type C: Domremy (1913, Métis present)
+Duck Lake's 1875 founding gives a 24-year pre-surrender gap. Both the Type A and Type C municipalities have Métis communities present, linking the pre-surrender and post-surrender phases through continuous Métis displacement.
+
+**Stoney Knoll** (surrendered 1897, 5 municipalities)
+- Type A: Rosthern (founded 1893, Métis present)
+- Type C: Hague (1898), Hepburn (1908), Laird (1908), Waldheim (null) — all Mennonite
+Stoney Knoll is the most analytically complete case in the dataset. Rosthern's presence (with Métis co-presence) preceded and contributed to the surrender. Then four Mennonite colonies arrived on the cleared land over the following decade. The full colonial sequence — pre-existing settler accumulation with Métis displacement, formal surrender, post-surrender ethnic colony planting — is visible in a single reserve's history.
+
+### Reserves with two types
+
+| Reserve | Surrender | Types | Key municipalities |
+|---|---|---|---|
+| Swan Lake | 1908 | A, B | Landis (A, Métis), 5× Type B post-surrender villages |
+| Ocean Man | 1901 | A, B | Arcola/Forget (A), Heward/Kisbey/Stoughton (B) |
+| Carry The Kettle | 1905 | A, B | Wolseley/Sintaluta/Montmartre (A, 1881–1893), Kendal/Odessa (B) |
+| The Key | 1909 | A, B | Canora/Stenen (A), Hyas/Norquay/Sturgis (B) |
+| Little Bone | 1907 | A, B | Yorkton/Saltcoats/Melville (A), Bangor (B) |
+| Muskowekwan | 1920 | A, B | Kelliher/Lestock/Jasmin (A), Leross (B) |
+| Thunderchild | 1908 | A, B | Delmas (A, Métis, overlap), Rock Haven/Meota/Vawn (B) |
+| Cumberland | 1902 | A, B | Melfort (A), Beatty/Kinistino/Weldon (B) |
+| Chakastaypasin | 1897 | A, C | Prince Albert (A, Métis), Birch Hills (C, Métis) |
+
+### Synthesis
+
+**The cross-type data reveals that reserve surrenders attracted layered waves of settlement** — not a single moment of colonization but an ongoing process extending before and after the formal surrender date. The Type A settlements generated the conditions for surrender; Type B settlements arrived in the immediate aftermath; Type C settlements filled in the landscape over the following years and decades. Each layer represents a distinct phase of benefit from the same act of dispossession.
+
+**The Stoney Knoll and One Arrow cases show that Métis displacement runs through all phases.** In both, Métis communities are present at the Type A stage (pre-surrender) and again at the Type C stage (post-surrender). The formal surrender is the pivot point, but the Métis displacement it connects to predates the surrender by decades and continues after it.
+
+**The Thunderchild case links the cross-type findings to the case study set.** Delmas (Type A, overlap, Métis present) is the pre-surrender anchor; Rock Haven, Meota, and Vawn are the Type B post-surrender arrivals. The analysis of Delmas as a case study is therefore not just the story of a single settlement — it is the leading edge of a colonization wave that continued after the 1908 surrender.

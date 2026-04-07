@@ -635,3 +635,93 @@ RETURN
   s.metis_community_present AS metis_present
 ORDER BY s.population_1921 DESC
 ```
+
+---
+
+## 11a. Type B municipalities — compressed pressure or anticipated surrender?
+
+For each Type B municipality, surfaces the gaps between railway arrival, founding, and surrender to distinguish two sub-patterns: (1) compressed Type A — railway arrives, town founded, surrender follows rapidly; (2) anticipated surrender — town and surrender arrive simultaneously, suggesting the surrender was pre-arranged to accommodate incoming settlement. Ordered by rail-to-surrender gap ascending to surface the most simultaneous cases first.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'B'
+  AND s.nearest_surrender_year IS NOT NULL
+OPTIONAL MATCH (s)-[:IS_TYPE]->(ct:SettlementType)
+RETURN
+  s.census_name                                         AS name,
+  s.founded                                             AS founded,
+  s.railway_arrives                                     AS railway_year,
+  s.first_railway                                       AS railway,
+  s.nearest_surrender_year                              AS surrender_year,
+  s.nearest_surrender_reserve                           AS reserve,
+  s.n_surrenders_25km                                   AS n_25km,
+  s.min_dist_to_surrender_m                             AS dist_m,
+  s.metis_community_present                             AS metis_present,
+  (s.nearest_surrender_year - s.founded)                AS found_to_surrender_yrs,
+  (s.nearest_surrender_year - s.railway_arrives)        AS rail_to_surrender_yrs,
+  collect(DISTINCT ct.name)                             AS commercial_types
+ORDER BY rail_to_surrender_yrs ASC
+```
+
+---
+
+## 11b. Type C municipalities — post-surrender absorption profile
+
+Full profile of all Type C municipalities: how long after the surrender each was founded, whether Métis communities were present (testing the three-layer sequence: surrender → Métis displacement → municipal founding), and what institutional events appear in the record. Ordered by years-after-surrender ascending to show the most rapid post-surrender settlements first.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'C'
+  AND s.nearest_surrender_year IS NOT NULL
+OPTIONAL MATCH (s)-[:IS_TYPE]->(ct:SettlementType)
+OPTIONAL MATCH (s)-[:HAD_EVENT]->(e:Event)
+WHERE e.type IN ['founding', 'colonization_company', 'first_church', 'first_school']
+  AND e.year IS NOT NULL
+RETURN
+  s.census_name                                         AS name,
+  s.nearest_surrender_year                              AS surrender_year,
+  s.founded                                             AS founded,
+  (s.founded - s.nearest_surrender_year)                AS years_after_surrender,
+  s.nearest_surrender_reserve                           AS reserve,
+  s.min_dist_to_surrender_m                             AS dist_m,
+  s.metis_community_present                             AS metis_present,
+  s.nearest_metis_y_found                               AS metis_y_found,
+  s.first_railway                                       AS railway,
+  s.railway_arrives                                     AS railway_year,
+  collect(DISTINCT ct.name)                             AS commercial_types,
+  collect(DISTINCT toString(e.year) + ': ' + e.context)[..3] AS key_events
+ORDER BY years_after_surrender ASC
+```
+
+---
+
+## 11c. Cross-type — A, B, and C municipalities nearest the same reserve
+
+Identifies reserves that attracted municipalities of more than one temporal type — showing all three benefit mechanisms (pressure, simultaneity, absorption) operating on the same piece of land at different moments. Ordered by number of distinct types present, then by total municipality count.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type IN ['A', 'B', 'C']
+  AND s.nearest_surrender_reserve IS NOT NULL
+WITH s.nearest_surrender_reserve  AS reserve,
+     s.nearest_surrender_year     AS surrender_year,
+     collect({
+       name:         s.census_name,
+       type:         s.temporal_type,
+       founded:      s.founded,
+       dist_m:       s.min_dist_to_surrender_m,
+       railway:      s.first_railway,
+       railway_year: s.railway_arrives,
+       metis:        s.metis_community_present
+     })                           AS municipalities,
+     collect(DISTINCT s.temporal_type) AS types_present,
+     count(s)                     AS n_municipalities
+WHERE size(types_present) >= 2
+RETURN
+  reserve,
+  surrender_year,
+  types_present,
+  n_municipalities,
+  municipalities
+ORDER BY size(types_present) DESC, n_municipalities DESC
+```
