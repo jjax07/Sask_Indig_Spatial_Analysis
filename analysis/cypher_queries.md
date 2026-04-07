@@ -386,21 +386,70 @@ ORDER BY s.n_surrenders_25km DESC
 
 Full event and railway context for municipalities whose 1921 polygon geometry overlaps with surrendered reserve land. These are the strongest spatial cases: surrendered land was directly incorporated into municipal territory.
 
+**Note:** Railway data is stored as direct properties on Settlement nodes, not reliably via `SERVED_BY` relationships. Use `s.first_railway` and `s.railway_arrives`.
+
 ```cypher
 MATCH (s:Settlement)
 WHERE s.overlap_with_surrender = true
 OPTIONAL MATCH (s)-[:IS_TYPE]->(ct:SettlementType)
 OPTIONAL MATCH (s)-[:HAD_EVENT]->(e:Event)
-OPTIONAL MATCH (s)-[:SERVED_BY]->(r:RailwayLine)
+WITH s, ct, e
+WITH s,
+  collect(DISTINCT ct.name)                                        AS commercial_types,
+  collect(DISTINCT toString(e.year) + ': ' + e.context)[..5]      AS events
 RETURN
-  s.census_name             AS name,
-  ct.name                   AS commercial_type,
+  s.census_name               AS name,
+  commercial_types,
   s.nearest_surrender_reserve AS reserve,
-  s.nearest_surrender_year  AS surrender_year,
-  s.temporal_type           AS temporal_type,
-  s.metis_community_present AS metis_present,
-  collect(DISTINCT toString(e.year) + ': ' + e.context)[..5] AS events,
-  collect(DISTINCT r.builder_name) AS railways
+  s.nearest_surrender_year    AS surrender_year,
+  s.temporal_type             AS temporal_type,
+  s.metis_community_present   AS metis_present,
+  s.first_railway             AS railway,
+  s.railway_arrives           AS rail_year,
+  events
+```
+
+---
+
+## 7a. Overlap cases — cross-query synthesis profile
+
+Pulls together all analytically relevant properties for the 6 geometric overlap municipalities in a single row per settlement: effective presence (corrected for institutional events and Métis founding), formal and effective gaps, railway gap, and surrender density. Purpose: to enable side-by-side comparison of the mechanisms operating across the overlap set and support the unified dispossession argument.
+
+**Note:** `effective_start` uses `min(founded, earliest institutional event year, nearest_metis_y_found)`. Leask has null `founded` and null `nearest_metis_y_found`; its effective_start is anchored to the earliest event year (1912), which postdates its surrender (1911) — a data gap, not an analytical finding. Leask's Type A classification was assigned in Phase 2 from criteria not fully captured in the `founded` property.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.overlap_with_surrender = true
+OPTIONAL MATCH (s)-[:HAD_EVENT]->(e:Event)
+WHERE e.type IN ['founding', 'colonization_company', 'justice_system', 'first_church', 'first_school']
+  AND e.year IS NOT NULL
+WITH s, min(e.year) AS earliest_event_year
+WITH s, earliest_event_year,
+  [x IN [s.founded, earliest_event_year, s.nearest_metis_y_found] WHERE x IS NOT NULL] AS anchors
+WITH s, earliest_event_year,
+  CASE WHEN size(anchors) > 0
+    THEN reduce(m = anchors[0], x IN anchors | CASE WHEN x < m THEN x ELSE m END)
+    ELSE null END AS effective_start
+RETURN
+  s.census_name               AS name,
+  s.temporal_type             AS temporal_type,
+  s.founded                   AS founded,
+  s.nearest_metis_y_found     AS metis_y_found,
+  earliest_event_year,
+  effective_start,
+  s.nearest_surrender_year    AS surrender_year,
+  (s.nearest_surrender_year - s.founded)        AS formal_gap,
+  (s.nearest_surrender_year - effective_start)  AS effective_gap,
+  s.first_railway             AS railway,
+  s.railway_arrives           AS rail_year,
+  (s.nearest_surrender_year - s.railway_arrives) AS rail_gap,
+  s.nearest_surrender_reserve AS reserve,
+  s.n_surrenders_5km          AS n_5km,
+  s.n_surrenders_25km         AS n_25km,
+  s.metis_community_present   AS metis_present,
+  s.nearest_metis_community   AS metis_community,
+  s.nearest_metis_dist_m      AS metis_dist_m
+ORDER BY s.nearest_surrender_year ASC
 ```
 
 ---
@@ -412,7 +461,7 @@ Filters to higher-tier settlements (RSC/LSC commercial types) where settler pres
 ```cypher
 MATCH (s:Settlement)-[:IS_TYPE]->(ct:SettlementType)
 WHERE s.temporal_type = 'A'
-  AND ct.name IN ['RSC', 'LSC']
+  AND ct.name IN ['Regional Service Centre', 'Local Service Centre', 'City']
 RETURN
   s.census_name             AS name,
   ct.name                   AS commercial_type,
@@ -422,6 +471,129 @@ RETURN
   s.min_dist_to_surrender_m AS dist_m,
   s.metis_community_present AS metis_present
 ORDER BY s.n_surrenders_25km DESC, s.min_dist_to_surrender_m ASC
+```
+
+---
+
+## 8a. Indirect benefit — geographic hinterland density around RSC/LSC settlements
+
+Tests the indirect benefit chain geographically: rather than measuring an RSC's own distance to surrendered land, counts the Type A farm clusters and small villages within 50km whose presence near surrendered land generated the agricultural hinterland from which larger centres drew commercial benefit. A high hinterland count indicates the RSC sat at the hub of a dispossession frontier, even if it did not sit on surrendered land itself.
+
+**Note:** This query approximates hinterland proximity using the Haversine formula on latitude/longitude properties. It does not use graph relationships between settlements — it computes point-to-point distance between all RSC/LSC nodes and all Type A small-settlement nodes.
+
+```cypher
+MATCH (hub:Settlement)-[:IS_TYPE]->(hub_ct:SettlementType)
+WHERE hub.temporal_type = 'A'
+  AND hub_ct.name IN ['Regional Service Centre', 'Local Service Centre', 'City']
+MATCH (sat:Settlement)-[:IS_TYPE]->(sat_ct:SettlementType)
+WHERE sat.temporal_type = 'A'
+  AND sat_ct.name IN ['Farm Cluster', 'Farm-Service Town', 'Small Service Centre',
+                      'Railway Town', 'Organized/Ethnic Settlement']
+  AND sat.census_name <> hub.census_name
+WITH hub, sat,
+  point.distance(
+    point({latitude: hub.latitude, longitude: hub.longitude}),
+    point({latitude: sat.latitude, longitude: sat.longitude})
+  ) AS dist_m
+WHERE dist_m <= 50000
+WITH hub,
+  count(sat)                    AS n_type_a_satellites,
+  round(avg(sat.min_dist_to_surrender_m)) AS avg_satellite_dist_to_surrender_m,
+  collect(sat.census_name)[..8] AS satellite_sample
+RETURN
+  hub.census_name               AS hub,
+  hub.min_dist_to_surrender_m   AS hub_dist_to_surrender_m,
+  n_type_a_satellites,
+  avg_satellite_dist_to_surrender_m,
+  satellite_sample
+ORDER BY n_type_a_satellites DESC
+```
+
+---
+
+## 8b. Indirect benefit — railway-mediated hinterland around RSC/LSC settlements
+
+Tests the same indirect benefit chain through the railway network rather than raw geography. Identifies RSC/LSC settlements that share a railway line (via `first_railway` property) with Type A farm clusters and small settlements near surrendered land. The railway is the mechanism through which agricultural surplus, commercial traffic, and population growth were transferred from the dispossession frontier to the larger service centres.
+
+**Note:** Uses `first_railway` as a proxy for shared corridor — settlements served by the same company on the same general line. This is an approximation; settlements served by the same company but on different branch lines may be grouped together.
+
+```cypher
+MATCH (hub:Settlement)-[:IS_TYPE]->(hub_ct:SettlementType)
+WHERE hub.temporal_type = 'A'
+  AND hub_ct.name IN ['Regional Service Centre', 'Local Service Centre', 'City']
+  AND hub.first_railway IS NOT NULL
+MATCH (sat:Settlement)-[:IS_TYPE]->(sat_ct:SettlementType)
+WHERE sat.temporal_type = 'A'
+  AND sat_ct.name IN ['Farm Cluster', 'Farm-Service Town', 'Small Service Centre',
+                      'Railway Town', 'Organized/Ethnic Settlement']
+  AND sat.first_railway = hub.first_railway
+  AND sat.census_name <> hub.census_name
+  AND sat.min_dist_to_surrender_m IS NOT NULL
+RETURN
+  hub.census_name               AS hub,
+  hub.first_railway             AS railway,
+  hub.min_dist_to_surrender_m   AS hub_dist_to_surrender_m,
+  count(sat)                    AS n_railway_satellites,
+  round(avg(sat.min_dist_to_surrender_m)) AS avg_satellite_dist_to_surrender_m,
+  min(sat.min_dist_to_surrender_m)        AS min_satellite_dist_m,
+  collect(sat.census_name)[..8] AS satellite_sample
+ORDER BY n_railway_satellites DESC
+```
+
+---
+
+## 8c. Commercial type gradient — average distance to surrendered land by type
+
+Formal confirmation of the distance gradient across all commercial types. Returns average and median distance to the nearest surrendered parcel for every commercial type in the dataset, making the two-tier mechanism argument — farm clusters needed direct land access, larger centres benefited indirectly — visible in a single table.
+
+```cypher
+MATCH (s:Settlement)-[:IS_TYPE]->(ct:SettlementType)
+WHERE s.min_dist_to_surrender_m IS NOT NULL
+WITH ct.name AS commercial_type,
+  count(s)                              AS n,
+  round(avg(s.min_dist_to_surrender_m)) AS avg_dist_m,
+  round(percentileCont(s.min_dist_to_surrender_m, 0.5)) AS median_dist_m,
+  min(s.min_dist_to_surrender_m)        AS min_dist_m,
+  max(s.min_dist_to_surrender_m)        AS max_dist_m,
+  sum(CASE WHEN s.temporal_type = 'A' THEN 1 ELSE 0 END) AS n_type_a,
+  sum(CASE WHEN s.overlap_with_surrender THEN 1 ELSE 0 END) AS n_overlap
+RETURN commercial_type, n, avg_dist_m, median_dist_m, min_dist_m, max_dist_m, n_type_a, n_overlap
+ORDER BY avg_dist_m ASC
+```
+
+---
+
+## 8d. RSC/LSC settlements with highest farm-cluster hinterland density
+
+Identifies which RSC/LSC/City settlements have the greatest concentration of Type A small settlements within 50km, regardless of how close those satellites sit to surrendered land. Where 8a asks "how close to surrendered land were the satellites?", this asks "which RSCs commanded the densest agricultural hinterlands?" — directly testing the "RSC as service hub for the dispossession frontier" framing. Battleford is the expected leader given Query 6 findings, but this query surfaces the full ranking.
+
+```cypher
+MATCH (hub:Settlement)-[:IS_TYPE]->(hub_ct:SettlementType)
+WHERE hub_ct.name IN ['Regional Service Centre', 'Local Service Centre', 'City']
+  AND hub.latitude IS NOT NULL
+MATCH (sat:Settlement)-[:IS_TYPE]->(sat_ct:SettlementType)
+WHERE sat.temporal_type = 'A'
+  AND sat_ct.name IN ['Farm Cluster', 'Farm-Service Town', 'Small Service Centre',
+                      'Railway Town', 'Organized/Ethnic Settlement']
+  AND sat.census_name <> hub.census_name
+  AND sat.latitude IS NOT NULL
+WITH hub, sat,
+  point.distance(
+    point({latitude: hub.latitude, longitude: hub.longitude}),
+    point({latitude: sat.latitude, longitude: sat.longitude})
+  ) AS dist_m
+WHERE dist_m <= 50000
+WITH hub,
+  count(sat)                    AS n_type_a_satellites,
+  collect(sat.census_name)[..8] AS satellite_sample
+RETURN
+  hub.census_name               AS hub,
+  hub.temporal_type             AS hub_temporal_type,
+  hub.min_dist_to_surrender_m   AS hub_dist_to_surrender_m,
+  n_type_a_satellites,
+  satellite_sample
+ORDER BY n_type_a_satellites DESC
+LIMIT 20
 ```
 
 ---

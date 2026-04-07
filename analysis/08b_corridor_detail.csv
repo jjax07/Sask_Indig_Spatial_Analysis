@@ -1,0 +1,94 @@
+hub,hub_dist_to_surrender,hub_railway,satellite,sat_dist_to_surrender,sat_railway,method
+"Arcola, T-V",15960.9,CPR,"Forget, VL",11112.9,CPR,borealis
+"Broadview, T-V",1240.7,CPR,"Summerberry, VL",17247.0,CPR,fallback
+"Grenfell, T-V",6483.3,CPR,"Broadview, T-V",1240.7,CPR,borealis
+"Grenfell, T-V",6483.3,CPR,"Grayson, VL",12480.0,CPR,fallback
+"Grenfell, T-V",6483.3,CPR,"Killaly, VL",19775.8,CPR,fallback
+"Grenfell, T-V",6483.3,CPR,"Summerberry, VL",17247.0,CPR,borealis
+"Grenfell, T-V",6483.3,CPR,"Indian Head, T-V",22364.0,CPR,borealis
+"Grenfell, T-V",6483.3,CPR,"Sintaluta, T-V",19289.5,CPR,borealis
+"Melville, T-V",19350.2,GTPR,"Birmingham, VL",22575.7,GTPR,borealis
+"Melville, T-V",19350.2,GTPR,"Duff, VL",19279.0,GTPR,borealis
+"Melville, T-V",19350.2,GTPR,"Fenwood, VL",14527.1,GTPR,borealis
+"Melville, T-V",19350.2,GTPR,"Goodeve, VL",4902.1,GTPR,borealis
+"Melville, T-V",19350.2,GTPR,"Hubbard, VL",8124.9,GTPR,borealis
+"Melville, T-V",19350.2,GTPR,"Ituna, VL",12457.2,GTPR,borealis
+"Whitewood, T-V",6424.3,CPR,"Broadview, T-V",1240.7,CPR,borealis
+"Wolseley, T-V",14394.8,CPR,"Summerberry, VL",17247.0,CPR,borealis
+"Wolseley, T-V",14394.8,CPR,"Indian Head, T-V",22364.0,CPR,borealis
+"Wolseley, T-V",14394.8,CPR,"Sintaluta, T-V",19289.5,CPR,borealis
+"Regina, C",21517.5,CPR,"Balgonie, T-V",18798.5,CPR,borealis
+"Regina, C",21517.5,CPR,"Indian Head, T-V",22364.0,CPR,borealis
+"Regina, C",21517.5,CPR,"Lumsden, T-V",16572.8,QLSRSC,borealis
+"Regina, C",21517.5,CPR,"B— Say— Tah, VL",5900.5,GTPR,borealis
+"Regina, C",21517.5,CPR,"Craven, VL",14023.3,QLSRSC,borealis
+"Regina, C",21517.5,CPR,"Edenwold, VL",6884.1,GTPR,borealis
+"Regina, C",21517.5,CPR,"Fort Qu'Appelle, VL",8216.4,GTPR,borealis
+"Regina, C",21517.5,CPR,"Lebret, VL",14957.5,GTPR,borealis
+"Regina, C",21517.5,CPR,"McLean, VL",16437.7,CPR,borealis
+"Regina, C",21517.5,CPR,"Montmartre, VL",6516.5,CNoR,borealis
+"Regina, C",21517.5,CPR,"North Regina, VL",21156.3,CPR,borealis
+"Regina, C",21517.5,CPR,"Pilot Butte, VL",19359.5,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"Summerberry, VL",17247.0,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"Balgonie, T-V",18798.5,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"Sintaluta, T-V",19289.5,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"McLean, VL",16437.7,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"North Regina, VL",21156.3,CPR,borealis
+"Indian Head, T-V",22364.0,CPR,"Pilot Butte, VL",19359.5,CPR,borealis
+"Lumsden, T-V",16572.8,QLSRSC,"Bethune, VL",15615.6,QLSRSC,borealis
+"Lumsden, T-V",16572.8,QLSRSC,"Craven, VL",14023.3,QLSRSC,borealis
+"Lumsden, T-V",16572.8,QLSRSC,"Disley, VL",16285.3,QLSRSC,borealis
+"Lumsden, T-V",16572.8,QLSRSC,"North Regina, VL",21156.3,CPR,borealis
+"Qu'Appelle, T-V",13027.3,CPR,"Balgonie, T-V",18798.5,CPR,borealis
+"Qu'Appelle, T-V",13027.3,CPR,"Indian Head, T-V",22364.0,CPR,borealis
+"Qu'Appelle, T-V",13027.3,CPR,"Sintaluta, T-V",19289.5,CPR,fallback
+"Qu'Appelle, T-V",13027.3,CPR,"McLean, VL",16437.7,CPR,borealis
+"Qu'Appelle, T-V",13027.3,CPR,"North Regina, VL",21156.3,CPR,borealis
+"Qu'Appelle, T-V",13027.3,CPR,"Pilot Butte, VL",19359.5,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"Melville, T-V",19350.2,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Dubuc, VL",15322.4,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"Duff, VL",19279.0,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Grayson, VL",12480.0,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"Killaly, VL",19775.8,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"Stockholm, VL",22676.1,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"Indian Head, T-V",22364.0,CPR,fallback
+"Balcarres, VL",23253.0,CPR,"Sintaluta, T-V",19289.5,CPR,fallback
+"Balcarres, VL",23253.0,CPR,"B— Say— Tah, VL",5900.5,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Dysart, VL",12210.5,CPR,fallback
+"Balcarres, VL",23253.0,CPR,"Edenwold, VL",6884.1,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Fort Qu'Appelle, VL",8216.4,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Lebret, VL",14957.5,GTPR,borealis
+"Balcarres, VL",23253.0,CPR,"Lipton, VL",7876.8,CPR,borealis
+"Balcarres, VL",23253.0,CPR,"North Regina, VL",21156.3,CPR,borealis
+"Fort Qu'Appelle, VL",8216.4,GTPR,"B— Say— Tah, VL",5900.5,GTPR,borealis
+"Fort Qu'Appelle, VL",8216.4,GTPR,"Edenwold, VL",6884.1,GTPR,borealis
+"Fort Qu'Appelle, VL",8216.4,GTPR,"Lebret, VL",14957.5,GTPR,borealis
+"Fort Qu'Appelle, VL",8216.4,GTPR,"North Regina, VL",21156.3,CPR,borealis
+"Canora, T-V",16443.5,CNoR,"Stenen, VL",13573.2,CNoR,fallback
+"Canora, T-V",16443.5,CNoR,"Veregin, VL",7535.1,CNoR,fallback
+"Canora, T-V",16443.5,CNoR,"Margo, VL",16478.6,CNoR,borealis
+"Kamsack, T-V",0.0,CNoR,"Canora, T-V",16443.5,CNoR,fallback
+"Kamsack, T-V",0.0,CNoR,"Arran, VL",11184.0,CNoR,fallback
+"Kamsack, T-V",0.0,CNoR,"Pelley, VL",2356.8,CNoR,fallback
+"Kamsack, T-V",0.0,CNoR,"Togo, VL",19176.9,CNoR,borealis
+"Kamsack, T-V",0.0,CNoR,"Veregin, VL",7535.1,CNoR,borealis
+"Yorkton, T-V",15519.6,Other,"Melville, T-V",19350.2,GTPR,borealis
+"Yorkton, T-V",15519.6,Other,"Saltcoats, T-V",16320.8,Other,borealis
+"Foam Lake, VL",24221.2,CNoR,"Margo, VL",16478.6,CNoR,fallback
+"Semans, VL",16090.3,GTPR,"Ituna, VL",12457.2,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Jasmin, VL",19904.3,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Kelliher, VL",11832.1,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Lestock, VL",0.0,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Punnichy, VL",7936.2,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Quinton, VL",6612.3,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Raymore, VL",3549.3,GTPR,borealis
+"Semans, VL",16090.3,GTPR,"Tate, VL",22711.4,GTPR,borealis
+"Battleford, T-V",10264.3,CNoR,"Delmas, VL",0.0,CNoR,fallback
+"Prince Albert, C",17430.7,QLSRSC,"Rosthern, T-V",17244.5,QLSRSC,borealis
+"Prince Albert, C",17430.7,QLSRSC,"Shellbrook, VL",24731.4,CNoR,borealis
+"Duck Lake, T-V",10726.2,QLSRSC,"Rosthern, T-V",17244.5,QLSRSC,borealis
+"North Battleford, C",9009.9,CNoR,"Delmas, VL",0.0,CNoR,fallback
+"Shellbrook, VL",24731.4,CNoR,"Blaine Lake, VL",10760.4,CNoR,borealis
+"Shellbrook, VL",24731.4,CNoR,"Leask, VL",0.0,CNoR,borealis
+"Shellbrook, VL",24731.4,CNoR,"Marcelin, VL",801.6,CNoR,borealis
+"Shellbrook, VL",24731.4,CNoR,"Parkside, VL",13407.0,CNoR,borealis
