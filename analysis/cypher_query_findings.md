@@ -1561,3 +1561,124 @@ Stoney Knoll is the most analytically complete case in the dataset. Rosthern's p
 **The Stoney Knoll and One Arrow cases show that Métis displacement runs through all phases.** In both, Métis communities are present at the Type A stage (pre-surrender) and again at the Type C stage (post-surrender). The formal surrender is the pivot point, but the Métis displacement it connects to predates the surrender by decades and continues after it.
 
 **The Thunderchild case links the cross-type findings to the case study set.** Delmas (Type A, overlap, Métis present) is the pre-surrender anchor; Rock Haven, Meota, and Vawn are the Type B post-surrender arrivals. The analysis of Delmas as a case study is therefore not just the story of a single settlement — it is the leading edge of a colonization wave that continued after the 1908 surrender.
+
+---
+
+## Query 4b — Reserves with multiple surrender events in the Type A set
+
+**Run:** 2026-04-08
+
+### Results
+
+| Reserve | Distinct surrender years | Surrender events |
+|---|---|---|
+| Piapot | 2 | 1918: 4 Type A municipalities; 1919: 5 Type A municipalities |
+| Pasqua | 2 | 1906: 3 Type A municipalities; 1910: 2 Type A municipalities |
+| Mistawasis | 2 | 1911: 1 Type A municipality; 1919: 2 Type A municipalities |
+
+### Methodological note
+
+`nearest_surrender_year` is a property on each municipality node, not a count from independent Surrender nodes. Distinct years here reflect different parcels being the nearest to different municipalities in the Type A set — which strongly implies multiple surrender events on the same reserve, but the dataset cannot confirm whether these represent separate legal negotiations or a single process recorded in stages.
+
+### Findings
+
+**Only 3 of the 13+ reserves with multiple Type A municipalities show multiple distinct surrender years.** Most reserves in the corridor clustering data faced sustained multi-settlement pressure but were surrendered in a single legal event. Piapot, Pasqua, and Mistawasis are the exceptions — reserves where pressure was iterative enough, or the reserve large enough, to produce staged reduction. This is a structural limit on the pattern: corridor clustering usually ended in one surrender, not serial surrenders.
+
+**Piapot** is the most extreme case and was already flagged in Query 4a. Nine Type A municipalities total across two consecutive years (1918: 4, 1919: 5), all on the CPR 1882 main line. The back-to-back surrender years likely represent two distinct legal transactions — separate parcels reduced in sequence — rather than a single negotiation. The corridor running east of Regina generated enough accumulated pressure to exhaust the reserve in stages.
+
+**Pasqua is the most analytically significant new finding.** The split is not just temporal but typological: the 1906 surrender correlates with three CPR railway-corridor villages (McLean, Qu'Appelle, Indian Head — all founded 1881–1882), while the 1910 surrender correlates with Fort Qu'Appelle and Lebret — the mission and institutional settlements whose effective presence stretches to 1804 and 1860 respectively (Query 3a sensitized). Two distinct colonial mechanisms — railway frontier pressure and religious/institutional presence — operating on the same reserve yielded two separate surrender events four years apart. This is a direct materialization of Raibmon's genealogy in the spatial data: the railway and institutional branches of colonial presence were not the same mechanism, and here they produced distinct legal outcomes.
+
+**Mistawasis** shows an 8-year gap between surrender events (1911, 1919). The 1911 surrender correlates with only one municipality — Leask — but Leask is the geometric overlap case with the highest 5km surrender density in the dataset and simultaneous railway arrival (Query 7a). The 1919 second surrender then draws two more municipalities including Shellbrook LSC (24km out). The gap between events suggests the 1911 surrender did not satisfy accumulated demand: Leask's presence and the CNoR corridor continued to generate pressure, and a second reduction followed eight years later.
+
+---
+
+## Queries 4c and 4f — Railway-to-surrender gap distribution
+
+**Run:** 2026-04-08
+
+### Results — Query 4c (Type A only)
+
+| Gap band | n | min gap | max gap | avg gap |
+|---|---|---|---|---|
+| Surrender before railway | 6 | −3 | −1 | −2 |
+| 0 years | 4 | 0 | 0 | 0 |
+| 1–5 years | 12 | 1 | 4 | 3 |
+| 6–10 years | 14 | 6 | 10 | 8 |
+| 11–20 years | 20 | 11 | 20 | 15 |
+| 21–30 years | 19 | 21 | 29 | 24 |
+| 31+ years | 7 | 31 | 37 | 35 |
+
+### Results — Query 4f (Types A, B, C by type)
+
+| Gap band | Type | n | min gap | max gap | avg gap |
+|---|---|---|---|---|---|
+| Surrender before railway | A | 6 | −3 | −1 | −2 |
+| 0 years | A | 4 | 0 | 0 | 0 |
+| 1–5 years | A | 12 | 1 | 4 | 3 |
+| 6–10 years | A | 14 | 6 | 10 | 8 |
+| 11–20 years | A | 20 | 11 | 20 | 15 |
+| 21–30 years | A | 19 | 21 | 29 | 24 |
+| 31+ years | A | 7 | 31 | 37 | 35 |
+| Surrender before railway | B | 23 | −13 | −1 | −3 |
+| 0 years | B | 2 | 0 | 0 | 0 |
+| 1–5 years | B | 1 | 2 | 2 | 2 |
+| 11–20 years | B | 1 | 12 | 12 | 12 |
+| Surrender before railway | C | 6 | −15 | −5 | −11 |
+| 1–5 years | C | 1 | 2 | 2 | 2 |
+| 6–10 years | C | 1 | 7 | 7 | 7 |
+
+### Findings
+
+**The Type A distribution is broad, not peaked.** The two largest bands are 11–20 years (20 municipalities) and 21–30 years (19 municipalities) — nearly half the Type A set (39 of 82) falls in that window. No band dominates overwhelmingly. The pressure-to-surrender process was variable in duration, not mechanically timed. The 6 "surrender before railway" Type A cases are an anomalous corner: the town existed, the surrender happened, then the railway arrived within 1–3 years — founding first, surrender second, railway third.
+
+**Type B confirms the Query 11a finding decisively.** 23 of 27 Type B municipalities (85%) fall in "surrender before railway." For Type B the dominant sequence is: surrender → settlement → railway — the inverse of Type A. Type B is not compressed Type A; it is structurally different. The one 11–20 year outlier (gap 12) is Leross, already flagged in Query 11a.
+
+**Type C extends the same pattern further.** 6 of 8 Type C municipalities have surrender before railway, with an average lag of 11 years. The railway followed the surrender by over a decade on average in the post-surrender settlement cases. These were not railway-driven settlements.
+
+**The railway-precedes-surrender sequence is the diagnostic signature of Type A.** Across the whole dataset, that sequence is almost exclusively a Type A phenomenon. For Types B and C, the surrender came first and railway infrastructure followed. This sharpens the McGuire argument: railway-driven pressure on reserves was the mechanism of the pre-surrender dispossession cycle. Post-surrender colonization followed a different logic.
+
+### Broader interpretation
+
+The gap distribution, read alongside the typology, supports a broader conclusion: **no single mechanism was the typical process of settler pressure on reserve lands in Saskatchewan**. Type A is the largest implicated group at 82 municipalities, but that is only 19% of the total dataset. Within Type A, no single commercial type, railway company, or gap interval accounts for most cases. Railways mattered in some corridors; institutional presence (missions, HBC posts) in others; Métis community displacement runs through multiple phases independently of both; ethnic agricultural colonies appear closest to surrendered land without any coordinated pressure campaign.
+
+The typology remains analytically useful — it distinguishes whether a given settlement contributed to the conditions for surrender, arrived simultaneously, or benefitted from a surrender that had already occurred. That is a question of relationship and benefit, not a claim about a dominant causal mechanism. But the diversity of the pattern within and across types is itself the substantive finding: Indigenous dispossession in Saskatchewan was a general product of colonialism operating through Raibmon's varied microtechniques, not a uniform process reducible to any one mechanism. The dataset cannot be countered by showing that railways were not always the driver, because the data already shows that. The multiplicity is the evidence for the general claim.
+
+---
+
+## Queries 4d and 4g — Railway company frequency and corridor timelines
+
+**Run:** 2026-04-08
+
+### Results — Query 4d (company frequency)
+
+| Railway company | Type A municipalities | Distinct reserves | Reserves (sample) |
+|---|---|---|---|
+| CPR | 32 | 12 | Ocean Man, Kahkewistahaw, Cowessess, Ochapowace, Carry The Kettle, Fishing Station, Piapot, Pasqua, Little Black Bear, Last Mountain Lake |
+| CNoR | 21 | 11 | Carry The Kettle, The Key, Cote, Keeseekoose, Fishing Lake, Moosomin, Thunderchild, Cumberland, Muskeg Lake, Mistawasis |
+| GTPR | 20 | 9 | Little Bone, Little Black Bear, Standing Buffalo, Piapot, Pasqua, Muskowekwan, George Gordon, Poor Man's, Swan Lake |
+| QLSRSC | 7 | 4 | Last Mountain Lake, Chakastaypasin, One Arrow, Stoney Knoll |
+| Other | 2 | 1 | Little Bone |
+
+### Results — Query 4g (corridor timelines)
+
+| Company | n munis | n reserves | avg railway yr | avg surrender yr | avg gap | earliest railway | latest surrender |
+|---|---|---|---|---|---|---|---|
+| CPR | 32 | 12 | 1896 | 1915 | 19 yrs | 1882 | 1928 |
+| CNoR | 21 | 11 | 1907 | 1911 | 4 yrs | 1904 | 1927 |
+| GTPR | 20 | 9 | 1908 | 1921 | 12 yrs | 1907 | 1933 |
+| QLSRSC | 7 | 4 | 1889 | 1909 | 20 yrs | 1887 | 1918 |
+| Other | 2 | 1 | 1889 | 1907 | 19 yrs | 1888 | 1907 |
+
+### Findings
+
+**CPR leads by municipality count but CNoR is nearly equal in reserve reach.** CPR is associated with 32 Type A municipalities across 12 reserves; CNoR with 21 municipalities across 11 reserves. CPR planted more towns per reserve on average (2.7) than CNoR (1.9) — consistent with the dense corridor clusters identified in Query 4a along the main line east of Regina. CNoR was more diffuse: fewer towns per reserve, but spread across nearly as many reserves.
+
+**GTPR's reach is underappreciated.** It appears less frequently in earlier findings than CPR or CNoR, but 20 municipalities across 9 reserves is substantial. Its corridor pressure falls entirely within the Sifton boom window (earliest railway 1907), consistent with shorter average gaps in the 4c distribution.
+
+**QLSRSC is a quiet but persistent thread.** Seven municipalities across 4 reserves — Last Mountain Lake, One Arrow, Chakastaypasin, Stoney Knoll — an older line (1887) whose reserve correlations tend to involve institutional and Métis presence rather than railway-townsite dynamics. It recurs across queries without ever being the dominant actor.
+
+**CNoR's 4-year average gap is the most compressed of any company.** This initially looks like the most intense corridor pressure, but the temporal data explains it: CNoR arrived in 1907 on average — directly into the middle of the Sifton boom — so the settlement density needed to generate pressure was already present when the railway came. The gap closed fast not because CNoR was uniquely aggressive but because demographic conditions were already ripe.
+
+**The surrender years converge despite divergent railway arrival years.** CPR's earliest line dates to 1882; GTPR's to 1907 — a 25-year span. Yet all four companies' average surrender years fall within a 12-year window (1909–1921). Despite arriving at very different times, all corridors converged on roughly the same boom-era window for surrenders. That is not a railway timing story — it is a demographic and political story.
+
+**Railway determined where; settlement determined when.** This is the clearest quantitative expression of the finding stated earlier in the dataset. The railways fixed the geography of corridor pressure — which reserves sat adjacent to which lines. But the timing of formal surrender was driven by the Sifton-era population boom filling those corridors to the threshold of irresistible pressure. CPR had been on the ground since 1882 but its average surrender came in 1915 because the southern plains lacked sufficient settlement density until the boom decade produced it. The 4g data makes this argument visible across all four companies simultaneously: the convergence of surrender years despite divergent arrival years is among the strongest single pieces of evidence in the dataset for the claim that demographics, not railways, determined when dispossession was formalized.

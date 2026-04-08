@@ -261,7 +261,7 @@ RETURN
     WHEN gap_yrs <= 30 THEN '21–30 years'
     ELSE '31+ years'
   END                  AS gap_band,
-  count(s)             AS n_municipalities,
+  count(*)             AS n_municipalities,
   min(gap_yrs)         AS min_gap,
   max(gap_yrs)         AS max_gap,
   round(avg(gap_yrs))  AS avg_gap
@@ -308,6 +308,63 @@ RETURN
   s.metis_community_present   AS metis_present,
   s.population_1921           AS pop_1921
 ORDER BY s.railway_arrives
+```
+
+---
+
+## 4f. Railway-to-surrender gap distribution — all municipalities by temporal type
+
+Variant of Query 4c with the Type A filter removed. Returns the full gap-band distribution across all municipalities that have both `railway_arrives` and `nearest_surrender_year`, broken down by temporal type within each band. Tests whether the gap profile differs meaningfully between Type A (pressure preceding surrender), Type B (simultaneous), and Type C (post-surrender settlement) — and whether the overall distribution still clusters in the 1900–1920 boom window when all types are included.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.nearest_surrender_year IS NOT NULL
+  AND s.railway_arrives IS NOT NULL
+  AND s.temporal_type IN ['A', 'B', 'C']
+WITH
+  s.temporal_type                                  AS temporal_type,
+  (s.nearest_surrender_year - s.railway_arrives)   AS gap_yrs
+RETURN
+  CASE
+    WHEN gap_yrs < 0  THEN 'Surrender before railway'
+    WHEN gap_yrs = 0  THEN '0 years'
+    WHEN gap_yrs <= 5 THEN '1–5 years'
+    WHEN gap_yrs <= 10 THEN '6–10 years'
+    WHEN gap_yrs <= 20 THEN '11–20 years'
+    WHEN gap_yrs <= 30 THEN '21–30 years'
+    ELSE '31+ years'
+  END                  AS gap_band,
+  temporal_type,
+  count(*)             AS n_municipalities,
+  min(gap_yrs)         AS min_gap,
+  max(gap_yrs)         AS max_gap,
+  round(avg(gap_yrs))  AS avg_gap
+ORDER BY temporal_type, min_gap
+```
+
+---
+
+## 4g. Railway company corridor timelines — average railway arrival and surrender year by company
+
+Variant of Query 4d adding average railway arrival year and average surrender year per company, to surface the temporal position of each company's corridor pressure within the broader 1880–1920 settlement period. Tests whether CPR's longer railway-to-surrender gaps (inferred from the 4c distribution) are reflected in a later average surrender year relative to CNoR and GTPR.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.first_railway IS NOT NULL
+  AND s.nearest_surrender_reserve IS NOT NULL
+  AND s.railway_arrives IS NOT NULL
+  AND s.nearest_surrender_year IS NOT NULL
+RETURN
+  s.first_railway                             AS railway_company,
+  count(s)                                    AS n_type_a_munis,
+  count(DISTINCT s.nearest_surrender_reserve) AS n_distinct_reserves,
+  round(avg(s.railway_arrives))               AS avg_railway_year,
+  round(avg(s.nearest_surrender_year))        AS avg_surrender_year,
+  round(avg(s.nearest_surrender_year - s.railway_arrives)) AS avg_gap_yrs,
+  min(s.railway_arrives)                      AS earliest_railway,
+  max(s.nearest_surrender_year)               AS latest_surrender
+ORDER BY n_type_a_munis DESC
 ```
 
 ---
