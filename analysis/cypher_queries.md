@@ -782,3 +782,111 @@ RETURN
   municipalities
 ORDER BY size(types_present) DESC, n_municipalities DESC
 ```
+
+---
+
+## 12. Indeterminate municipalities — full profile
+
+Full profile of the 7 municipalities classified as Indeterminate. These appear in the Query 9 type distribution but have never been individually characterized. Purpose: to close the gap in the synthesis, which claims to describe all 429 municipalities but currently has no characterization of this group. Returns founding date, nearest surrender, gap, commercial types, and Métis presence for each.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'Indeterminate'
+OPTIONAL MATCH (s)-[:IS_TYPE]->(ct:SettlementType)
+RETURN
+  s.census_name               AS name,
+  s.founded                   AS founded,
+  s.nearest_surrender_year    AS surrender_year,
+  (s.nearest_surrender_year - s.founded) AS gap_years,
+  s.nearest_surrender_reserve AS nearest_reserve,
+  s.min_dist_to_surrender_m   AS dist_m,
+  s.first_railway             AS railway,
+  s.railway_arrives           AS railway_year,
+  s.metis_community_present   AS metis_present,
+  s.population_1921           AS pop_1921,
+  collect(DISTINCT ct.name)   AS commercial_types
+ORDER BY gap_years
+```
+
+---
+
+## 13. None-type Métis municipalities — full profile
+
+Full profile of the 15 municipalities with temporal_type = 'none' that have an associated Métis community. The synthesis identifies two distinct Métis displacement processes — reserve-adjacent (Type A co-presence) and urban-core (none-type cities absorbing Métis communities without a proximate reserve surrender) — but has only named four cities as examples. This query completes the picture of the urban-core displacement process across all 15 cases.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'none'
+  AND s.metis_community_present = true
+RETURN
+  s.census_name               AS name,
+  s.founded                   AS founded,
+  s.nearest_metis_community   AS metis_community,
+  s.nearest_metis_y_found     AS metis_y_found,
+  s.nearest_metis_dist_m      AS metis_dist_m,
+  s.population_1921           AS pop_1921,
+  s.min_dist_to_surrender_m   AS dist_to_surrender_m,
+  CASE
+    WHEN s.nearest_metis_y_found IS NULL OR s.founded IS NULL THEN 'unknown'
+    WHEN s.nearest_metis_y_found < s.founded THEN 'metis_first'
+    WHEN s.nearest_metis_y_found = s.founded THEN 'same_year'
+    ELSE 'muni_first'
+  END AS sequence
+ORDER BY s.nearest_metis_dist_m ASC
+```
+
+---
+
+## 14. Population vs. gap length within Type A — testing the political pressure interpretation
+
+The synthesis claims that larger Type A municipalities likely exerted pressure through political channels rather than direct proximity, explaining why cities average further from surrendered land than farm clusters. This query tests whether population size correlates with gap length within the Type A set: if larger settlements tend to have longer formal gaps, that supports the "political pressure operates at a distance over time" interpretation.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.nearest_surrender_year IS NOT NULL
+  AND s.founded IS NOT NULL
+  AND s.population_1921 IS NOT NULL
+WITH
+  s.census_name                                     AS name,
+  s.population_1921                                 AS pop_1921,
+  s.founded                                         AS founded,
+  s.nearest_surrender_year                          AS surrender_year,
+  (s.nearest_surrender_year - s.founded)            AS formal_gap,
+  s.min_dist_to_surrender_m                         AS dist_m,
+  s.nearest_surrender_reserve                       AS nearest_reserve,
+  CASE
+    WHEN s.population_1921 < 200  THEN 'Under 200'
+    WHEN s.population_1921 < 500  THEN '200–499'
+    WHEN s.population_1921 < 1000 THEN '500–999'
+    WHEN s.population_1921 < 3000 THEN '1,000–2,999'
+    ELSE '3,000+'
+  END AS pop_band
+RETURN
+  pop_band,
+  count(s)                AS n,
+  round(avg(formal_gap))  AS avg_gap,
+  round(avg(dist_m))      AS avg_dist_m,
+  min(formal_gap)         AS min_gap,
+  max(formal_gap)         AS max_gap
+ORDER BY min(s.population_1921)
+```
+
+---
+
+## 15. Type B commercial type breakdown
+
+The synthesis establishes that Type B is structurally different from Type A (post-surrender colonization rather than accumulated pre-surrender pressure), but has never characterized what Type B municipalities are commercially. If Type B is predominantly SSCs and farm clusters — settlements planted rapidly on freshly cleared land — that reinforces the structural distinction from Type A. Returns commercial type distribution across all Type B municipalities.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'B'
+OPTIONAL MATCH (s)-[:IS_TYPE]->(ct:SettlementType)
+RETURN
+  ct.name                               AS commercial_type,
+  count(DISTINCT s)                     AS n_municipalities,
+  round(avg(s.min_dist_to_surrender_m)) AS avg_dist_m,
+  round(avg(s.nearest_surrender_year - s.railway_arrives)) AS avg_rail_gap,
+  collect(DISTINCT s.census_name)[..8]  AS examples
+ORDER BY n_municipalities DESC
+```
