@@ -848,13 +848,9 @@ WHERE s.temporal_type = 'A'
   AND s.founded IS NOT NULL
   AND s.population_1921 IS NOT NULL
 WITH
-  s.census_name                                     AS name,
   s.population_1921                                 AS pop_1921,
-  s.founded                                         AS founded,
-  s.nearest_surrender_year                          AS surrender_year,
   (s.nearest_surrender_year - s.founded)            AS formal_gap,
   s.min_dist_to_surrender_m                         AS dist_m,
-  s.nearest_surrender_reserve                       AS nearest_reserve,
   CASE
     WHEN s.population_1921 < 200  THEN 'Under 200'
     WHEN s.population_1921 < 500  THEN '200–499'
@@ -864,12 +860,12 @@ WITH
   END AS pop_band
 RETURN
   pop_band,
-  count(s)                AS n,
+  count(*)                AS n,
   round(avg(formal_gap))  AS avg_gap,
   round(avg(dist_m))      AS avg_dist_m,
   min(formal_gap)         AS min_gap,
   max(formal_gap)         AS max_gap
-ORDER BY min(s.population_1921)
+ORDER BY min(pop_1921)
 ```
 
 ---
