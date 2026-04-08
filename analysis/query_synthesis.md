@@ -1,6 +1,6 @@
 # Cypher Query Findings — Analytical Synthesis
 
-Synthesizes findings from all queries run against the Neo4j graph following Phase 5 enrichment: Queries 1–11c, 4b–4g, 8c–8d, and supplementary LHB and reserves_master work. Draws together the major analytical threads and states the argument the data as a whole supports.
+Synthesizes findings from all queries run against the Neo4j graph following Phase 5 enrichment: Queries 1–12, 4b–4g, 8c–8d, and supplementary LHB and reserves_master work. Draws together the major analytical threads and states the argument the data as a whole supports.
 
 ---
 
@@ -9,10 +9,10 @@ Synthesizes findings from all queries run against the Neo4j graph following Phas
 ### Temporal types
 Classifications assigned to each municipality based on the relationship between its founding date and the year of the nearest reserve surrender.
 
-- **Type A** — Municipality founded more than 5 years *before* the nearest reserve surrender. The core "pressure then surrender" set: 82 municipalities (19% of 429).
+- **Type A** — Municipality founded more than 5 years *before* the nearest reserve surrender. The core "pressure then surrender" set: 83 municipalities (19% of 429).
 - **Type B** — Municipality founded within 5 years (before or after) of the nearest reserve surrender. Simultaneous arrival: 27 municipalities (6%).
 - **Type C** — Municipality founded more than 5 years *after* the nearest reserve surrender. Post-surrender settlement: 8 municipalities (2%).
-- **Indeterminate** — Founding date and surrender year too close or too uncertain to classify reliably: 7 municipalities (2%).
+- **Indeterminate** — Founding date or surrender year missing or unresolvable: 6 municipalities (1%). See Query 12 findings for full characterization. Note: Leslie, VL was reclassified from Indeterminate to Type A (2026-04-08) after recovery of its 1882 founding date from KG context fields.
 - **None** — No surrendered reserve parcel within meaningful proximity (roughly 25km): 305 municipalities (71%).
 
 ### Commercial tiers
@@ -59,7 +59,7 @@ Classifications of each municipality's economic function, drawn from the Knowled
 
 ## 1. The Core Argument — What the Data Demonstrates
 
-82 of 429 Saskatchewan municipalities (19%) were founded before the nearest reserve surrender — the Type A "pressure then surrender" set. 27 (6%) arrived simultaneously within 5 years (Type B). 8 (2%) arrived after. 305 (71%) have no surrendered reserve within meaningful proximity.
+83 of 429 Saskatchewan municipalities (19%) were founded before the nearest reserve surrender — the Type A "pressure then surrender" set. 27 (6%) arrived simultaneously within 5 years (Type B). 8 (2%) arrived after. 305 (71%) have no surrendered reserve within meaningful proximity.
 
 The meaningful divide in the dataset is not between Types A, B, and C — which have nearly identical average distances to surrendered land (12,345–13,512m) — but between those three types collectively and the none group (75,927m average). Settlement in Saskatchewan was not uniformly distributed relative to reserve land. It concentrated in corridors where surrender was most active. Within those corridors, 19% of municipalities were there first.
 
