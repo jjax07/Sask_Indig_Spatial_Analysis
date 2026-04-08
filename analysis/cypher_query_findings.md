@@ -1682,3 +1682,48 @@ The typology remains analytically useful — it distinguishes whether a given se
 **The surrender years converge despite divergent railway arrival years.** CPR's earliest line dates to 1882; GTPR's to 1907 — a 25-year span. Yet all four companies' average surrender years fall within a 12-year window (1909–1921). Despite arriving at very different times, all corridors converged on roughly the same boom-era window for surrenders. That is not a railway timing story — it is a demographic and political story.
 
 **Railway determined where; settlement determined when.** This is the clearest quantitative expression of the finding stated earlier in the dataset. The railways fixed the geography of corridor pressure — which reserves sat adjacent to which lines. But the timing of formal surrender was driven by the Sifton-era population boom filling those corridors to the threshold of irresistible pressure. CPR had been on the ground since 1882 but its average surrender came in 1915 because the southern plains lacked sufficient settlement density until the boom decade produced it. The 4g data makes this argument visible across all four companies simultaneously: the convergence of surrender years despite divergent arrival years is among the strongest single pieces of evidence in the dataset for the claim that demographics, not railways, determined when dispossession was formalized.
+
+---
+
+## Query 4e — The Punnichy / George Gordon outlier cluster
+
+**Run:** 2026-04-08
+
+**Method:** Query as written in `cypher_queries.md` returned only one result (Punnichy), because only Punnichy has `nearest_surrender_reserve = 'George Gordon'`. A revised proximity query was run in Python to retrieve all Type A municipalities within 50km of Punnichy's coordinates, giving the full cluster picture.
+
+### Results — all Type A municipalities within 50km of Punnichy
+
+| name | founded | railway | rail yr | nearest reserve | surrender yr | n_25km | gap_yrs | metis | pop_1921 | dist_to_Punnichy |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Punnichy, VL | 1908 | GTPR | 1908 | George Gordon | 1933 | 7 | 25 | Yes | 200 | 0 |
+| Quinton, VL | 1908 | GTPR | 1908 | Poor Man's | 1919 | 5 | 11 | No | 97 | 7,655 |
+| Raymore, VL | 1908 | GTPR | 1908 | Poor Man's | 1919 | 4 | 11 | No | 280 | 16,494 |
+| Lestock, VL | null | GTPR | 1908 | Muskowekwan | 1920 | 6 | 12 | Yes | 280 | 23,450 |
+| Semans, VL | 1904 | GTPR | 1908 | Poor Man's | 1919 | 1 | 11 | No | 450 | 30,392 |
+| Tate, VL | 1905 | GTPR | 1908 | Poor Man's | 1919 | 1 | 11 | No | 98 | 38,012 |
+| Kelliher, VL | 1903 | GTPR | 1908 | Muskowekwan | 1920 | 3 | 12 | No | 320 | 40,660 |
+| Kandahar, VL | null | CPR | 1909 | Poor Man's | 1919 | 1 | 10 | No | 114 | 42,958 |
+| Dafoe, VL | null | CPR | 1909 | Poor Man's | 1919 | 1 | 10 | No | 102 | 45,472 |
+| Cupar, VL | null | CPR | 1905 | Piapot | 1918 | 3 | 13 | No | 384 | 47,702 |
+| Jasmin, VL | null | GTPR | 1908 | Muskowekwan | 1920 | 4 | 12 | Yes | 83 | 48,111 |
+| Markinch, VL | null | CPR | 1905 | Piapot | 1918 | 3 | 13 | No | 172 | 48,207 |
+
+### What the reserves_master data adds
+
+George Gordon is **Reserve No. 86**, Treaty 4 (Qu'Appelle Treaty). The `reserves_master.csv` notes field records three surrenders — 1914 (360 acres), 1919 (169 acres), and 1933 (720 acres) — all explicitly to the **Church of England / Gordon School**, not to settler municipalities or railway interests. Gordon Indian Residential School operated on the reserve from 1888 to 1996. A Church of England mission was established on the reserve in 1876, the same year as the initial survey, giving the church a land interest inside the reserve from the outset. A 1899 boundary exchange reorganized the reserve's borders and placed the C of E mission sections inside the new boundary while keeping them as C of E property — a legally anomalous tenure situation that the subsequent staged surrenders were resolving piecemeal.
+
+The acreage sequence (360 → 169 → 720 acres) indicates escalating demand across three separate transactions over 19 years, not a single negotiation drawn out over time. The 1933 surrender — the largest, at 720 acres — falls in the Depression, when the band's economic position would have been severely compromised.
+
+### Findings
+
+**The initial framing was wrong.** The most plausible hypothesis from spatial data alone — George Gordon as a case of sustained Indigenous resistance within maximum corridor pressure — does not hold once the reserves_master notes are read. The 1933 surrender was not the delayed conclusion of settler pressure. It was the third instalment of a residential school land acquisition that began in 1914 and was structurally unrelated to Punnichy's existence.
+
+**Punnichy's Type A pairing with George Gordon is the least analytically meaningful match in the dataset.** Punnichy is technically Type A — founded 1908, surrender 1933, gap 25 years — but the causal logic that makes Type A meaningful elsewhere does not apply here. The Church of England had been on that reserve since 1876, 32 years before Punnichy was founded. The municipal presence did not generate the conditions for the surrender.
+
+**Punnichy's high n_25km count reflects the surrounding corridor, not George Gordon.** The 7-surrender count comes from Poor Man's (1919), Muskowekwan (1920), and Piapot (1918) — all standard settler-pressure surrenders in the GTPR/CPR corridor. Punnichy sits inside a zone of intense corridor activity. George Gordon is spatially proximate but mechanism-distinct: it was being reduced by a different actor through a different process simultaneously.
+
+**The cluster is otherwise homogeneous and consistent with the broader pattern.** The 11 surrounding Type A municipalities are all GTPR 1908 or CPR 1905/1909 settlements, all small boom-era villages (pop 83–450), with nearest-surrender gaps of 10–13 years — well within the Sifton boom window. Their nearest reserves (Poor Man's, Muskowekwan, Piapot) all surrendered 1918–1920. The cluster is unremarkable analytically except for the anomalous George Gordon pairing at its centre.
+
+**This exposes a methodological limit of the nearest-reserve matching logic.** The `nearest_surrender_reserve` property captures the spatially closest surrendered reserve to each municipality, but it cannot distinguish surrender mechanisms. A church land transaction and a settler petition-cycle surrender look identical in the graph. George Gordon is the clearest case in the dataset where that distinction matters analytically: a municipality classified as Type A because of a nearby surrender that had nothing to do with its presence. The finding does not undermine the broader argument — it clarifies that the argument holds for the other 81 Type A municipalities and their pairings, while flagging this one as requiring a different interpretive frame.
+
+**Archival note:** Gordon Indian Residential School is one of the most extensively documented residential schools in Canada. DIA correspondence on Reserve 86 boundary adjustments — particularly around the 1899 exchange and the 1914 first surrender — would be the most direct source for the staging question. Library and Archives Canada, RG 10 series. TRC records also document the school extensively.
