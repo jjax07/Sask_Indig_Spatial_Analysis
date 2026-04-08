@@ -4,6 +4,59 @@ Synthesizes findings from all queries run against the Neo4j graph following Phas
 
 ---
 
+## Definitions
+
+### Temporal types
+Classifications assigned to each municipality based on the relationship between its founding date and the year of the nearest reserve surrender.
+
+- **Type A** — Municipality founded more than 5 years *before* the nearest reserve surrender. The core "pressure then surrender" set: 82 municipalities (19% of 429).
+- **Type B** — Municipality founded within 5 years (before or after) of the nearest reserve surrender. Simultaneous arrival: 27 municipalities (6%).
+- **Type C** — Municipality founded more than 5 years *after* the nearest reserve surrender. Post-surrender settlement: 8 municipalities (2%).
+- **Indeterminate** — Founding date and surrender year too close or too uncertain to classify reliably: 7 municipalities (2%).
+- **None** — No surrendered reserve parcel within meaningful proximity (roughly 25km): 305 municipalities (71%).
+
+### Commercial tiers
+Classifications of each municipality's economic function, drawn from the Knowledge Graph's `SettlementType` nodes. A single municipality may carry more than one label.
+
+- **City** — Major urban centre with wholesale distribution, state administration, and banking functions.
+- **RSC (Regional Service Centre)** — Town serving as a commercial hub for a multi-community hinterland; retail, professional services, some wholesale.
+- **LSC (Local Service Centre)** — Smaller town providing basic retail and services to an immediate rural area.
+- **SSC (Small Service Centre)** — Village-scale settlement with minimal commercial function; primarily farm-service.
+- **Farm-Service Town** — Settlement whose primary function was supplying agricultural inputs and receiving farm outputs.
+- **Farm Cluster** — Small agricultural colony or hamlet, often ethnically organized, with little commercial infrastructure.
+- **Railway Town** — Settlement whose founding and growth was directly tied to railway infrastructure and operations.
+- **Organized/Ethnic Settlement** — Community established as a deliberate ethnic or religious colony (Doukhobor, Mennonite, Ukrainian, Jewish, German, Icelandic, Swedish, etc.).
+
+### Spatial measures
+- **dist_m / min_dist_to_surrender_m** — Boundary-to-boundary distance in metres between a municipality polygon and the nearest surrendered reserve parcel.
+- **n_surrenders_5km / n_surrenders_25km** — Count of distinct surrendered reserve parcels within 5km or 25km of the municipal boundary.
+- **overlap_with_surrender** — Boolean: the municipality's 1921 polygon geometrically intersects a surrendered reserve parcel.
+- **nearest_surrender_reserve** — Name of the reserve whose surrendered parcel is closest to the municipality.
+- **nearest_surrender_year** — Year of the surrender of that nearest parcel.
+
+### Gap measures
+- **Formal gap** — `nearest_surrender_year − founded`: years between the municipality's formal founding date and the nearest reserve surrender.
+- **Effective gap** — `nearest_surrender_year − effective_start`: years between the earliest documented colonial presence (institutional event year or Métis community founding year, whichever is earlier) and the nearest reserve surrender. A correction to the formal gap that surfaces accumulated presence predating the formal founding date.
+- **Railway gap** — `nearest_surrender_year − railway_arrives`: years between a railway's arrival in the municipality and the nearest reserve surrender.
+
+### Railway companies
+- **CPR** — Canadian Pacific Railway. Main line completed across Saskatchewan 1882.
+- **CNoR** — Canadian Northern Railway. Branch lines built 1904–1911.
+- **GTPR** — Grand Trunk Pacific Railway. Main line across northern Saskatchewan 1907–1908.
+- **QLSRSC** — Qu'Appelle, Long Lake and Saskatchewan Railroad and Steamboat Company. Older line, 1887, connecting Regina north through the Qu'Appelle valley.
+
+### Other abbreviations
+- **LHB** — Local History Book: community-authored historical volumes compiled for Saskatchewan municipalities, typically published 1950s–1990s.
+- **DIA** — Department of Indian Affairs (federal).
+- **SSB** — Soldier Settlement Board: federal body established post-WWI to settle veterans on agricultural land, often purchased from reserves.
+- **LID** — Local Improvement District: pre-municipal administrative unit for rural Saskatchewan.
+- **NWMP / RNWMP** — North-West Mounted Police / Royal North-West Mounted Police.
+- **HBC** — Hudson's Bay Company.
+- **NWC** — North West Company (fur trade, predecessor to HBC merger 1821).
+- **TRC** — Truth and Reconciliation Commission of Canada.
+
+---
+
 ## 1. The Core Argument — What the Data Demonstrates
 
 82 of 429 Saskatchewan municipalities (19%) were founded before the nearest reserve surrender — the Type A "pressure then surrender" set. 27 (6%) arrived simultaneously within 5 years (Type B). 8 (2%) arrived after. 305 (71%) have no surrendered reserve within meaningful proximity.
