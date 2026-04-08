@@ -1730,6 +1730,53 @@ The acreage sequence (360 → 169 → 720 acres) indicates escalating demand acr
 
 ---
 
+## Query 8d — RSC/LSC settlements with highest farm-cluster hinterland density
+
+**Run:** 2026-04-08
+
+**Note on deduplication:** The initial run used `count(sat)` and `collect(sat.census_name)`, producing inflated counts due to IS_TYPE duplication (same satellite counted once per matching commercial type label). Rerun with `count(DISTINCT sat)` and `collect(DISTINCT sat.census_name)`. Results below are deduplicated. This also implies that the 8a results were similarly inflated — relative rankings in 8a remain valid but absolute counts should be treated with caution.
+
+**Difference from 8a:** Query 8a filtered hubs to Type A and measured average satellite distance to surrendered land. Query 8d removes the Type A hub filter and the surrender-proximity measure, asking only: which RSC/LSC/City hubs commanded the largest Type A agricultural hinterlands within 50km, regardless of the hub's own temporal type or surrender relationship?
+
+### Results (deduplicated)
+
+| Hub | Hub type | Hub dist_m | Type A satellites (50km) |
+|---|---|---|---|
+| Balcarres, VL | A | 23,253 | 16 |
+| Lemberg, T-V | **none** | 31,158 | 15 |
+| Lumsden, T-V | A | 16,573 | 14 |
+| Fort Qu'Appelle, VL | A | 8,216 | 12 |
+| Qu'Appelle, T-V | A | 13,027 | 12 |
+| Regina, C | A | 21,518 | 10 |
+| Indian Head, T-V | A | 22,364 | 10 |
+| Melville, T-V | A | 19,350 | 10 |
+| Semans, VL | A | 16,090 | 7 |
+| Wolseley, T-V | A | 14,395 | 7 |
+| Grenfell, T-V | A | 6,483 | 7 |
+| Govan, T-V | **none** | 36,870 | 6 |
+| Duck Lake, T-V | A | 10,726 | 6 |
+| Yorkton, T-V | A | 15,520 | 6 |
+| Kamsack, T-V | A | 0 | 5 |
+| Wynyard, T-V | **none** | 30,362 | 5 |
+| Esterhazy, VL | **none** | 26,949 | 5 |
+| Broadview, T-V | A | 1,241 | 5 |
+| Nokomis, T-V | **none** | 34,678 | 4 |
+| Foam Lake, VL | A | 24,221 | 4 |
+
+### Findings
+
+**The Qu'Appelle corridor dominance holds — with corrected counts.** 8a showed Balcarres at 28 satellites, Lumsden at 24 — both inflated by IS_TYPE duplication. Deduplicated: Balcarres 16, Lumsden 14. The relative ranking is stable; the absolute counts were not. Balcarres, Lumsden, Fort Qu'Appelle, and Qu'Appelle remain the top four by hinterland density. The Qu'Appelle valley CPR corridor had the densest Type A agricultural hinterland in the province by any measure.
+
+**Lemberg is the most analytically novel finding.** Second in the province with 15 Type A satellites, temporal type `none`, 31km from any surrendered land. Lemberg does not appear in 8a because that query filtered hubs to Type A. Removing the filter surfaces it immediately — a service centre that commanded a dense agricultural hinterland without having any direct spatial relationship to the dispossession frontier that produced it. Lemberg never appears in the pressure-then-surrender argument. It simply sat at the hub of a corridor whose satellites did.
+
+**The none-type hub pattern is broader than Lemberg.** Govan (6 satellites), Wynyard (5), Esterhazy (5), Nokomis (4) — all none-type, all with Type A satellite hinterlands of meaningful size. Collectively they show that the indirect benefit chain extended well beyond the Type A set into commercial centres with no surrender correlation of their own. The dispossession frontier generated agricultural surplus that flowed through service centres at multiple removes from the formal surrender events.
+
+**The Battle River gap persists.** Battleford and North Battleford do not appear in the top 20. The finding from 8a and 8b holds across the corrected and expanded query: the Battle River corridor's extreme surrender density was not generated through a dense satellite hinterland network. It remains structurally distinct from the Qu'Appelle/GTPR corridor accumulation pattern.
+
+**What 8d adds to the overall argument.** Queries 8a and 8b demonstrated the indirect benefit chain for Type A hubs — RSCs commanding Type A satellite hinterlands near surrendered land. Query 8d extends that picture: the indirect benefit chain also operated through none-type hubs with no surrender correlation of their own. The commercial infrastructure of the prairie settlement economy captured value from the dispossession frontier at multiple removes. The spatial argument does not require that every benefiting centre was itself proximate to a surrender. Lemberg is the clearest case for that claim in the dataset: a hub that sat at the centre of the densest agricultural hinterland outside the top Type A cluster, drew commercial benefit from that hinterland, and had no formal relationship to any reserve surrender.
+
+---
+
 ## Leask LHB findings — "A Lasting Legacy"
 
 **Searched:** 2026-04-08. Full text extracted from PDF, searched by keyword. Full findings recorded in `analysis/case_studies/leask.md`.
