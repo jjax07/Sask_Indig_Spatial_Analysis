@@ -1782,3 +1782,36 @@ The acreage sequence (360 → 169 → 720 acres) indicates escalating demand acr
 **Searched:** 2026-04-08. Full text extracted from PDF, searched by keyword. Full findings recorded in `analysis/case_studies/leask.md`.
 
 **Summary:** The LHB establishes an effective founding date of 1902–1904 for the Leask district, with organized LID administration from 1908 — giving a genuine effective gap of 7–9 years before the 1911 Mistawasis surrender. The null `founded` in the dataset reflects the 1912 village incorporation date, which significantly understates actual settler presence depth. Mrs. Hayward's 1955 letter (describing 1904 events) names the Mistawasis Indian Reserve as a primary geographic reference point for first settlers, noted with epistemic caution given the 50-year retrospective framing. The LHB's "no inhabitants until 1890" claim is treated with skepticism — suspect given confinement and starvation policies that constrained Indigenous presence without erasing it. A second Mistawasis surrender (1919, 16,548 acres to the Soldier Settlement Board) and a Muskeg Lake land transfer (also via SSB, documented by the book's researcher) are confirmed. Leask's case study status is rehabilitated: real founding depth exists; the mechanism connecting settler presence to the 1911 surrender remains correlation pending DIA/Carlton Agency archival work.
+
+---
+
+## Query 12 — Indeterminate municipalities: full profile
+
+**Run:** 2026-04-08 (initial); re-run after data corrections same date.
+
+**Pre-run data corrections:** Two founding dates recovered from KG `Founded_context` fields and patched into `neo4j_settlements.csv`, `01_proximity_results.xlsx`, and Neo4j directly:
+- **Leslie, VL** (SK180032): `Founded_context` = "Settlement began back in 1882, land was surveyed in 1892." `founded` set to 1882; `temporal_type` corrected from Indeterminate → **A** (25-year pre-emptive gap on Fishing Lake). Leslie removed from Indeterminate group.
+- **Maidstone, VL** (SK187026): `Founded_context` = "Settlement of Maidstone started with Barr Colonists arriving in 1903, but the townsite was established in 1905 with the arrival of the railway." `founded` corrected from 1905 → 1903. `temporal_type` remains Indeterminate: surrender-side data gap on Little Pine (`first_surrender_year` null in `surrenders_long.csv`; surrender notes: "Patented to the HBC sometime after the initial survey in 1887, returned to the department in 1927" — atypical mechanism, year data unrecoverable from current sources).
+
+Post-correction Indeterminate group: **6 municipalities**.
+
+### Results
+
+| name | founded | surrender_year | gap_years | nearest_reserve | dist_m | railway | railway_year | pop_1921 | commercial_types |
+|---|---|---|---|---|---|---|---|---|---|
+| Maidstone, VL | 1903 | 1927 | 24 | Little Pine | 21,116 | CNoR | 1905 | 227 | SSC |
+| Glenavon, VL | null | 1905 | null | Carry The Kettle | 19,049 | CNoR | 1907 | 171 | SSC |
+| Otthon, VL | null | 1907 | null | Little Bone | 6,188 | GTPR | 1911 | 72 | Ethnic/Polish/SSC |
+| Waldron, VL | null | 1907 | null | Little Bone | 17,871 | GTPR | 1907 | 114 | FST/SSC |
+| Willowbrook, VL | null | 1907 | null | Little Bone | 24,023 | CNoR | 1915 | 98 | SSC |
+| Cut Knife, VL | null | 1927 | null | Little Pine | 16,626 | CPR | 1911 | 158 | SSC |
+
+### Findings
+
+**Classification is Indeterminate for two distinct reasons.** Maidstone: surrender-side data gap (Little Pine's surrender mechanism was a HBC patent return, not a standard voluntary surrender; no year data in `surrenders_long.csv`). The other five: founding-date gap — `founded` null in both `neo4j_settlements.csv` and the KG `Founded` field, with no recoverable date in context fields (Cut Knife has `incorporated = 1912` only).
+
+**The group is structurally coherent despite the classification gap.** All six are small VL-type SSCs (pop 71–227). No Métis presence in any case. Railway arrivals cluster 1905–1915. Three cluster around Little Bone reserve (Otthon, Waldron, Willowbrook — all GTPR or CNoR, 1907 surrender); two around Little Pine (Cut Knife, Maidstone — 1927 surrender). The spatial clustering suggests these would likely classify as Type A or B if founding dates were available, given their proximity and railway-era timing.
+
+**Maidstone's 24-year gap is analytically significant despite Indeterminate status.** With `founded = 1903` (Barr Colonist arrival) and a nearest surrender of 1927, the formal gap is 24 years — longer than many confirmed Type A municipalities. The mechanism is unusual (HBC patent return rather than settler petition), but the temporal relationship — substantial settler presence long preceding formal reserve reduction — is consistent with the Type A pattern. Maidstone is a data-constrained case, not a structural outlier.
+
+**The group does not affect the core dataset counts materially.** 6 of 429 municipalities (1.4%). The synthesis's claims about Type A, B, and C distributions are unaffected.

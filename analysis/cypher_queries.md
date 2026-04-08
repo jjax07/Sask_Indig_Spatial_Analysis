@@ -852,6 +852,13 @@ WITH
   (s.nearest_surrender_year - s.founded)            AS formal_gap,
   s.min_dist_to_surrender_m                         AS dist_m,
   CASE
+    WHEN s.population_1921 < 200  THEN 1
+    WHEN s.population_1921 < 500  THEN 2
+    WHEN s.population_1921 < 1000 THEN 3
+    WHEN s.population_1921 < 3000 THEN 4
+    ELSE 5
+  END AS pop_rank,
+  CASE
     WHEN s.population_1921 < 200  THEN 'Under 200'
     WHEN s.population_1921 < 500  THEN '200–499'
     WHEN s.population_1921 < 1000 THEN '500–999'
@@ -865,7 +872,7 @@ RETURN
   round(avg(dist_m))      AS avg_dist_m,
   min(formal_gap)         AS min_gap,
   max(formal_gap)         AS max_gap
-ORDER BY min(pop_1921)
+ORDER BY min(pop_rank)
 ```
 
 ---
