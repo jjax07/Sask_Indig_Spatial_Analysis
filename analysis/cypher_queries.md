@@ -875,6 +875,144 @@ RETURN
 ORDER BY min(pop_rank)
 ```
 
+**Syntax note:** `ORDER BY min(pop_rank)` throws a Cypher error (pre-aggregation variable referenced after aggregation). Fix: add `min(pop_rank) AS pop_rank_sort` to the RETURN clause and `ORDER BY pop_rank_sort`.
+
+---
+
+## 14a. CSD administrative type vs. temporal type and gap
+
+Tests whether the formal administrative classification (City / Town / Village) predicts temporal type or proximity to surrendered land independently of commercial tier. CSD type is an administrative designation; IS_TYPE commercial tier is an economic function — a Village can be an RSC and a Town can be an SSC. This query asks whether the administrative form carries any structural signal not already captured by commercial type.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type IN ['A', 'B', 'C', 'none']
+WITH
+  s.csd_type        AS csd_type,
+  s.temporal_type   AS temporal_type,
+  count(s)          AS n,
+  round(avg(s.min_dist_to_surrender_m))                                         AS avg_dist_m,
+  round(avg(CASE WHEN s.founded IS NOT NULL AND s.nearest_surrender_year IS NOT NULL
+    THEN s.nearest_surrender_year - s.founded ELSE null END))                   AS avg_gap
+RETURN csd_type, temporal_type, n, avg_dist_m, avg_gap
+ORDER BY csd_type, temporal_type
+```
+
+---
+
+## 14b. Founding decade vs. temporal type within Type A
+
+Tests whether the settlement wave a municipality belonged to — 1880s CPR boom, 1900s Sifton boom, 1910s late-boom — predicts gap length or proximity within the Type A set. Different settlement waves may have generated pressure through different mechanisms: CPR townsites had longer accumulation periods before surrender; Sifton-era settlements arrived into an already-pressured landscape and surrenders followed more rapidly.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.founded IS NOT NULL
+  AND s.nearest_surrender_year IS NOT NULL
+WITH s,
+  (s.nearest_surrender_year - s.founded)  AS formal_gap,
+  (s.founded / 10) * 10                   AS founding_decade
+RETURN
+  founding_decade,
+  count(s)                          AS n,
+  round(avg(formal_gap))            AS avg_gap,
+  round(avg(s.min_dist_to_surrender_m)) AS avg_dist_m,
+  min(formal_gap)                   AS min_gap,
+  max(formal_gap)                   AS max_gap,
+  collect(s.census_name)[..6]       AS examples
+ORDER BY founding_decade
+```
+
+---
+
+## 14c. Surrender density vs. gap length within Type A
+
+Tests whether the number of surrendered reserve parcels within 25km (`n_surrenders_25km`) correlates with formal gap length inside the Type A set. Two competing hypotheses: (1) high density = concentrated pressure, faster formal surrender (shorter gap); (2) high density = sustained iterative pressure over multiple reserves and multiple petition cycles (longer gap). The result distinguishes between these interpretations.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.founded IS NOT NULL
+  AND s.nearest_surrender_year IS NOT NULL
+  AND s.n_surrenders_25km IS NOT NULL
+WITH s,
+  (s.nearest_surrender_year - s.founded) AS formal_gap,
+  CASE
+    WHEN s.n_surrenders_25km = 1 THEN '1'
+    WHEN s.n_surrenders_25km = 2 THEN '2'
+    WHEN s.n_surrenders_25km <= 4 THEN '3–4'
+    ELSE '5+'
+  END AS density_band
+RETURN
+  density_band,
+  count(s)                              AS n,
+  round(avg(formal_gap))                AS avg_gap,
+  round(avg(s.min_dist_to_surrender_m)) AS avg_dist_m,
+  min(formal_gap)                       AS min_gap,
+  max(formal_gap)                       AS max_gap
+ORDER BY min(s.n_surrenders_25km)
+```
+
+---
+
+## 14d. Ethnic/organized settlement character vs. gap and proximity within Type A
+
+Tests whether Organized/Ethnic Settlement municipalities (Mennonite, Doukhobor, Ukrainian, Icelandic colonies, etc.) show different gap or proximity patterns from non-ethnic settlements within the Type A set. Raibmon's framework treats ethnic colonies and CPR townsites as different branches of accumulated settler presence — this query asks whether that structural distinction produces a measurable difference in when and how close to surrendered land those settlements appear.
+
+```cypher
+MATCH (s:Settlement)-[:IS_TYPE]->(ct:SettlementType)
+WHERE s.temporal_type = 'A'
+  AND s.founded IS NOT NULL
+  AND s.nearest_surrender_year IS NOT NULL
+WITH s,
+  (s.nearest_surrender_year - s.founded) AS formal_gap,
+  collect(ct.name)                        AS commercial_types
+WITH s, formal_gap, commercial_types,
+  CASE WHEN 'Organized/Ethnic Settlement' IN commercial_types
+    THEN 'Ethnic/Organized'
+    ELSE 'Non-ethnic'
+  END AS settlement_character
+RETURN
+  settlement_character,
+  count(s)                              AS n,
+  round(avg(formal_gap))                AS avg_gap,
+  round(avg(s.min_dist_to_surrender_m)) AS avg_dist_m,
+  min(formal_gap)                       AS min_gap,
+  max(formal_gap)                       AS max_gap,
+  collect(s.census_name)[..10]          AS examples
+ORDER BY settlement_character
+```
+
+---
+
+## 14e. Railway lag vs. founding gap — pre-railway settlements within Type A
+
+Tests whether settlements that predated their railway by a significant margin show different gap patterns from CPR/CNoR/GTPR townsites founded at or after railway arrival. `railway_lag = railway_arrives − founded`: positive = town predated railway; zero or negative = railway arrived first. Pre-railway settlements (positive lag) likely had a different founding mechanism — mission, colonization company, HBC post, agricultural colony — which connects to the Query 3a institutional founding-type analysis. Returns full individual rows to allow manual inspection of the pre-railway cases.
+
+```cypher
+MATCH (s:Settlement)
+WHERE s.temporal_type = 'A'
+  AND s.founded IS NOT NULL
+  AND s.railway_arrives IS NOT NULL
+  AND s.nearest_surrender_year IS NOT NULL
+WITH s,
+  (s.nearest_surrender_year - s.founded)   AS founding_gap,
+  (s.nearest_surrender_year - s.railway_arrives) AS railway_gap,
+  (s.railway_arrives - s.founded)          AS railway_lag
+RETURN
+  s.census_name         AS name,
+  s.founded             AS founded,
+  s.railway_arrives     AS railway_year,
+  s.first_railway       AS railway,
+  s.nearest_surrender_year AS surrender_year,
+  s.nearest_surrender_reserve AS reserve,
+  founding_gap,
+  railway_gap,
+  railway_lag,
+  s.min_dist_to_surrender_m AS dist_m
+ORDER BY railway_lag DESC
+LIMIT 25
+```
+
 ---
 
 ## 15. Type B commercial type breakdown

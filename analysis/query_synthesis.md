@@ -110,17 +110,33 @@ These two mechanisms were not sequential phases — they operated in parallel ac
 
 ## 5. The Commercial Type Finding — Temporal Type Is the Load-Bearing Variable
 
-Within the Type A set, commercial type predicts proximity to surrendered land: Farm Clusters average 10,945m (closest), Cities average 15,986m (furthest). This is the microtechniques argument made spatially visible — agricultural communities needed direct land access; larger commercial centres benefited indirectly.
+Within the Type A set, commercial type predicts proximity to surrendered land: Farm Clusters average 10,945m (closest), Cities average 15,986m (furthest). This is the microtechniques argument made spatially visible — agricultural communities needed direct land access; larger commercial centres benefited indirectly through the flows that agricultural activity generated.
 
 But Query 8c shows that this gradient disappears when the Type A filter is removed. Farm Clusters average 67,296m across all 429 municipalities — the furthest of any substantive commercial type. Only 6 of 58 Farm Cluster municipalities are Type A; the remaining 52 are scattered across the province far from surrendered land.
 
-**Commercial type alone does not predict proximity to surrendered land. Temporal type is the load-bearing variable.** You cannot look at a farm cluster on a map and infer proximity to a surrender. You have to know whether it predated the surrender. The commercial type tells you what kind of settlement arrived; the temporal type tells you whether its arrival preceded the dispossession it benefited from.
+**Commercial type alone does not predict proximity to surrendered land. Temporal type is the load-bearing variable.** The commercial type gradient within Type A is not a parallel explanatory claim — it describes how the benefits produced by dispossession were distributed across different kinds of settlements. The temporal finding describes how dispossession was produced in the first place. The latter was the precondition for the former.
 
 The practical implication for the argument: the "farm clusters closest" finding is a property of Type A farm clusters specifically. It is one of the strongest findings in the dataset when correctly bounded; it becomes misleading when generalized.
 
 ---
 
-## 6. The Indirect Benefit Chain — Beyond the Type A Frontier
+## 6. What Predicts Proximity and Gap Length — A Cross-Query Structural Synthesis
+
+Queries 14 and 14a–14e completed the systematic testing of settlement characteristics against proximity to surrendered land and gap length. Together with Queries 8, 8c, 4, and 9, they produce a coherent picture with a clear causal structure: accumulated pre-surrender presence produced dispossession, and dispossession produced differentiated benefits depending on what kind of settlement a community was. These are not parallel claims — the temporal mechanism is the precondition for the commercial outcome.
+
+**At the level of the full 429 municipalities, temporal type is the only load-bearing variable for proximity.** Whether a settlement predated a nearby surrender is what predicts whether it sat close to surrendered land. What kind of settlement it was — its population size (Query 14), CSD administrative type (14a), ethnic/organized character (14d), or how many surrendered parcels were nearby (14c) — produces no consistent signal. Query 9 states the aggregate version of this plainly: the meaningful divide is between Types A, B, and C collectively (avg 12,345–13,512m) and the none group (75,927m). Every structural characteristic tested dissolves into noise at this level.
+
+**Within Type A, founding decade is the primary predictor of gap length.** Across Queries 14, 14a, 14c, and 14d, no structural characteristic of settlements predicts how long before a surrender they were founded — except when they were founded. Query 14b shows a monotonic decrease across decades: 1870s cohort avg 29 years, 1880s avg 26, 1890s avg 15, 1900s avg 13, 1910s avg 10. Earlier-founded settlements accumulated pressure over a longer period before formal surrender resolved it; later-founded settlements arrived into an administrative landscape already primed for processing surrender petitions. This is Raibmon's accumulated microtechniques argument quantified: it is the duration and density of dispersed colonial presence that matters, not the form that presence takes.
+
+**The founding decade finding reframes the railway finding.** Queries 4, 4d, and 4g established that average surrender years converge across all four railway companies within a 12-year window despite divergent arrival years. Query 14b explains why: CPR's longer average gaps reflect earlier founding dates, not a company-specific dynamic. The railway structured geography — where settlement concentrated and where pressure was therefore directed. Founding decade structured pace — how long accumulated presence had to build before formal surrender followed. Neither is reducible to the other.
+
+**Query 14e identifies the pre-railway founding set as the clearest expression of non-railway pressure.** Fort Qu'Appelle (railway_lag 31 years), Battleford (30), Lebret (25), Duck Lake (15) are settlements where the railway arrived years or decades after the community, and in six cases after the surrender itself. These are the institutional, mission, and NWMP founding cases from Query 3a confirmed from a second angle. They demonstrate that accumulated presence — administrative authority, mission infrastructure, Métis community presence, homesteading — generated sufficient pressure to produce surrenders without railway catalysis. The mechanism is different from the CPR townsite pattern; the temporal logic is identical.
+
+**Commercial type within Type A describes the distribution of benefits, not the mechanism of dispossession.** The Query 8c proximity gradient — farm clusters closest (avg 10,945m), cities furthest (15,986m) — is not a competing explanatory variable. It shows how the benefits produced by dispossession were distributed: agricultural settlements at the reserve boundary extracted direct land benefit; cities and regional service centres further back extracted indirect commercial benefit through the agricultural flows that direct settlement generated. Both forms of benefit were downstream of the same temporal mechanism. The gradient in proximity is the gradient in directness of benefit from dispossession, not a separate causal story.
+
+---
+
+## 7. The Indirect Benefit Chain — Beyond the Type A Frontier
 
 The indirect benefit argument was confirmed and extended across three queries. Query 8a measured how many Type A farm-cluster satellites sat within 50km of RSC/LSC hubs, and the average satellite distance to surrendered land. Query 8b measured the same through the railway network. Query 8d removed the Type A restriction on hubs and asked which service centres commanded the largest Type A hinterlands regardless of their own temporal type.
 
@@ -132,7 +148,7 @@ Four other none-type hubs appear in the top 20 of 8d (Govan, Wynyard, Esterhazy,
 
 ---
 
-## 7. The Métis Dimension — Prior Presence and the Three-Layer Sequence
+## 8. The Métis Dimension — Prior Presence and the Three-Layer Sequence
 
 The Métis dataset adds a layer of prior presence to the colonial genealogy that the formal municipal founding dates systematically erase.
 
@@ -148,7 +164,7 @@ Raibmon's framework applies to both, but through different branches of the colon
 
 ---
 
-## 8. The Cross-Type Picture — Layered Colonization Waves
+## 9. The Cross-Type Picture — Layered Colonization Waves
 
 Reserve surrenders did not attract a single wave of settlement. Three reserves — Fishing Lake, One Arrow, and Stoney Knoll — attracted municipalities of all three temporal types, showing the full colonization sequence operating on a single piece of land:
 
@@ -162,7 +178,7 @@ Type B is structurally different from Type A, not compressed Type A. For 85% of 
 
 ---
 
-## 9. The Multiple Surrender Events — Iterative Pressure and Distinct Mechanisms
+## 10. The Multiple Surrender Events — Iterative Pressure and Distinct Mechanisms
 
 Only 3 reserves in the Type A set show multiple distinct surrender years: Piapot (1918 and 1919), Pasqua (1906 and 1910), and Mistawasis (1911 and 1919). Most corridor clusters ended in a single legal surrender despite sustained multi-settlement pressure.
 
@@ -172,7 +188,7 @@ Only 3 reserves in the Type A set show multiple distinct surrender years: Piapot
 
 ---
 
-## 10. What the Data Cannot Show — Methodological Limits
+## 11. What the Data Cannot Show — Methodological Limits
 
 **The nearest-reserve matching logic cannot distinguish surrender mechanisms.** George Gordon (Reserve 86, Punnichy) is the clearest case: classified as a Type A pairing because the 1933 surrender is the spatially nearest, but reserves_master notes establish that all three George Gordon surrenders (1914, 1919, 1933) were Church of England/Gordon Residential School land acquisitions, not settler corridor pressure. The Type A classification is technically correct but analytically inert — Punnichy's presence did not generate the conditions for the surrender. The dataset can identify proximity and sequence; it cannot identify mechanism without external sources.
 
@@ -184,9 +200,17 @@ Only 3 reserves in the Type A set show multiple distinct surrender years: Piapot
 
 **The dataset establishes correlation and temporal sequence, not causation.** Only Kamsack has documentary evidence establishing a causal link between settler presence and a reserve surrender (the Cote surrender notes name the town). All other Type A pairings are correlations that warrant archival follow-up. This is not a weakness of the argument — it is the epistemological position Raibmon's methodology is designed for. The accumulated spatial and temporal evidence is strong enough to demand explanation; the mechanism of each individual case requires archival sources to confirm.
 
+**The dataset is state-colonial in character and cannot represent the Indigenous experience of dispossession.** All sources used in this analysis — municipal founding records, DIA surrender documentation, railway records, census data, local history books — were generated by colonial administrative processes. They record settler presence and Indigenous land as administrative objects; they systematically suppress Indigenous agency, resistance, and experience as subjects. This is not a technical gap in the data collection but a structural property of the archive itself. The analysis can demonstrate the settler-side mechanism of dispossession with considerable rigour; it cannot demonstrate what that dispossession meant or cost for the First Nations and Métis communities involved.
+
+*Note for thesis writing:* If future archival work — including LAC research on scrip and land speculation, DIA correspondence, and Indigenous oral or community sources — yields material that speaks to the Indigenous experience of the dispossession documented here, a dedicated section or thread should be added to the argument. If that material is not available by the time of writing, this structural limitation of the archive must be stated explicitly in the thesis, framed not as an apology but as a property of the evidentiary base: colonial records are the appropriate source for demonstrating settler mechanism; a different archive is required to recover Indigenous experience of that mechanism.
+
+**The cost side of the ledger has been documented at the macro level by McKenzie and Mosby (2024).** "Reconciling the Ledger: The Rupert's Land Purchase, Settler Capitalism, and Indigenous Dispossession on the Prairies" (*Journal of the Canadian Historical Association*, 34:1) quantifies what was taken: HBC received 6.6 million acres of prime agricultural land (generating ~$96 million net profit in land sales alone by 1930); First Nations received 3 million acres in reserves through Treaties 1–7 — less than half what the HBC received and less than per capita treaty entitlement; 874,000 acres were officially "surrendered" from reserves between 1871 and 1928, the national universe that includes the 54 Saskatchewan surrender parcels in this dataset. This project does not need to replicate that macro-level cost analysis. Its contribution is the bottom-up mechanism analysis: documenting how dispersed settler accumulation generated the individual surrenders within the structural framework McKenzie and Mosby describe. The two projects are complementary — McKenzie and Mosby establish the scale and conditions; this project documents the ground-level process.
+
+**The term "surrender" throughout this analysis uses colonial administrative designation, not Indigenous legal understanding.** Krasowski's *No Surrender: The Land Remains Indigenous* (University of Regina Press, 2019) demonstrates through treaty bundle analysis, Elder testimony, and close reading of colonial correspondence that Indigenous negotiators understood treaties as agreements to share land — not to cede it. Crown commissioners had a systematic strategy of omitting or downplaying the surrender clause during negotiations. "Surrender" in DIA records and in this dataset is therefore the colonial legal fiction applied to transactions whose meaning was understood very differently by the other party. This project uses the term because the evidentiary base requires it — the surrender parcels, surrender years, and acreage figures all come from DIA administrative records — but the thesis must note explicitly that "surrender" is a colonial administrative designation, not a neutral description of what First Nations consented to.
+
 ---
 
-## 11. The Frank Oliver Corollary — A Meaningful Negative
+## 12. The Frank Oliver Corollary — A Meaningful Negative
 
 The 1911 *Indian Act* amendment permitting expropriation without consent near towns exceeding 8,000 population was effectively irrelevant in Saskatchewan. Only Regina qualifies; Saskatoon and Moose Jaw — the 2nd and 3rd largest cities — are temporal type `none` with no surrender within meaningful proximity. The province's urban hierarchy was too compressed: most "cities" had populations of 2,000–4,000 in 1921.
 
@@ -194,7 +218,7 @@ This is analytically significant because it narrows the argument precisely. Sask
 
 ---
 
-## 12. The Case Study Picture — What the Queries Established and What Remains
+## 13. The Case Study Picture — What the Queries Established and What Remains
 
 The six geometric overlap municipalities are the most spatially concentrated expression of colonial dispossession in the dataset. What the cross-query evidence establishes for each:
 

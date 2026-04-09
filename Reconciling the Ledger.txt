@@ -1,0 +1,1654 @@
+Document generated on 04/09/2026 10:10 a.m.
+
+Journal of the Canadian Historical Association
+Revue de la Société historique du Canada
+
+Reconciling the Ledger: The Rupert’s Land Purchase, Settler
+Capitalism, and Indigenous Dispossession on the Prairies
+
+Elizabeth McKenzie and Ian Mosby
+
+Volume 34, Number 1, 2024
+
+Article abstract
+
+This article examines one of the greatest land grabs in history and what may
+represent one of the single greatest transfers of wealth from Indigenous peoples
+to a private company: the so-called Rupert’s Land Purchase of 1870. By
+comparing the lands and money given to the Hudson’s Bay Company following
+Confederation for the transfer of Rupert’s Land to Canada with the lands and
+money set aside for First Nations signatories of Treaties 1–7 (1871–77) and the
+Métis Nation under the Manitoba Act of 1870, we attempt to establish what this
+looked like in material terms. In addition to highlighting the scale of wealth
+dispossession that occurred in both quantitative and qualitative terms, this
+article is primarily concerned with Canada’s actual implementation of these
+agreements. In recognizing the treaties beyond their written documents, this
+article seeks to challenge some of the popular narratives surrounding the
+Rupert’s Land Purchase and its significance in histories of stolen Indigenous land
+and wealth.
+
+URI: https://id.erudit.org/iderudit/1112549ar
+DOI: https://doi.org/10.7202/1112549ar
+
+See table of contents
+
+Publisher(s)
+
+The Canadian Historical Association / La Société historique du Canada
+
+ISSN
+
+0847-4478 (print)
+1712-6274 (digital)
+
+Explore this journal
+
+Cite this article
+
+McKenzie, E. & Mosby, I. (2024). Reconciling the Ledger: The Rupert’s Land
+Purchase, Settler Capitalism, and Indigenous Dispossession on the Prairies.
+Journal of the Canadian Historical Association / Revue de la Société historique du
+Canada, 34(1), 105–139. https://doi.org/10.7202/1112549ar
+
+All Rights Reserved © The Canadian Historical Association / La Société
+historique du Canada, 2024
+
+This document is protected by copyright law. Use of the services of Érudit
+(including reproduction) is subject to its terms and conditions, which can be
+viewed online.
+
+https://apropos.erudit.org/en/users/policy-on-use/
+
+This article is disseminated and preserved by Érudit.
+
+Érudit is a non-profit inter-university consortium of the Université de Montréal,
+Université Laval, and the Université du Québec à Montréal. Its mission is to
+promote and disseminate research.
+
+https://www.erudit.org/en/
+
+Reconciling the Ledger: The Rupert’s Land Purchase, 
+Reconciling the Ledger: The Rupert’s Land Purchase, 
+Settler Capitalism, and Indigenous Dispossession  
+Settler Capitalism, and Indigenous Dispossession  
+on the Prairies
+on the Prairies
+
+ELIZABETH MCKENZIE AND IAN MOSBY**
+ELIZABETH MCKENZIE AND IAN MOSBY
+
+Abstract
+
+This article examines one of the greatest land grabs in history and what may 
+represent one of the single greatest transfers of wealth from Indigenous peoples 
+to a private company: the so-called Rupert’s Land Purchase of 1870. By com-
+paring the lands and money given to the Hudson’s Bay Company following 
+Confederation for the transfer of Rupert’s Land to Canada with the lands and 
+money set aside for First Nations signatories of Treaties 1–7 (1871–77) and 
+the Métis Nation under the Manitoba Act of 1870, we attempt to establish 
+what this looked like in material terms. In addition to highlighting the scale of 
+wealth dispossession that occurred in both quantitative and qualitative terms, 
+this  article  is  primarily  concerned  with  Canada’s  actual  implementation  of 
+these agreements. In recognizing the treaties beyond their written documents, 
+this article seeks to challenge some of the popular narratives surrounding the 
+Rupert’s Land Purchase and its significance in histories of stolen Indigenous 
+land and wealth.
+
+Résumé
+
+Cet article examine l’un des plus grands accaparements de terres de l’histoire et 
+ce qui pourrait représenter l’un des plus grands transferts de richesse des peuples 
+autochtones vers une entreprise privée : l’achat de la terre de Rupert de 1870. 
+En comparant les terres et l’argent donnés à la Compagnie de la Baie d’Hud-
+son après la Confédération pour le transfert de la Terre de Rupert au Canada 
+avec les terres et l’argent réservés aux Premières Nations signataires des Traités 
+1-7 (1871-77) et à la Nation Métis dans le cadre de l’Acte du Manitoba de 
+1870, nous tentons d’établir ce que cela signifiait en termes matériels. En plus 
+de mettre en évidence l’ampleur de la dépossession des richesses qui s’est produite 
+en termes quantitatifs et qualitatifs, cet article s’intéresse principalement à la 
+
+* The authors are grateful for funding support from Toronto Metropolitan 
+University  and  the  Social  Sciences  and  Humanities  Research  Council’s 
+Insight Development Grant program.
+
+105
+
+JOURNAL OF THE CHA 2024New Series, Vol. 34, No. 1REVUE DE LA SHC 2024Nouvelle série, vol. 34, nº 1mise en œuvre effective de ces accords par le Canada. En reconnaissant les trai-
+tés au-delà de leurs documents écrits, cet article cherche à remettre en question 
+certains  des  récits  populaires  entourant  l’achat  de  la  Terre  de  Rupert  et  son 
+importance dans l’histoire du vol des terres et des richesses autochtones.
+
+The  Hudson’s  Bay  Company’s  (HBC)  supposed  “sale”  of  Rupert’s 
+Land to the newly created Dominion of Canada in 1870 was on the 
+minds  of  Nêhiyawak  (Cree)  and  Nahkawé  (Saulteaux)  leaders  when 
+they  gathered  at  Fort  Qu’Apelle  in  September  of  1874  to  discuss  a 
+possible  treaty  with  the  Crown.  Not  only  did  they  refuse  to  begin 
+negotiations until the gathering was moved from the HBC fort, but 
+they demanded to know how the company had been able to sell Nêhi-
+yawak and Nahkawé territories for three hundred thousand pounds 
+sterling to Canada — lands that, they repeatedly asserted, the HBC 
+did not actually own.1
+
+On the fourth day of negotiations, the Crown’s chief negotiator 
+and the lieutenant governor of Manitoba and the Northwest Territo-
+ries, Alexander Morris, expressed his frustration with the First Nations 
+leaders for refusing to “speak to the Queen’s messengers because of 
+the Company.” And so, once again, Nahkawé negotiator Otakaonan 
+(The Gambler) explained to him that it was not possible to negotiate 
+a treaty in good faith while HBC surveyors were staking off their land. 
+Otakaonan: The  Company  have  stolen  our  land.  I  heard 
+that at first. I hear it is true. The Queen’s mes-
+sengers  never  came  here,  and  now  I  see  the 
+soldiers and the settlers and the policemen.2
+
+When Morris again expressed his confusion, Otakaonan tried again to 
+clarify the matter. 
+
+Otakaonan:  When one Indian takes anything from another 
+we call it stealing, and when we see the present 
+we say pay us. It is the company I mean.
+ What did the Company steal from you?
+
+Morris:  
+Otakaonan:  The  earth,  trees,  grass,  stones,  all  that  I  see 
+
+with my eyes.3
+
+Later that day, Nêhiyawak Chief Pasqua pointed to an HBC officer in 
+attendance and said, “You told me you had sold your land for so much 
+money, £300,000. We want that money.”4
+
+106
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024And so, finally, Morris tried to explain why Canada had paid the 
+HBC for Nêhiyawak and Nahkawé lands the company did not own. 
+He  said  that  through  a  royal  charter  issued  in  the  year  1670,  “the 
+Queen’s  father’s  father  gave  the  Company  the  right  to  trade  in  the 
+country from the frozen ocean to the United States Boundary line, and 
+from the Atlantic Ocean to the Pacific,” but that, recently, the Queen 
+had changed her mind on these rights. She reminded the HBC that 
+“no, the land is not yours, the Queen’s father’s father gave your rights 
+to trade, it is time those rights should stop.” The parting gift of three 
+hundred thousand pounds and the grants of land around their com-
+pany forts were, Morris suggested, a payment for the surrender of the 
+company’s trade monopoly — not for the land — because the Queen 
+“would not take rights away from them any more than from you.”5
+
+Figure 5.1. Rupert’s Land, the Fertile Belt and Treaties 1-7
+
+Source: Image courtesy of the authors and Alan Wobeser, 2023.
+
+This, of course, was not true. The British Act of Parliament that 
+enabled  the  “transfer”  of  Rupert’s  Land  to  the  Dominion  of  Can-
+ada made specific reference to the company surrendering all “Lands, 
+Territories,  Rights,  Privileges,  Liberties,  Franchises,  Powers,  and 
+Authorities, so far as the same have been lawfully granted to the said 
+Company” and defined “Rupert’s Land” as “the whole of the Lands 
+
+107
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESand Territories held or claimed to be held by the said Governor and 
+Company.”6  The  “surrender”  of  Rupert’s  Land,  in  other  words,  was 
+never just about a trade monopoly. But at the time of Treaty 4 nego-
+tiations, Morris’s explanation was enough that, after a long and tense 
+negotiation, both parties signed the treaty.
+
+Otakaonan, Pasqua, and other Treaty 4 negotiators were neither 
+the first nor the last Indigenous peoples to question the validity and 
+fairness of the so-called Rupert’s Land Purchase, nor to highlight its 
+importance in relation to treaty-making. Even before the Deed of Sur-
+render  (1870)  was  passed  by  the  Canadian  Parliament,  the  Métis  at 
+Red River rejected the HBC’s supposed “sale.” In addition to famously 
+turning back Canadian surveyors trying to enter Red River in 1869, 
+the  Legislative  Assembly  of  Assiniboia  later  presented  Canada  with 
+a “List of Rights” that included, among other things, a demand that 
+“the bargain of the Hudson’s Bay Company with respect to the trans-
+fer of government of this country to the Dominion of Canada, never 
+have in any case an effect prejudicial to the rights of the Northwest.”7 
+Two  years  after  that,  in  1871,  Weekaskookwasayin  (Sweetgrass) 
+— who would be a key negotiator during Treaty 6 negotiations — 
+presented a petition to the first lieutenant-governor of Manitoba and 
+the  North-Western  Territory,  Adams  Archibald,  which  stated:  “We 
+heard our lands were sold and we did not like it; we don’t want to sell 
+our lands; it is our property, and no one has a right to sell them.”8
+
+Although  First  Nations  and  Métis  peoples  clearly  viewed  this 
+sale as an important lens through which they understood their own 
+existing and potential treaty relationships with Canada and the Brit-
+ish Crown, historians have not tended to follow their lead. More often 
+than not, the significance of the Rupert’s Land Purchase in 1870 is 
+measured by things like the purchase price (three hundred thousand 
+pounds, equivalent to approximately Can$1.5 million at the time), the 
+amount of land given to Canada (lands that, in today’s terms, consti-
+tute much of modern-day Quebec, Ontario, Manitoba, Saskatchewan, 
+Alberta, Nunavut, the Yukon, and the Northwest Territories), or the 
+amount of land granted to the HBC itself through the Rupert’s Land 
+Order  (one-twentieth  of  the  surveyed  lands  in  the  so-called  fertile 
+belt, and an additional fifty thousand acres surrounding their existing 
+posts).  And  while  many  accounts  will  note  the  role  of  this  specific 
+“real  estate”  transaction  in  helping  to  spark  the  1869–1870  Red 
+River Resistance, the meaning of the Rupert’s Land Purchase to other 
+Indigenous peoples tends to go overlooked.9
+
+108
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024Indigenous  scholars  like  Sharon  Venne  and  Adam  Gaudry,  for 
+their  part,  have  maintained  the  importance  of  the  so-called  sale  of 
+Rupert’s  Land  in  telling  the  history  of  Indigenous  dispossession  on 
+the prairies.10 And in 1990, the Qu’Appelle Tribal Council published 
+a research report that highlighted the Rupert’s Land Purchase as one 
+of a number of “possible causes for legal action,” given that the HBC’s 
+sale “seems to have brought greater returns in land to them than did 
+the Indian ‘surrender’ [in Treaty 4].”11 In recent years, a handful of 
+settler  scholars  —  including  Frank  Tough,  Elizabeth  Comack,  and 
+Shiri Pasternak — have also made compelling arguments for revisit-
+ing and recentring the transfer as a means of understanding both the 
+history  of  Indigenous  dispossession  and  the  imposition  of  corporate 
+settler  capitalism  on  the  prairies.12  But,  overall,  the  popular  narra-
+tive in undergraduate lecture halls and textbooks has remained largely 
+unchanged.13
+
+But what would happen, we wonder, if Canadian textbook auth-
+ors joined Indigenous scholars and communities in taking the claims 
+of Otakaonan more seriously and acknowledged the possibility that, 
+with Canada and Britain’s help, the HBC really did steal lands and 
+resources from Indigenous peoples? After receiving its royal charter in 
+1670, the company never gained title to Rupert’s Land from Indigen-
+ous peoples. And yet, as we will show, they somehow ended up with 
+some of the best lands in the fertile belt — a massive swath of land 
+bounded “on the south by the United States’ boundary; on the west 
+by the Rocky Mountains; on the north by the northern branch of the 
+Saskatchewan; on the east by Lake Winnipeg, the Lake of the Woods, 
+and the waters connecting them.”14 As we will discuss in more detail, 
+First  Nations  received  approximately  three  million  acres  in  reserves 
+through Treaties 1–7 (1871–77) compared to the HBC’s grant of over 
+6.6 million acres of Indigenous lands through the Deed of Surrender in 
+1870 — lands that, it must be stressed, overlap the exact same ter-
+ritory.15 Even with the inclusion of the 1.4 million acres promised to 
+the Métis Nation through the Manitoba Act of 1870 (most of which 
+ended up in the hands of white scrip speculators  ), these numbers put 
+into question claims that Canada acted honourably, justly, and fairly in 
+its dealings with its treaty partners — questions of major importance 
+given the role that concepts like “honour of the Crown” and “fiduciary 
+duty” play in Aboriginal and Treaty law in Canada.16
+
+Our goal to compare the Rupert’s Land Purchase with the trea-
+ties, however, also extends beyond just numbers as we address these 
+
+109
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESso-called  surrenders  in  both  qualitative  and  quantitative  terms. 
+Through  a  case-study  examination  of  lands  surveyed  for  the  HBC 
+in Treaty 1 territory in contrast to lands set aside for First Nations’ 
+reserves, we demonstrate that while Indigenous peoples were assured 
+of their treaty right to choose the locations of their reserves, they were 
+frequently  prohibited  from  choosing  lands  desired  by  squatters  and 
+companies like the HBC. As a result, the seemingly randomized system 
+to acquire lands in the fertile belt that was constitutionally guaranteed 
+to the HBC resulted in the company gaining access to much higher 
+quality lands than what First Nations could retain for their reserves. 
+This land grab also had tremendous long-term effects over the next 
+several decades, in which Indigenous wealth was transferred directly 
+to HBC shareholders and, inevitably, many other multinational cor-
+porations in the process. 
+
+Our  analysis,  therefore,  primarily  focuses  on  Canada’s  imple-
+mentation  (or  lack  of  implementation)  of  the  treaties  in  contrast  to 
+the Rupert’s Land Purchase. Prairie settler capitalism, we argue, was 
+built directly upon Indigenous dispossession in ways that can be quan-
+tified in terms of both stolen land and money — something that is 
+of increasing importance if Canada ever hopes to reconcile the ledger 
+when it comes to its treaty commitments to Indigenous peoples both 
+now and into the future. In the context of larger movements to reinsti-
+tute stolen wealth to Indigenous communities, we also hope that this 
+reassessment of the Rupert’s Land Purchase can be used as a tool for 
+reimagining  what  it  might  look  like  to  truthfully  honour  the  true 
+spirit and intent of the Numbered Treaties in both university class-
+rooms and beyond.17 
+
+“The Largest Real Estate Deal Ever”
+
+In the years leading up to the HBC’s sale of Rupert’s Land to Can-
+ada, it is worth noting that the company’s position in North America 
+had come under harsh scrutiny. As one of the last imperial joint-stock 
+trading companies of its kind, the HBC was on its last leg as a mon-
+opoly in a British Empire committed to so-called free markets and free 
+trade. For most critics in British North America, though, the sticking 
+point  was  less  the  trading  monopoly  than  its  landholdings:  by  the 
+1850s,  not  only  did  the  HBC  throw  its  royal  charter  in  the  face  of 
+prospective miners, railway developers, and anyone else interested in 
+the Hudson’s Bay drainage basin (otherwise known as Rupert’s Land), 
+
+110
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024but the company was also blocking Canadian expansionism into the 
+“Northwestern Territory” and parts of present-day British Columbia, 
+through a number of other deals and claims.18
+
+The  general  dissatisfaction  heard  throughout  the  Canadas 
+prompted  the  British  parliament  to  appoint  a  select  committee  in 
+1857 to investigate the various claims being made against the com-
+pany.19  After  further  investigation  and  public  hearings,  the  select 
+committee  agreed  that  the  HBC’s  control  of  Rupert’s  Land,  the 
+Northwestern  Territories,  and  Vancouver  Island  needed  to  come  to 
+an end. But while they strongly recommended “it will be proper to 
+terminate the connexion of the Hudson’s Bay Company with Vancou-
+ver Island,” and that “means should also be provided for the ultimate 
+extension of the colony over any portion of the adjoining continent, 
+to the west of the Rocky Mountains” — helping to pave the way for 
+the new colony of British Columbia in 1858 — their decision regard-
+ing the fate of Rupert’s Land was a little less clear, leaving its status 
+in limbo.20
+
+Despite failing to decide the fate of the HBC’s claims to Rupert’s 
+Land,  another  important  result  of  the  1857  investigation  was  the 
+creation  of  two  expeditions  —  one  British  and  one  Canadian  —  to 
+survey  the  lands  between  Lake  Superior  and  the  Pacific  Ocean.21 
+The company’s governor, George Simpson, had once told the select 
+committee that Rupert’s Land was a barren wilderness, unfit for agri-
+cultural development or mass settlement.22 But the Canadian survey, 
+published by lead geologist and chemist Henry Youle Hind in 1860, 
+largely debunked this claim. In fact, Hind found that Rupert’s Land 
+contained  a  “fertile  belt”  that  promised  exceptional  soil  conditions 
+that were perfect for western methods of farming as well as abundant 
+timber and mineral deposits.23
+
+Although the findings of the Hind expedition sparked growing 
+cries in the Canadas that the HBC give up its claims and allow settlers, 
+miners, a telegraph line, and a transcontinental railway through the 
+region,  political  deadlock  in  the  Canadas  prevented  any  immediate 
+purchase from taking place.24 Yet, for fear that the knowledge would 
+bring American annexation, in the meantime, Britain’s colonial sec-
+retary,  the  Duke  of  Newcastle,  partnered  with  the  president  of  the 
+Grand Trunk Railway, Edward Watkin, and convinced the HBC to sell 
+the company privately to an investment firm of financiers from eight 
+leading merchant banks in London. And so, in 1863, the International 
+Financial Society (IFS) purchased the majority of the HBC’s shares for 
+
+111
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIES£1.5 million — three times the value of the company’s capital stock 
+at the time.25
+
+The  takeover  had  a  transformative  effect.  Prior  to  the  acquisi-
+tion, HBC stock was measured solely by its fur trading profits, with 
+its traders, factors, and directors earning their annual income based on 
+the total amount of shares in the company they held.26 Following its 
+takeover, the IFS began a process to convert all of these “part-owners” 
+into  employees  who  would,  instead,  base  their  annual  income  on  a 
+fixed salary. After 1863, in other words, shareholders were no longer 
+exclusively the people managing affairs in London or working on the 
+ground to move furs from North America to Europe. Instead, these 
+new shareholders were individual investors contributing financially to 
+the company’s overall value, which was increasing rapidly through this 
+process.27 Whereas in 1856, just prior to the select committee hear-
+ing, the HBC’s capital stock was worth only five hundred thousand 
+pounds  and  held  by  268  “proprietors,”  by  1866,  the  company  had 
+sold two million pounds in shares to nearly 1,500 individual invest-
+ors.28 And these new investors were not interested in the company’s 
+fur trading monopoly. In their prospectus for newly issued HBC stock, 
+after  all,  the  IFS  promised  big  profits  from  the  land  holding  in  the 
+“Company’s territory.”29
+
+After Confederation in 1867, negotiations between the newly 
+created Dominion of Canada, Britain, and the HBC finally began 
+earnestly, but the idea of lining the pockets of investors in London 
+was not widely supported by the Canadian public, and parliamen-
+tarians threatened to take the case to the Privy Council.30 In 1869, 
+in an effort to prevent the matter from dragging on, the colonial 
+secretary presented Canada and the HBC with a last and final offer: 
+that  Canada  pay  the  HBC  three  hundred  thousand  pounds  and 
+give  the  company  one-twentieth  of  the  “fertile  belt”  as  described 
+by Hind.31 The alternative was to leave any possibility of Canada 
+annexing the territory in limbo before the courts for years — if not 
+decades — to come, while also leaving the HBC with an uncertain 
+future. Canada therefore reluctantly agreed to the Deed of Surrender 
+in 1869.32 
+
+For the HBC, the monetary payment was a far cry from the one 
+million  pounds  shareholders  hoped  to  gain  from  the  negotiations.33 
+But any disappointment was offset by the fact that the company had 
+managed  to  sell  the  HBC’s  uncertain  —  and  arguably  dubious  — 
+territorial  claims  to  the  West  in  exchange  for  what  they  estimated 
+
+112
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024would be nearly seven million acres of prime agricultural lands — all 
+while keeping their fur trading business, though not its monopoly. To 
+that end, the IFS had effectively taken the HBC’s contested territorial 
+claims and transformed them into a legally binding assertion of land 
+ownership, thereby establishing a firm foundation for a wholly new 
+company that would eventually — along with the Canadian Pacific 
+Railway  (CPR)  —  become  the  quintessential  representation  of  an 
+emerging settler capitalist order that Elizabeth Comack has described 
+as being the product of “corporate colonialism.”34 Not only this, but 
+the  HBC  was  formally  divested  of  its  obligations  on  behalf  of  the 
+Crown to maintain relations with Indigenous peoples. “Any claims of 
+Indians to compensation for lands required for the purpose of settle-
+ment,” a clause in the Rupert’s Land Order read, “shall be disposed 
+of by the Canadian Government in communication with the Imperial 
+Government; and the Company shall be relieved of all responsibility 
+in respect of them.”35
+
+So,  over  the  next  seven  years,  Canada  negotiated  treaties  with 
+Indigenous  peoples  that  stipulated  —  from  the  perspective  of  the 
+Crown — a second “purchase” or “surrender” of the exact same territory 
+for which they had just negotiated a similar agreement with the HBC. 
+And while we know that Indigenous peoples were the primary insti-
+gators for treaties that would recognize their political autonomy and 
+rights to the land in light of Canadian expansionism and the HBC’s 
+“sale,” the twin processes of the Rupert’s Land Purchase and the sign-
+ing of Treaties 1–7 offer a powerful lens through which to examine 
+what Canada thought each party was owed, as well as the sheer scale 
+of wealth transferred from Indigenous peoples to, in this case, a group 
+of land speculators across an ocean in London.36
+
+Money
+
+On  the  surface,  it  might  appear  that  the  most  straightforward  way 
+to  assess  the  relative  value  assigned  by  Canada  to  the  Numbered 
+Treaties in comparison with the Rupert’s Land Purchase would be to 
+compare what First Nations received in cash treaty annuities with the 
+money  granted  to  the  HBC.  After  all,  the  figure  of  three  hundred 
+thousand pounds plays an outsized role in the often-repeated story of 
+the Rupert’s Land Purchase because it implies — at least on a surface 
+level — that Canada got a “good deal” for the land. Take, for instance, 
+this passage in J. R. Miller’s Skyscrapers Hide the Heavens: “Canada, with 
+
+113
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESBritain’s help and pressure, succeeded in obtaining the lands for the 
+trifling sum of £300,000 and one twentieth of the land. The HBC, 
+which would take its 5 per cent of the land in many cases adjacent to 
+its  posts,  was  disgruntled  by  Canadian  parsimony  and  British  pres-
+sure.”37 This, and similar accounts, with their use (whether ironically 
+or not) of terms like “trifling sum” and “Canadian parsimony,” have 
+helped to minimize the sheer scale of wealth transfer from Indigenous 
+peoples to the HBC that took place during this period. They are also 
+quite  wrong  about  the  value  of  three  hundred  thousand  pounds  in 
+1870. The entire HBC, as we have noted above, was valued at only 
+five  hundred  thousand  pounds  just  a  few  years  earlier,  and  the  sale 
+price listed in the Deed of Surrender — equivalent to Can$1.5 million 
+in 1870 — also represented more than 10 percent of Canada’s total 
+spending in the fiscal year just prior to the purchase.38
+
+This  was,  in  other  words,  no  trifling  sum.  And  from  the  per-
+spective of the Canadian government, neither was the money being 
+spent on treaty annuities. While many treaties included larger initial 
+cash payments of twelve dollars in the first year and some started with 
+annual payments of only three dollars (See Table 1), by 1878, all sig-
+natories of Treaties 1–7 were promised annual payments of five dollars 
+(that  have  continued  to  the  present  day).  Following  the  signing  of 
+Treaties 1 and 2 in 1872, Canada paid out $16,463 in annuities. That 
+number increased significantly following the completion of Treaties 3 
+through 7 to $197,546 in 1879, and reached a peak of $212,660 in 
+1882.39  Just  the  act  of  getting  that  many  one-  and  two-dollar  bills 
+to signatories, alone, proved to be a serious logistical challenge prior 
+to the completion of the CPR and required the government “to draw 
+moneys  on  central  Canadian  banks  and  sent  them  west  by  armed 
+escort in strongbox.”40 In fact, the bills used to seal the negotiations 
+had only just been printed by the Dominion government in 1870 as 
+the first of their kind, and they were not even made official currency in 
+Manitoba until 1876.41 Nonetheless, by 1885, Canada had indeed paid 
+the signatories of Treaties 1–7 slightly more than the money received 
+by  the  HBC  as  part  of  the  Deed  of  Surrender  (equivalent  to  roughly 
+Can$1.5  million).42  While  the  value  of  five  dollars  has  long  since 
+genuinely been a trifling sum given the realities of inflation, George 
+Colpitts argues that treaty annuity money was much more meaningful 
+throughout much of the late nineteenth century when First Nations 
+“collectively spent their treaty annuities to purchase goods that sup-
+ported dances, feasts, and political gatherings.”43
+
+114
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024Table 1: Treaty 1-7 Annuities
+
+Treaty 1 (1871)
+
+Treaty 2 (1871)
+
+Treaty 3 (1873)
+
+Treaty 4 (1874)
+
+$3  per  person  (changed  to  $5  per  person  in 
+1875)
+
+$3  per  person  (changed  to  $5  per  person  in 
+1875)
+
+$12 per family of five in the first year, $5 per 
+person thereafter
+
+$5 per person ($12 one-time payment added 
+and distributed in 1875)
+
+Treaty 5 (1875)
+
+$5 per person
+
+Treaty 6 (1876)
+
+Treaty 7 (1877)
+
+$12 per person in the first year, $5 per person 
+thereafter
+
+$12 per person in the first year, $5 per person 
+thereafter
+
+Ultimately, though, such comparisons between treaty annuities 
+and the payment made to the HBC are of limited usefulness. From 
+the  perspective  of  the  HBC,  the  figure  of  three  hundred  thousand 
+pounds was a cash advance on the company’s real payment, which was 
+always  going  to  be  the  estimated  seven  million  acres  of  Indigenous 
+lands the company was planning to sell to eager settlers. According to 
+Frank Tough, this bet paid off in a big way. Land sales alone brought 
+the HBC a net profit of over ninety-six million dollars between 1891 
+and 1930—a figure amounting to somewhere in the neighborhood of 
+two billion dollars today—and, between 1905 and 1922, “the Com-
+pany’s dividend rate ranged from 20 to 50 percent.”44 Yet somehow by 
+the end of this, the HBC still had another 2.6 million acres of land in 
+1930 left to sell—just about four hundred thousand acres shy of the 
+total lands reserved for First Nations in Treaties 1–7 at that time.45 
+Land, in other words, was the real capital that the HBC was being 
+paid in—and it was a payment that continued to pay and pay, well 
+after the HBC surrendered its rights to Rupert’s Land in 1870.
+
+Indigenous peoples, for their part, had a very different perspec-
+tive on the values of both land and money during this period. Prior to 
+1870, few if any financial transactions made on the prairies by both 
+Indigenous peoples and settlers involved the kind of paper money that 
+was  paid  out  as  treaty  annuities.  Most  transactions  were  limited  to 
+
+115
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESdealings with the HBC or other trading companies and were typically 
+governed by the exchange value of standardized trade goods — with 
+a  “made  beaver”  defined  as  “the  theoretical  value  of  a  single  prime 
+beaver pelt,” being the most well-known example.46 While Indigen-
+ous peoples had therefore long been familiar with the kinds of abstract 
+notions of exchange value that paper money represented, the specific 
+value of a single Canadian dollar would have still been an unclear and 
+novel concept for most Indigenous negotiators.47
+
+Ultimately, treaty negotiations did not hinge on the dollar value 
+of  annuities.  Even  before  the  large-scale  arrival  of  settlers  to  their 
+territories, Indigenous peoples had already begun to see their world 
+transformed  by  the  ecological,  health,  social,  and  political  effects 
+of  settler  colonialism.  Whether  it  was  the  dwindling  of  bison  herds 
+(due,  in  part,  to  an  intentional  policy  of  eradication  in  the  United 
+States),  the  devastating  impact  of  European  diseases  like  smallpox, 
+or the resource conflicts caused by the movement of Indigenous refu-
+gees throughout the Great Plains as a result of the US government’s 
+so-called Indian Wars, Indigenous peoples fully understood that their 
+world was rapidly changing.48 They therefore insisted on treaties, not 
+as a way to receive financial compensation for their lands but, rather, 
+as the basis for peaceful — and mutually beneficial — relationships 
+with settlers that both recognized their political autonomy and rights 
+to the lands but that would also help them transition to a new social, 
+political and ecological reality on the prairies. 
+
+Although  the  annual  payment  was  meant  to  symbolize  an 
+ongoing  reciprocal  relationship  between  signatories  and  Canada  — 
+reflecting  the  long-standing  gift-giving  practices  of  the  fur  trade 
+— First Nations were far more concerned with retaining control over 
+valuable lands and resources while also inserting provisions into the 
+treaties that would promote the future success of their nations in the 
+changing prairie economy. This is why they were able to secure provi-
+sions for, among other things, farming implements, cattle, seed grain, 
+farm instructors, and education into the treaties.49 In fact, despite Can-
+ada’s  repeated  instructions  to  their  treaty  commissioners  to  stick  to 
+the terms determined in advance of negotiations to prevent unneces-
+sary  costs,  First  Nations  leaders  proved  to  be  shrewd  negotiators.50 
+Canada’s initial proposal for Treaty 1, for instance, only included an 
+outline for reserve lands and annuities.51 When First Nations found 
+the  negotiations  overly  one-sided  and  threatened  to  leave,  however, 
+Archibald and treaty commissioner Wemyss McKenzie Simpson began 
+
+116
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024to make sweeping promises related to agricultural implements, edu-
+cation, larger reserve allotments, and increased annuities.52 Similarly, 
+during the Treaty 6 negotiations, First Nations were able to secure the 
+inclusion of government assistance in times of famine and the promise 
+of a medicine chest at the house of each Indian agent for the use of the 
+people — two promises that proved to be extremely relevant within 
+just a few years.53
+
+Treaty Elders, however, have long maintained that the true spirit 
+and intent of the treaties are not contained in Canada’s version of the 
+treaties,  and  turn  to  excluded,  orally  negotiated  treaty  rights,  such 
+as  hunting,  fishing,  mineral,  and  harvesting  rights,  as  examples  of 
+Canada’s violation of their treaty commitments.54 Recent scholarship 
+supports these arguments and has shown that Indigenous signatories 
+were  intentionally  misled  by  treaty  commissioners  to  believe  that  a 
+mutual agreement had been reached to share the land “to the depth 
+of the plough” with Canadians — not surrender all of the land, water, 
+and  resources  in  the  territory.55  In  signing  the  treaties,  Indigenous 
+negotiators  were  also  not  informed  that  they  and  their  descendants 
+would be subjected to Canadian laws such as the Indian Act, that their 
+traditional governance and cultural practices would be prohibited, or 
+that  limits  would  be  placed  on  their  freedom  to  move  beyond  the 
+boundaries of their reserves or to sell goods on the open market.56 
+
+Had Indigenous negotiators been informed of these intentions, 
+it is possible that they may have never agreed to the treaties   — or at 
+the very least, not for the compensation recorded in either the writ-
+ten or oral accounts. Simply comparing the one-time cash payment 
+the HBC received with treaty annuities paid out in perpetuity, then, 
+only captures one aspect of the total value assigned to each of these 
+negotiations. But one thing that all parties to the Numbered Treaties 
+and the Deed of Surrender, alike, had in common was that their priority 
+always boiled down to a single issue: the land. 
+
+“On Principles of Fairness and Justice”
+
+In his opening address of Treaty 1 negotiations, the lieutenant-gov-
+ernor  Adams  Archibald  addressed  the  crowd  with  the  promise  that 
+“the  old  settlers  and  the  settlers  that  are  coming  in  must  be  dealt 
+with on principles of fairness and justice as well as yourselves. Your Great 
+Mother knows no difference between any of her people.”57 His out-
+look  toward  the  future  of  the  western  plains  may  be  understood  as 
+
+117
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESone where Indigenous peoples would be afforded the same rights as 
+settlers under Canadian law — a sentiment, perhaps, that was shared 
+by signatories of the treaty. Another possible interpretation, though, 
+is that he feared Indigenous peoples would demand compensation that 
+would put them at an economic advantage compared to their settler 
+counterparts. 
+
+In practice, then, these “principles of fairness and justice” that 
+sought  to  place  Indigenous  and  non-Indigenous  peoples  on  a  level 
+playing  field  undermined  the  compensation  that  signatories  of  the 
+treaties received for the loss of their lands and resources, particularly 
+when it came to the distribution of land in the form of reserves. In 
+Treaties 1, 2, and 5, covering what is now the province of Manitoba, 
+signatories were afforded reserves that equated 160 acres of land for 
+every family of five. Under the Dominion Lands Act of 1872, incom-
+ing  settlers  could  obtain  the  same  for  free  —  a  quarter-section  of  a 
+township or 160 acres — so long as they were able to make the neces-
+sary “improvements” within three years.58 
+
+Through  scrip, Métis heads  of family were similarly  entitled to 
+160  acres  of  land  or  a  one-time  payment  of  $160.59  And  although 
+Treaties 3, 4, 6, and 7 reserved four times the amount of land than 
+the treaties in Manitoba (equivalent to 640 acres per family of five), it 
+should be noted that settlers who proved to authorities that progress 
+had been made on their homestead instantly became eligible for addi-
+tional  grants  of  adjoining,  unoccupied  quarter-section  lots,  making 
+for larger land grants overall.60 This land policy was not extended to 
+Indigenous signatories of the Numbered Treaties, nor was it available 
+to any Métis head-of-family who purchased land through scrip.61 In 
+comparison, the HBC was compensated with nearly two sections (or 
+1,120 acres) in every township over the exact same lands that com-
+prised Treaties 1–7 (see Figure 5.2).
+
+These  changes  were  without  precedent  for  First  Nations  and 
+Métis  peoples.  Although  the  HBC  had  engaged  in  treaty  relation-
+ships  with  Indigenous  peoples  prior  to  the  sale  of  Rupert’s  Land  to 
+Canada, the Selkirk Treaty of 1817, which permitted some early set-
+tlers into the Red River Valley, for example, was premised on the idea 
+that settlers would “rent” lands along the Red and Assiniboine Rivers 
+from diverse communities of Anishinaabe, Cree, Saulteaux, and Métis 
+peoples. Living under Indigenous laws and legal principles, the land 
+allowed for both mixed farming communities along the fertile river-
+beds, as well as vast prairie hunting grounds for bison and other large 
+
+118
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024Figure 5.2. Prairie Land Allocations  
+
+game  animals.62  By  contrast,  Canada’s  plan  to  transform  the  West 
+through the Dominion Lands Act into an endless grid of white settler 
+private property — crosscut by survey lines, townships, road allow-
+ances and quarter sections — was premised on the destruction of all 
+previously existing customary use rights and Indigenous legal orders 
+that had governed the land for millennia. As John Weaver has argued, 
+Dominion surveyors were therefore tasked with being “forward agents 
+of capitalism and the state” whose work was “essential to recasting the 
+land for the economic ends of colonizers.”63
+
+The application of the Dominion Lands Act on the prairies has 
+been described as “one of the largest land enclosure projects in world 
+history,” and this is a crucial point.64 Enclosure, after all, “meant not 
+simply a physical fencing of land but the extinction of common and 
+customary use rights on which many people depended for their live-
+lihood.”65  But  whereas  this  process  took  centuries  in  England,  the 
+passage of the Dominions Land Act in 1872 sought to enact the same 
+revolutionary and destructive process within just a few short decades. 
+And, as Ellen Meiksins Wood argues, these kinds of efforts to repro-
+duce English notions of private property and capitalist accumulation 
+in places like North America almost always “reproduce[d] effects that 
+it  had  at  the  beginnings  within  its  country  of  origin:  dispossession, 
+extinction  of  customary  property  rights,  the  imposition  of  market 
+imperatives, and environmental destruction.”66
+
+119
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESThe violence of the imposition of a capitalist regime of private 
+property over top of the existing customary and legal orders that had 
+governed the territory for centuries cannot be understated. After the 
+entrance of Manitoba into confederation, the Métis were the first to 
+be separated from their common woodlots, hayfields, and other lands 
+that — in one fell swoop — were erased by an unyielding grid of pri-
+vate ownership drawn by Dominion surveyors.67 It is no wonder, then, 
+that  when  Canada  attempted  to  impose  a  similar  system  on  Métis 
+settlements in the Northwest, many chose to take up arms rather than 
+let Canada impose its will on their lands. As Irene Spry has argued, 
+the 1885 resistance can, in many ways, be seen as “a last despairing 
+attempt  to  protect  the  commons  on  which  they  depended  for  their 
+way of life.”68
+
+First Nations also saw how incompatible this new land regime 
+was with their sovereignty. It was not only that treaty commissioners 
+had lied during negotiations when they said “you will be free to hunt 
+over [the lands], and make all the use of them which you have made 
+in the past,” but no matter how important specific lands were from a 
+spiritual, cultural, social, or economic perspective, Dominion survey-
+ors transformed them into fee-simple private property for the benefit 
+of individual settlers and corporations.69 Even when it came to setting 
+aside their own lands in the form of reserves, First Nations still seemed 
+to come last. While the HBC and the CPR benefitted disproportion-
+ately from government grants of 6.6 million and twenty-five million 
+acres, respectively, by 1913 the total area surveyed into reserves for 
+signatories of Treaties 1–7 was just 3,071,000—less than half of what 
+was transferred to the HBC and only a small fraction of that allotted 
+to the CPR.70 
+
+Those three million acres may also be much less than what First 
+Nations  were  entitled  to  under  the  per  capita  terms  of  the  treaties. 
+For one thing, we know that this figure does not include the 874,000 
+acres that were officially “surrendered” from reserves between 1871 
+and 1928.71 But there is also strong evidence that the number of indi-
+viduals  who  signed  the  treaties  was  often  significantly  higher  than 
+the  population  used  by  the  Department  of  Indian  Affairs  (DIA)  to 
+determine reserve allocations. Unlike the HBC, after all—whose land 
+grant was determined as a percentage of the fertile belt and was writ-
+ten into the Dominion Lands Act itself—reserve surveyors needed to 
+use  population  statistics  collected  and  stored  by  the  DIA  to  know 
+how  much  land  a  First  Nation  was  entitled  to.  And  while  gaps  in 
+
+120
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024record  keeping,  contradictory  datasets,  and  a  whole  range  of  other 
+issues made it impossible for us to come up with a precise figure of 
+how much land was owed to First Nations signatories of Treaties 1-7 
+in total, a closer examination of how reserves were allocated for indi-
+vidual First Nations makes it clear that the timing of reserve surveys 
+often saw First Nations receive only a fraction of the lands that they 
+were promised when they signed the treaty.
+
+The best example of how this worked in practice is the research 
+historian Robert Innes on the Treaty Land Entitlement (TLE) of his 
+own  community  of  Cowessess  First  Nation  in  Treaty  4  territory.  As 
+Innes shows, based on research done as part of Cowessess’ TLE claim 
+during  the  1990s,  the  population  figure  of  480  used  to  calculate 
+the size of their reserve in 1882 was likely less than half of the total 
+population at the time the First Nation signed the treaty in 1874.72 
+Although there were many factors that contributed to these kinds of 
+population  declines  across  the  prairies  —  including  the  removal  of 
+the  Métis  from  treaty  after  1885,  or  through  revoking  Indigenous 
+women’s  “Indian  Status”  under  the  Indian  Act  for  marrying  white 
+men — Innes makes clear that the situation at Cowessess was primar-
+ily because the community “experienced genocide at the hands of the 
+Canadian government.”73 Following the completion of Treaty 7, after 
+all, the abrupt disappearance of the bison herds led to hunger, starva-
+tion, and famine for First Nations throughout the prairies, which has 
+been well documented by John Tobias, Maureen Lux, James Daschuck, 
+and others.74 Despite both explicit written and oral promises of aid in 
+times of famine and of want, however, Canada’s response was minimal 
+and intentionally inadequate. As prime minister John A. Macdonald 
+told parliament in 1882, the government’s agents were “doing all they 
+can, by refusing food until the Indians are on the verge of starvation, 
+to reduce the expense.”75
+
+The  outcome  of  this  breach  of  Canada’s  treaty  promises  were 
+nothing  short  of  horrifying.  As  Maureen  Lux  has  calculated  using 
+annuity  paylists  for  the  years  1884  to  1894,  deaths  outnumbered 
+births nearly every year in the Battleford Reserves in Treaty 6 territory, 
+with a total population decline of 56.2 percent in just a single decade. 
+Losses in Treaty 4 were comparable as well, where the population of 
+the Crooked Lakes Reserves (which included Cowessess) declined by 
+41.3 percent and the File Hills Reserves, a staggering 46 percent.76 
+The  reality,  then,  is  that  the  typical  gap  between  when  the  treaty 
+was signed and reserves surveys—a gap which was often years if not 
+
+121
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESdecades for many Treaty 1-7 First Nations—suggests that Cowessess 
+was not alone in their reserve surveys reflecting far less land than they 
+were entitled to when they entered into treaty.
+
+It  is  no  wonder,  then,  that  the  land  was  so  disproportionately 
+divided in the favour of corporations like the HBC. As Frank Tough 
+has shown, in 1930, the Department of the Interior reported 2.6 per-
+cent (559,301 acres) of the province of Manitoba had been set aside 
+for  signatories  of  the  Numbered  Treaties,  meanwhile  6.1  percent 
+(1,279,965  acres)  was  granted  to  the  HBC.77  Yet,  aside  from  these 
+striking numerical comparisons, we also sought to address the quality 
+of those lands in a case study of Treaty 1 territory. The purpose of this 
+is to extend what we understand to be “treaty obligations” beyond the 
+written texts of the treaties, while also adding an additional layer of 
+comparison to this analysis.
+
+The Land
+
+Between 1871 and 1879, the first Dominion Land Survey (DLS) was 
+completed, allowing the HBC access for the first time to their promise 
+of one-twentieth of the fertile belt in the new province of Manitoba.78 
+The townships created through the survey were divided into thirty-six 
+sections,  each  totalling  640  acres  and  further  subdivided  into  quar-
+ter-sections  of  160  acres  to  be  sold  as  homesteads.  To  facilitate  the 
+transfer of HBC lands, the Dominion Lands Act stipulated that the 
+company be granted Sections 8 and 26 in all townships divisible by 
+five (5, 10, 15, and so on) and — in all other townships — the entirety 
+of Section 8, but only three-quarters of Section 26. These complicated 
+terms  to  fulfill  the  one-twentieth  provision  of  the  Deed  of  Surrender 
+also allowed the company in some cases to choose additional lands in 
+Section 26 that were unoccupied.79 The company therefore sent out its 
+own surveyors to further subdivide the quarter-sections and rate each 
+lot on a distinctive class scale of 1 to 4.80
+
+In the HBC surveyor’s field notes, Class 1 was attributed as the 
+highest quality of land, usually associated with exceptional potential 
+for agricultural use. These lots were labelled “fine prairie land,” “excel-
+lent soil,” and “good and rich loam.” Class 2, while also of superior 
+quality, usually contained some unwanted attributes such as “marshy 
+meadows,”  “sandy  soil,”  or  “muck  and  clay,”  though  these  would 
+have only affected a small portion of the lot. In addition, these higher 
+classes included some forested regions for their potential sale value. By 
+
+122
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024Figure 5.3. Dominion Land Survey Township divided into thirty-six 
+640 acre sections, showing Hudson’s Bay Company lands.
+
+Source: An Act respecting the Public Lands of the Dominion, S.C. 1872, c. 23
+
+contrast, lots rated Class 3 or 4 were of much poorer quality, usually 
+located  in  marshes,  wetlands,  and  floodplains  otherwise  unsuitable 
+for agricultural use. There is little distinction in the surveyor’s notes 
+between these two classes — while one Class 3 lot was simply labelled 
+“Devil’s  Swamp,”  another  Class  4  was  described  as  “marsh,  water 
+about 2 ft deep,” both unfit for farming.81
+
+Between 1871 and 1873, over five thousand ten-acre lots from 
+the first DLS were rated by HBC surveyors.82 Out of the total 51,010 
+acres  resurveyed,  only  9  percent  constituted  Class  3  and  4  lands  (7 
+and 2 percent, respectively) while the remaining were either Class 1 
+(59 percent), Class 2 (29 percent) or were left unlabelled (4 percent) 
+(See  Figure  5.4).83  These  figures  help  to  illuminate  the  reality  that, 
+although  the  DLS  created  a  seemingly  randomized  system  to  fulfill 
+
+123
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESthe  one-twentieth  provision,  the  HBC  was  still  able  to  access  valu-
+able lots since so much of the land in Manitoba was either very fertile 
+for agricultural development or for the sale of timber. Even then, as 
+Chester Martin has noted, when the federal government appropriated 
+Section 8 and 26 lots from the company for national parks and forests 
+or First Nations’ reserves, the HBC was given “indemnity selection” 
+to choose additional timber and grazing lands in lieu of what had been 
+taken.84
+
+Figure 5.4. HBC Lands in Manitoba by Classification
+
+Source: “Surveyor’s field notes for land allotted to the Hudson’s Bay Com-
+pany, book nos. 1–17,” RG 1/6, Archives of Manitoba, Winnipeg, MB.  
+
+Yet, perhaps even more valuable, the Deed of Surrender also author-
+ized  the  company  to  claim  another  fifty  thousand  acres  surrounding 
+their  existing  posts  in  addition  to  the  one-twentieth  provision,  thus 
+granting the HBC access to some of the most fertile river lots in the 
+Red River District and other parts of the fertile belt. Most notably, this 
+included the five-hundred-acre HBC “reserve” surrounding Fort Garry, 
+which encompassed some of the most valuable real estate in Manitoba, 
+and now the present site of Downtown Winnipeg. These land holdings 
+around company forts were among some of the first and most profit-
+able of the HBC’s early land sales due to their proximity to developing 
+
+124
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024prairie towns, railways, and water navigation routes — areas that First 
+Nations were restricted from selecting for reserve lands.85 
+
+Jean Teillet and other Métis scholars have documented the myr-
+iad ways in which the Métis of Red River were, more often than not, 
+also dispossessed of these valuable and productive lots in their home-
+lands.  The  combination  of  outright  fraud,  intentional  bureaucratic 
+inefficiency, as well as the use of terror and violence by settlers after 
+1869, all but guaranteed that the best land would go to white Protest-
+ant settlers. As one commissioner tasked with investigating Métis land 
+claims  after  1885  wrote  concerning  the  territory  ultimately  secured 
+by the Métis, “If it had been the object … to select the poorest land 
+available, then they succeeded.”86
+
+Despite  the  clear  availability  of  good  prairie  and  timber  lands 
+throughout the surveyed lands, First Nations tended to also end up 
+on the margins, with much poorer quality allotments for their reserves 
+than  what  the  HBC  had  received  in  its  one-twentieth  of  the  fertile 
+belt.  As  Benjamin  Hoy  argues,  the  reserve-surveying  era  marked 
+a  dramatic  change  in  the  lands  that  the  Nêhiyawak,  for  their  part, 
+would now come to rely on:
+
+For the Cree, being home meant, “to be a nation, to have 
+access to land, to be able to raise your own children, and to 
+have political control.” The Cree words to describe reserves 
+—  “askîhkân  (‘fake  land’)  and  iskonikan  (‘left-overs’)” 
+— emphasized the monumental changes that disease, hun-
+ger, and violence unleashed. For the Cree, 1885, the year 
+of  their  military  defeat  at  the  hands  of  Canadian  forces, 
+became known as ê-mâyahkamikahk or the year “where it 
+went wrong.”87
+
+Sarah Carter explains this shift in Lost Harvests, where she argues that 
+Canadian  surveyors  were  instructed  to  provide  First  Nations  with 
+reserves that were of lesser quality than the lands granted to settlers 
+as  homesteads  by  surveying  reserves  far  from  important  resources, 
+railway lines, and white settlements. This informal policy, while not 
+always followed, ensured that the most valuable lands were saved for 
+settlers. It also resulted in reserve communities that were economically 
+isolated and located on lands with poorer soil conditions for farming.88
+In  Treaty  1  territory,  First  Nations  were  also  consistently 
+restricted from choosing the same valuable lands that the HBC had 
+gained access to, and far less attention was given to ensuring that the 
+
+125
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESreserve surveys matched the agreed terms of the treaty. Although First 
+Nations were assured during treaty negotiations that they would be 
+able to select their own reserve lands, the reality was that they were 
+consistently  required  to  accommodate  for  competing  settler  claims. 
+Roseau River First Nation, for example, was restricted from claiming 
+their desired reserve on both sides of the Roseau River from its mouth 
+to its rapids when a group of settlers claimed the land before the reserve 
+could be surveyed.89 And when setting aside lands for Sakgeeng First 
+Nation, surveyor J. W. Harris marked out a total of 5,750 acres from 
+the reserve to settle claims made by an English mission, settlers, some 
+Métis, and notably the HBC for their post at Fort Alexander.90 
+
+In  one  instance,  treaty  commissioners  attempted  to  integrate 
+Brokenhead Ojibway Nation into the Roseau River reserve because their 
+presence near Fort Garry and the Red River District was perceived as a 
+deterrent to incoming settlement.91 When Chief Nashakepenais pushed 
+to have his community recognized as distinctly separate and therefore 
+entitled  to  their  own  lands  and  political  autonomy,  surveyors  helped 
+to relocate the First Nation to an isolated reserve over sixty kilometres 
+northeast of Winnipeg and described by the former treaty commissioner 
+J.  A.  N.  Provencher  in  1875  as  being  “very  swampy,  and  to  a  great 
+extent unfit for farming purposes.”92 The reserve, initially surveyed to 
+be 10,920 acres, was also much smaller than what the First Nation was 
+entitled to under the treaty. Based on a population of 439 persons, and 
+a reserve entitlement of “160 acres per family of five, or in that propor-
+tion for larger or smaller families,” as recorded in the treaty, the reserve 
+should  have  amounted  to  roughly  fourteen  thousand  acres  —  repre-
+senting a missing entitlement of over three thousand acres. Although 
+Provencher ordered the extension of 6,500 acres to the reserve in the 
+following year to accommodate for the poor soil conditions, it is unclear 
+whether or not this extension actually provided more suitable land for 
+agricultural purposes, or more or less the same quality as before, as the 
+First  Nation  continued  to  encounter  difficult  growing  seasons  in  the 
+following years.93 In 1880, Brokenhead was reported as still primarily 
+dependent on hunting and fishing. And, in 1885, while neighbouring 
+reserves at St. Peter’s and Fort Alexander produced abundant harvests, 
+all but the potato crops at Brokenhead “turned out poorly.”94 
+
+Meanwhile, on the southwestern shore of Lake Manitoba, Sandy 
+Bay First Nation chose the location of their reserve for its abundance 
+of fish, wild game, and meadows. Yet, as surveyor J. L. Reid reported 
+during the initial survey, the land was only viable for livestock farm-
+
+126
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024ing.95  In  the  following  years,  Sandy  Bay  began  experiencing  severe 
+flooding from the lake, causing the loss of many crops and livestock. 
+When a formal request was made to enlarge the reserve boundaries 
+just  west  of  the  reserve  toward  higher,  available  ground,  the  DIA 
+counter-offered instead to extend the reserve’s boundaries either north 
+or south along the lake. In exchange for the additional land, the DIA 
+also expected Sandy Bay First Nation to surrender the arable western 
+portion  of  the  existing  reserve  so  it  could  be  sold  to  settlers.96  This 
+perplexing offer to accept even more lands prone to flooding along the 
+water is yet another example of the “principles of fairness and justice” 
+employed in establishing reserves for Treaty 1 First Nations: namely, 
+reserves  that  often  were  not  only  of  a  lesser  quantity  than  what  the 
+HBC received but also of much poorer quality.97
+
+Further Dispossession
+
+The  story  of  the  HBC  in  the  aftermath  of  the  Rupert’s  Land  Pur-
+chase presents a near opposite narrative compared to what Indigenous 
+peoples would come to experience after negotiating the treaties. For 
+the HBC, the early twentieth century represented a second great land 
+rush promising monumental returns for the company’s lands in the 
+fertile belt, most of which were yet to be sold. Indigenous peoples, in 
+contrast, were stripped of even more of their remaining land holdings 
+and  compensated  with  very  little  for  it  in  return.  But  perhaps  the 
+biggest advantage to the HBC was that the company was in complete 
+control  of  its  own  land  holdings  and  finances.  Senior  officials  could 
+determine when they wanted to sell lands, for what price, and what 
+they would do with the money earned. For First Nations who were 
+subjected to the draconian Indian Act and pass system, the opportun-
+ity to access the prairie economy during this same period was severely 
+limited, if not prohibited entirely.98 
+
+Land sales, however, were not the only way the company reaped 
+additional profits from the Rupert’s Land Purchase. As Donica Belisle 
+shows  in  Retail  Nation,  the  HBC  was  able  to  capitalize  on  both  its 
+extensive landholdings as well as its existing trade networks to create a 
+new chain of retail stores aimed specifically at the growing population 
+of  white  settlers.  Beginning  in  1890  with  a  two-storey  department 
+store in Calgary, the stores quickly expanded across Western Canada, 
+and by 1919, the HBC was Canada’s third-largest retailer and making 
+annual sales of nearly fifteen million dollars.99
+
+127
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESThen,  in  1926,  the  HBC  began  its  pursuit  into  the  petroleum 
+industry with the creation of Hudson’s Bay Marland Oil, later changed 
+to  Hudson’s  Bay  Oil  and  Gas  (HBOG)  in  1929.100  The  company’s 
+ability to buy up additional lands for extractive resource development 
+speaks volumes to the “rights” afforded to the company that were simul-
+taneously denied to Indigenous signatories of the treaties, as the HBC 
+played a pivotal role in the development of Canada’s oil and gas sectors. 
+Over the course of the twentieth century, HBOG accumulated more 
+than 13.6 million net acres of land in Canada — 5.7 million of which 
+were located in the west — and held an additional 8.9 million acres 
+abroad.101  A  New  York  Times  article  published  in  1981  reported  that 
+the company was the “second-largest natural gas producer in Canada,” 
+and, in Western Canada, the owners of “one of the largest land pos-
+itions in the industry.” That year, for a majority share of 52.9 percent of 
+HBOG, Dome Petroleum purchased $1.43 billion in shares, and pro-
+vided the HBC with an additional $245 million in cash. Importantly, 
+however, these numbers only provide us with a glimpse into the total 
+value the HBC earned from its participation in resource extraction.102
+
+In stark contrast, the research of economist Carl Beal shows that, 
+between  1898  and  1928,  nearly  380,000  acres  were  removed  from 
+reserves in Saskatchewan through subsequent surrender agreements, 
+quantifying  a  decline  of  25  percent  of  the  total  land  holdings  First 
+Nations held in that province.103 Beal also found that the overwhelm-
+ing  majority  of  this  land  was  located  in  rapidly  developing  regions 
+due  to  a  government  policy  that  sought  to  establish  infrastructure 
+and transportation corridors at the expense of Indigenous commun-
+ities.104 In practice, this meant that First Nations who were located on 
+desirable reserve lands were presented with “incentives” to surrender 
+portions of their reserves in exchange for either lands of better quality 
+or the cash required to build community housing, purchase rations in 
+times of famine, or — where the government failed to supply its treaty 
+obligation of agricultural implements — as an opportunity to “acquire 
+the machinery, equipment and operating capital necessary to build the 
+economic base of reserve communities.”105
+
+Importantly, Beal has also provided some insights into the mon-
+etary value assigned to reserve surrenders. While the HBC rarely sold 
+farmlands in rural Saskatchewan for less than ten dollars an acre, Beal 
+noted  that  the  Department  of  the  Interior  sold  surrendered  reserve 
+lands  in  the  late  nineteenth  century  for  between  $1  and  $1.50  per 
+acre.106 After the DIA took its cut (90 percent prior to 1906, changed 
+
+128
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024to 50 percent thereafter) the revenue was further reduced by a “land 
+management fee,” and, after 1906, it was no longer released in full. 
+Instead, the cash obtained through the sale would be placed either in 
+the hands of the Indian agent directly or placed in a government-con-
+trolled  trust  account.107  Similar  to  treaty  negotiations,  Beal  argues 
+that, in several instances, the government also failed to report nego-
+tiated  provisions  into  the  written  surrender  documents  resulting, 
+once again, in a failure to provide the full negotiated compensation to 
+Indigenous communities.108
+
+Sarah  Carter’s  research  similarly  provides  extensive  insights  into 
+the government policies that restricted First Nations’ participation in the 
+prairie economy. The peasant farming policy, which aimed to reduce the 
+overall cost of farming implements distributed on reserves and promote 
+“self-sufficient”  communities,  simultaneously  dispossessed  Indigenous 
+peoples of the market economy by greatly restricting their ability to pro-
+duce surplus harvests.109 During the First World War, lands not under 
+cultivation in support of the war effort increasingly came under direct 
+attack by settlers and policy makers alike. But rather than appropriate 
+fertile  lands  from  land  speculating  giants  like  the  HBC,  MPs  turned 
+toward First Nations to obtain the surrender of “unused” portions of their 
+reserves so not to risk “offending politically powerful interests.” Working 
+hand-in-hand with the Soldier Settlement Act of 1917, amendments to 
+the Indian Act in 1918 granted the DIA with unprecedented powers to 
+allocate reserve lands and finances toward the creation of privately leased 
+lots for returning veterans. When DIA authorities complained that these 
+leased lots created too many additional responsibilities for Indian agents 
+— and provided “too much” annual revenue to band governments — 
+the  system  in  place  was  changed  to  obtain  the  outright  surrender  of 
+leased reserve lands so that veterans could claim full property rights.110 
+According to Beal, out of the $3.2 million in revenue the DIA received 
+from surrenders between 1898 and 1930 in Saskatchewan, more than a 
+quarter of the total profit ($893,000) was a result of lands appropriated 
+by the Soldier Settlement Act.111
+
+Reconciling the Ledger
+
+In April 2022, in a ceremony attended by settler and Indigenous pol-
+iticians and business leaders, the HBC announced that it was officially 
+transferring  ownership  of  its  flagship  downtown  Winnipeg  store  to 
+the thirty-four Anishinaabe and Dakota nations who make up Mani-
+
+129
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIEStoba’s Southern Chiefs’ Organization (SCO). “Today’s announcement 
+is  reconciliation  in  action,”  prime  minister  Justin  Trudeau  told  the 
+audience,  while  HBC  governor  Richard  Baker  remarked:  “This  will 
+be a legacy-defining project created by community for community.”112
+While both statements may or may not turn out to be true, the 
+reality  of  this  real  estate  transaction  encapsulates  the  fraught  rela-
+tionship  between  the  HBC,  Canada,  and  Indigenous  peoples  since 
+the Rupert’s Land Purchase was finalized in 1870. After all, when a 
+real estate appraisal firm conducted an analysis of the iconic heritage 
+building in 2019, they concluded that the 655,755-square-foot store 
+had  a  market  value  of  zero  dollars  and  that  it  was,  in  fact,  “worth 
+even less than that because it has a tax liability of $302,298.” Sim-
+ply bringing the empty building up to code would cost upwards of 
+$111 million.113 Even with significant funds promised by the federal 
+and provincial governments for the redevelopment project, the SCO 
+will  need  to  spend  millions  of  dollars  of  their  own  money  and  are 
+expected to face an estimated shortfall of thirty million dollars.114
+
+The transfer of the HBC’s Winnipeg store therefore very much fits 
+within a long tradition of giving Indigenous peoples the HBC’s iskon-
+ikan or ‘left-overs’ when it comes to land and wealth. Winnipeg-based 
+Cree journalist Rick Harp, for his part, suggested that the transfer was 
+“like somebody squatted in my back yard, and they took all my lumber, 
+and they built a house with it—lived in it for ever, where it’s completely 
+run down—and they’re like, ‘You know what: do you want it?’”115 Is a 
+gift really a gift, after all, if you save money by giving it?
+
+While  Harp  and  others  readily  admit  that  the  transfer  of  the 
+Winnipeg store is an important symbolic gesture, it’s clear that it will 
+not even begin to pay back the land and wealth that, as Otakaonan 
+rightly assessed almost exactly 150 years ago, had been stolen from 
+Indigenous peoples for the benefit of the HBC and other settler cor-
+porations. Nor does it address the role that Canada played in granting 
+Indigenous  lands  to  a  private  company,  or  to  the  millions  of  other 
+settlers who benefitted directly and enormously from Indigenous dis-
+possession in Rupert’s Land.
+
+Yet we hope that this reassessment of the Rupert’s Land Purchase 
+can  extend  beyond  the  pages  of  this  article.  From  university  class-
+rooms to parliamentary debates, and treaty land entitlement cases in 
+federal  courts,  much  more  needs  to  be  said  about  how  to  reconcile 
+the ledger. Canada granted the HBC more than 6.6 million acres of 
+prime agricultural lands in the fertile belt, while it set aside for First 
+
+130
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024Nations a mere three million in some of the most isolated and infertile 
+regions of their own territory. Canada also created policies under the 
+Indian Act that sought to prohibit, restrict, and hinder the economic 
+development of Indigenous communities, all while promoting a new 
+capitalist social and legal order that the HBC was more than willing 
+to partake in for their own insurmountable benefit. This story, then, is 
+also about what it would have meant to have implemented the treaties 
+honourably, fairly, and justly in acknowledgement of their true spirit 
+and  original  intent.  If  the  Rupert’s  Land  Purchase  and  the  “rights” 
+afforded to the HBC were given to Indigenous peoples, Canada might 
+look like a very different place. And, as much as some historians will 
+turn their nose up to “what if ” histories, this reimagining is necessary 
+to rethink the present and future. Prairie settler capitalism was built 
+directly upon Indigenous dispossession in ways that can be quantified 
+in terms of both stolen land and money, and these kinds of broader 
+discussions  and  research  are  needed  when  it  comes  to  reconciliation 
+and decolonization both now and into the future.
+
+***
+
+ELIZABETH  MCKENZIE  is  an  independent  historian  of  treaties, 
+settler colonialism, and the environment in what is now called Canada. 
+She holds a Bachelor of Arts with Honours in History from Toronto 
+Metropolitan University and is currently working as a researcher, help-
+ing to build community-led environmental stewardship programs in 
+Indigenous communities that have been adversely affected by resource 
+extraction and issues of settler capitalism as a whole.
+
+ELIZABETH  MCKENZIE  est  une  historienne  indépendante  des 
+traités, du colonialisme et de l’environnement dans ce que l’on appelle 
+aujourd’hui le Canada. Elle est titulaire d’un baccalauréat ès arts avec 
+spécialisation en histoire de l’Université métropolitaine de Toronto et 
+travaille actuellement comme chercheuse, aidant à mettre en place des 
+programmes communautaires de gestion de l’environnement dans les 
+communautés  autochtones  qui  ont  été  affectées  par  l’extraction  des 
+ressources et les problèmes associés au capitalisme de colonisation.
+
+IAN MOSBY is an Assistant Professor in the Department of History 
+at Toronto Metropolitan University. He is the author of Food Will Win 
+the War: The Politics, Culture and Science of Food on Canada’s Homefront 
+
+131
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIES(2014) and co-author with Sarah Rotz and Evan Fraser of Uncertain 
+Harvest:  The  Future  of  Food  on  a  Warming  Planet  (2020).  His  current 
+research examines the history of medical experimentation on Indige-
+nous Peoples in Canada.
+
+IAN  MOSBY  est  professeur  adjoint  au  département  d’histoire  de 
+l’Université métropolitaine de Toronto. Il est l’auteur de Food Will Win 
+the War : The Politics, Culture and Science of Food on Canada’s Homefront 
+(2014) et co-auteur avec Sarah Rotz et Evan Fraser de Uncertain Har-
+vest  :  The  Future  of  Food  on  a  Warming  Planet  (2020).  Ses  recherches 
+actuelles  portent  sur  l’histoire  de  l’expérimentation  médicale  sur  les 
+peuples autochtones au Canada.
+
+Endnotes
+
+1    See Alexander Morris, “The Qu’Appelle Treaty,” The Treaties of Canada 
+(Toronto: Belfords, Clarke & Co., 1880); Arthur J. Ray, Frank Tough, 
+and J. R. Miller, Bounty and Benevolence: A History of Saskatchewan Treaties 
+(Montreal: McGill-Queen’s University Press, 2000), 108–109.
+
+2    Morris, “Qu’Appelle Treaty,” 101.
+3    Morris, “Qu’Appelle Treaty,” 102. 
+4    Morris, “Qu’Appelle Treaty,” 102. 
+5    Morris, “Qu’Appelle Treaty,” 106. 
+6    Rupert’s Land Act, 1868, 31–32 Vict., c. 105 (UK), https://www.jus-
+tice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p2t11.html;  see 
+also Order of Her Majesty in Council admitting Rupert’s Land and the 
+North-Western  Territory  into  the  union,  dated  the  23rd  day  of  June 
+1870 
+(UK),  https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/
+lawreg-loireg/p1t31.html.
+
+7    Lawrence Barkwell. “Métis List of Rights,” Gabriel Dumont Institute of 
+Native Studies and Applied Research (website), accessed 19 November, 
+2023, https://www.metismuseum.ca/resource.php/14525.
+
+8    Alexander Morris, “The Treaties at Forts Carleton and Pitt,” in Treaties 
+
+of Canada, 170. 
+
+9    See,  for  example,  Colin  M.  Bain,  Pearson  Canadian  History  8,  Unit  2 
+(Toronto: Pearson Education Canada, 2008), H 78; Robert Bothwell, 
+Une histoire du Canada (Laval: Presses de l’Université Laval, 2009), 202; 
+John  Douglas  Belshaw,  Canadian  History:  Post-Confederation  (Victoria: 
+BCcampus, 2016), 44.
+
+10   Sharon Venne, “Understanding Treaty 6: An Indigenous Perspective,” 
+in  Aboriginal  and  Treaty  Rights  in  Canada:  Essays  on  Law,  Equity,  and 
+Respect for Difference, ed. Michael Asch (Vancouver: UBC Press, 1997), 
+
+132
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024173–207; Adam Gaudry, “Fantasies of Sovereignty,” North American and 
+Indigenous Studies 3, no. 1 (2016): 46 –74.
+
+11   Qu’Appelle Tribal Council, Diseased Trusteeship: Repairing Canada’s Rela-
+
+tionship with Indian Nations, April 1990.
+
+12   Elizabeth  Comack,  “Corporate  Colonialism  and  the  ‘Crimes  of  the 
+Powerful,’’’  Critical  Criminology  26,  no.  4  (2018):  455–71;  Gaudry, 
+“Fantasies  of  Sovereignty”;  Frank  Tough,  “Aboriginal  Rights  Versus 
+the Deed of Surrender,” Prairie Forum 17, no. 2 (1992): 225–46; Frank 
+Tough, “A Great Inheritance,” Canadian Issues (Spring/Summer 2021): 
+24–31;  Ray,  Tough,  and  Miller,  Bounty  and  Benevolence;  Yellowhead 
+Institute, Cash Back (2021).
+
+13   Bain,  Pearson  Canadian  History  8,  Unit  2,  H  78;  Bothwell,  histoire  du 
+
+Canada, 202; Belshaw, Canadian History, 44. 
+
+14   Order of Her Majesty in Council, 1870.
+15   While  the  company  claimed  it  was  owed  7,031,257  acres,  it  only 
+acquired 6,639,059 acres in total. See Chester Martin, “Dominion Lands” 
+Policy (Montreal: McGill-Queen’s University Press, 1973), 25–26.
+16   See “Honour of the Crown,” Centre for Constitutional Studies, 4 August 
+2021, 
+https://www.constitutionalstudies.ca/2021/08/honour-of-the-
+crown/;  or  the  weight  given  to  both  of  these  concepts  in  the  recent 
+decision in the recent Ontario Superior Court decision, Restoule v. Can-
+ada (Attorney General), 2018 ONSC 7701 (CanLII), http://canlii.ca/t/
+hwqxg.
+
+17   For more information and some of our earlier work on the subject, see 
+the Yellowhead Institute’s 2021 Cashback Red Paper: https://cashback.
+yellowheadinstitute.org/. 
+
+18   Gary  Spraakman,  Management  Accounting  at  the  Hudson’s  Bay  Company 
+(Bringley: Emerald Group, 2015), 107; see also Geoffrey Jones, Mer-
+chants to Multinationals, (New York: Oxford University Press, 2002): 22. 
+19   Adele  Perry, “Designing Dispossession:  The Select Committee  on  the 
+Hudson’s Bay Company,” in Indigenous Communities and Settler Colonial-
+ism: Land Holding, Loss and Survival in an Interconnected World, ed. Zoë 
+Laidlaw and Alan Lester (New York: Palgrave Macmillan, 2015), 158–
+172. 
+
+20   Report  from  the  Select  Committee  on  the  Hudson’s  Bay  Company  (HMSO, 
+
+1858), iv. 
+
+21   “Progress of the British North American Exploring Expedition Under 
+the  Command  of  Capt.  John  Palliser,  F.  R.  G.  S.”  (London:  Royal 
+Geographical  Society,  ca.  1859);  Henry  Youle  Hind,  Narrative  of  the 
+Canadian Red River Exploring Expedition of 1857 and the Assiniboine and 
+Saskatchewan  Exploring  Expedition  of  1858  (London:  Longman,  Green, 
+and Roberts, 1860). 
+
+22   For Simpson’s full testimony, see Report from the Select Committee, 44–110. 
+
+133
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIES23   See Hind, Narrative, vi. 
+24   See Allan MacDonell, Memoranda and Prospects of the North-West Transpor-
+tation and Limited Company; the North-West Transportation, Navigation and 
+Railroad Company (Toronto: Lovell and Gibson, 1858); and Allan Mac-
+Donell Prospects of the North-West Transportation, Navigation, and Railway 
+Company (Toronto: Lovell and Gibson, 1858). 
+
+25   E. E. Rich, Hudson’s Bay Company, 1670-1870 (Toronto: McClelland and 
+Stewart, 1960): 3:834; and Phillip Cottrell, Investment Banking in Eng-
+land (New York: Routledge 2002): 1:129–58. 
+
+26   Rich, Hudson’s Bay Company, 3:818. 
+27   The “Share of the Profits” model officially ended in 1870. Rich, Hudson’s 
+
+Bay Company, 3:838–39, 3:892–93. 
+
+28   John  S.  Galbraith,  “The  Hudson’s  Bay  Land  Controversy,”  Mississippi 
+
+Valley Historical Review 36, no. 3 (1949): 468n29.
+
+29   See The International Financial Society Limited: Issue of Stock in the Hud-
+son’s  Bay  Company,  Incorporated  by  Royal  Charter,  1670:  Prospectus  (W.P. 
+Metchim, ca. 1863), Library and Archives of Canada (LAC), accessed 19 
+November 2023, https://www.canadiana.ca/view/oocihm.23097/4.  
+30   Spraakman, Management Accounting, 108; for more information on pub-
+lic  debate  surrounding  the  negotiations  of  the  Deed  of  Surrender,  see 
+Tough, “Aboriginal Rights,” 233–38; Myers, History of Canadian Wealth, 
+132–46; and Galbraith, “Hudson’s Bay Land Controversy,” 457–78. 
+31   Cottrell, Investment Banking in England, 145; and Galbraith, “Hudson’s 
+
+Bay Land Controversy,” 475. 
+
+32   Frank  Tough  writes  that  the  total  territory  transferred  to  Canada  in 
+this  agreement  amounted  to  63.5  percent  of  the  country’s  modern 
+land  mass,  totalling  6,276,609  square  kilometres.  See  Tough,  “Great 
+Inheritance,” 24–26.
+
+33   Rich, Hudson’s Bay Company, 3:886–87. 
+34   Comack, “Corporate Colonialism.”
+35   Article 14 of the “Rupert’s Land Order” officially known as Order of Her 
+Majesty in Council Admitting Rupert’s Land and the North-Western Territory 
+into the Union, 23 June 1870.
+
+36   Sarah  Carter,  Lost  Harvests:  Prairie  Indian  Reserve  Farmers  and  Govern-
+ment Policy, 2nd ed. (Montreal: McGill-Queen’s University Press, 2019), 
+54–55; John L. Tobias, “Canada’s Subjugation of the Plains Cree,” Can-
+adian Historical Review 64, no. 4 (1983): 519–48. 
+
+37   J. R. Miller, Skyscrapers Hide the Heavens: A History of Native-Newcomer 
+
+Relations in Canada (Toronto: University of Toronto Press, 2017), 164.
+
+38   “Federal Government Budgetary Expenditure, Classified by Function, 
+1867 to 1975,” Series H19-34, Statistics Canada, accessed 19 Novem-
+ber  2023,  https://www150.statcan.gc.ca/n1/pub/11-516-x/sectionh/
+H19_34-eng.csv. 
+
+134
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 202439   Figures  calculated  based  on  the  correspondence  in  RG10,  vol.  3583, 
+file 1050, LAC; RG10, vol. 3693 file 14335, LAC; and RG10 3712 file 
+20270, LAC. 
+
+40   George  Colpitts,  “Treaty  6  Cree  Annuity  Spending  in  the  Territor-
+ial  Economy  of  Western  Canada,  1873–1905,”  Ethnohistory  67,  no.  1 
+(2020): 34. See also the correspondence in RG10, vol. 3693 file 14335, 
+LAC.
+
+41   Brian  Gettler,  Colonialism’s  Currency:  Money,  State  and  First  Nations  in 
+Canada,  1820–1950  (Montreal:  McGill  Queen’s  University  Press, 
+2020), 41, 53.
+
+42   This rough estimate is based on our calculations of the correspondence 
+cited in RG10, vol. 3583, file 1050, LAC; RG10, vol. 3693 file 14335, 
+LAC;  and  RG10  3712  file  20270,  LAC,  as  well  as  from  the  annual 
+reports of the Department of Indian Affairs during those same years.
+
+43   Colpitts, “Treaty 6,” 30. 
+44   Tough, “Aboriginal Rights,” 245.
+45   Martin, “Dominion Lands” Policy, 26.
+46   Gettler, Colonialism’s Currency, 95.
+47   Gettler, 41, 53.
+48   Carter,  Lost  Harvests,  54–55;  Tobias,  “Canada’s  Subjugation”;  Irene 
+Spry, “The Tragedy of the Loss of the Commons in Western Canada,” in 
+As Long as the Sun Shines and Water Flows: A Reader in Canadian Native 
+Studies,  ed.  Ian  A.  L.  Getty  and  Antoine  S.  Lussier  (Vancouver:  UBC 
+Press, 1983): 203–28.
+
+49   See James Cote et al., We Are All Treaty People (Treaty Relations Commis-
+sion of Manitoba, 2017); Tim E. Holzkamm and Leo G. Waisberg “‘We 
+Have Kept Our Part of the Treaty,’” Grand Council Treaty #3, 3 October 
+2011; Treaty 7 Elders et al., The True Spirit and Original Intent of Treaty 7 
+(Montreal: McGill-Queen’s University Press, 1996); or Carry the Kettle 
+First Nation, Owóknage (Regina: University of Regina Press, 2022). 
+50   See  Sheldon  Kraswoski,  No  Surrender:  The  Land  Remains  Indigenous 
+
+(Regina: University of Regina Press, 2019), 164–69. 
+
+51   Alexander  Morris,  “The  Stone  Fort  and  Manitoba  Post  Treaties,”  in 
+
+Treaties of Canada, 28–29; Krasowski, No Surrender, 72. 
+
+52   J.  R.  Miller,  Compact,  Contract,  Covenant:  Aboriginal  Treaty-Making  in 
+
+Canada (Toronto: University of Toronto Press, 2009), 163–64. 
+
+53   “Copy of Treaty No. 6 between Her Majesty the Queen and the Plain 
+and Wood Cree Indians…” (Ottawa: Queen’s Printer and Controller of 
+Stationery, 1964), Government of Canada (website), accessed 19 Nov-
+ember 2023, https://www.rcaanc-cirnac.gc.ca/eng/1100100028710/15
+81292569426.  
+
+54   See, for example, the Paypom Treaty or “Nolin’s Notes,” which the Gov-
+ernment  of  Anishinaabe  Nations  in  Treaty  3  assert  is  a  transcript  of 
+
+135
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIESthe  actual  agreement  reached  in  1873,  accessed  19  November  2023, 
+https://storynations.utoronto.ca/index.php/the-paypom-treaty/. 
+
+55   For Treaties 3, 4, and 6, see Krasowski, No Surrender, 95, 158, 214; For 
+Treaty 7, see Treaty 7 Elders et al., True Spirit, xi–xii; for Treaties 1, 2, 
+and 5, see James Cote et al., We Are All Treaty People, 51–52. 
+
+56   Treaty 7 Elders et al., True Spirit, 218. 
+57   Morris, “Stone Fort,” 29 (emphasis added). 
+58   Article  34  of  An  Act  respecting  the  Public  Lands  of  the  Dominion 
+
+(Dominion Lands Act), S.C. 1872, c. 23. 
+
+59   Gerhard  J.  Ens  and  Joe  Sawchuk,  From  New  Peoples  to  New  Nations 
+
+(Toronto: University of Toronto Press, 2016), 136. 
+
+60   Articles 17–21 of the Dominion Lands Act (1872).
+61   See Krasowski, No Surrender, 67. 
+62   Krasowski,  No  Surrender,  13–20;  Aimée  Craft,  Breathing  Life  into  the 
+
+Stone Fort Treaty (Vancouver: UBC Press, 2013), 37–39.
+
+63   John C. Weaver, Great Land Rush and the Making of the Modern World, 
+1650–1900 (Montreal:McGill-Queen’s University Press, 2003), 226.
+64   Daniel  Rück,  The  Laws  and  the  Land:  The  Settler  Colonial  Invasion  of 
+Kahnawà:ke  in  Nineteenth-Century  Canada  (Vancouver:  UBC  Press, 
+2021), 265.
+
+65   Ellen Meiksins Wood, The Origin of Capitalism: A Longer View (London: 
+
+Verso, 2017), 108.
+
+66   Ellen Meiksins Wood, “The Agrarian Origins of Capitalism,” Monthly 
+
+Review 50 (1998): 14–31.
+
+67   Jean Teillet, The Northwest is our Mother: The Story of Louis Riel’s People, the 
+
+Métis Nation (Toronto: HarperCollins Canada, 2019), 285.
+
+68   Spry, “Tragedy of the Loss,” 223.
+69   Morris, “Stone Fort,” 29.
+70   Schedule of Indian Reserves in the Dominion: Supplement to the Annual Report 
+of  the  Department  of  Indian  Affairs,  for  the  Year  ended  March  13,  1913 
+(Ottawa, 1913).
+
+71   Donald F. Robertson, Schedule of Indian Reserves in the Dominion of Canada 
+
+(Ottawa: Department of Indian Affairs, Canada, 1928). 
+
+72   Robert Innes, “Historians and Indigenous Genocide in Saskatchewan,” 
+Shekon Neechie, 21 June 2018, https://shekonneechie.ca/2018/06/21/
+historians-and-indigenous-genocide-in-saskatchewan/.
+
+73   Innes, “Historians and Indigenous Genocide.”
+74   James  Daschuk,  Clearing  the  Plains:  Disease,  Politics  of  Starvation,  and 
+the  Loss  of  Aboriginal  Life  (Regina:  University  of  Regina  Press,  2013); 
+Tobias, “Canada’s Subjugation”; Maureen Lux, Medicine that Walks: Dis-
+ease, Medicine, and Canadian Plains Native People, 1880-1940 (Toronto: 
+University  of  Toronto  Press,  2001);  Carry  the  Kettle  First  Nation, 
+Owóknage.
+
+136
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 202475   Lux, Medicine that Walks, 69–70.
+76   Lux, 46–47.
+77   Tough, “Aboriginal Rights,” 245.
+78   Although it took over fifty years for the HBC to access the entirety of 
+the  one-twentieth  provision,  they  were  able  to  access  Treaty  1  lands 
+from  the  first  DLS  in  the  years  immediately  following  the  signing  of 
+the treaty. See Robert B. McKercher and Bertram Wolfe, Understanding 
+Western Canada’s Dominion Land Survey System (Saskatoon: University of 
+Saskatchewan Press, 1986), 17.
+
+79   Articles 17–21 of the Dominion Lands Act (1872); See also McKercher 
+and Wolfe, Understanding Western Canada’s Dominion Land Survey System, 
+11. 
+
+80   “Surveyor’s field notes for land allotted to the Hudson’s Bay Company, 
+book nos. 1–17,” RG 1/6, Archives of Manitoba, Winnipeg, MB.  
+
+81   “Surveyor’s field notes.” 
+82   These lots did not include lands claimed around company posts.
+83   “Surveyor’s field notes.”
+84   Martin, “Dominion Lands” Policy, 25.
+85   Between 1872 and 1879, the company sold 150 lots in Winnipeg for a 
+profit of nearly one hundred thousand dollars — a profit that excluded 
+all remaining unpaid balances calculated at a rate of 7 percent interest 
+calculated annually. See “Land sales register of the Hudson’s Bay Com-
+pany lots in Winnipeg,” RG1/41/1, Archives of Manitoba. 
+
+86   Martin, “Dominion Lands” Policy, 21.
+87   Benjamin Hoy, A Line of Blood and Dirt (New York: Oxford University 
+
+Press, 2021), 99. 
+
+88   Carter, Lost Harvests, 58–59. 
+89   Annual Report of the Department of the Interior … 1875 (Ottawa: Maclean, 
+
+Roger & Co., 1876), 154. 
+
+90   “Treaty  Land  Entitlement  Claim  Presentation,”  Sagkeeng  First  Nation, 
+May 2015; See also Annual Report of the Department of the Interior … 1874 
+(Ottawa: Maclean, Roger & Co., 1875), 194.
+
+91   See  Provencher  to  the  Minister  of  Interior,  31  December  1873,  in 
+Annual Report of the Department of the Interior for the Year Ended 30th June, 
+1874 (Ottawa: MacLean, Roger & Co., 1875). 
+
+92   Provencher to the Superintendent-General of Indian Affairs, 30 Octo-
+
+ber 1875, in Annual Report … 1875.
+
+93   See “Appendix No. 5,” in Annual Report of the Department of the Interior for 
+
+the Year Ended 30th June, 1876 (Ottawa: MacLean, Roger & Co., 1877).
+94   Annual Report of the Department of Indian Affairs … 1880 (Ottawa: Mac-
+lean, Roger & Co., 1881), 78; Annual Report of the Department of Indian 
+Affairs … 1885 (Ottawa: Maclean, Roger & Co., 1886), 126. 
+
+95   “Special Appendix B,” in Annual Report … 1876.
+
+137
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIES96   “About  Us,”  Sandy  Bay  First  Nation  (website),  accessed  3  October 
+2022,  http://www.sandybayfirstnation.com/about-us.html;  Annual 
+Report … 1880, 78.
+
+97   Not all reserves in Treaty 1 were on poor quality lands. But those First 
+Nations who did retain valuable lands were subjected to surrender addi-
+tional lands in the decades following the establishment of the treaty. A 
+prime example is the forced relocation of Peguis First Nation, who were 
+removed from their initial reserve at St. Peter’s to a remote, northern 
+region nearly two hundred kilometres from Winnipeg and in Treaty 2 
+territory. See P. Paul Burrows, “‘As She Shall Deem Just’: Treaty 1 and 
+the Ethnic Cleansing of the St. Peter’s Reserve, 1871-1934” (masters 
+thesis, University of Manitoba, 2009).  
+
+98   B. L. Calliou, “Losing the Game: Wildlife Conservation and the Regu-
+lation of First Nations Hunting in Alberta, 1880–1930” (LLM thesis, 
+University of Alberta, 2000); Alex Williams, dir., The Pass System (Tam-
+arack Productions, 2015); Carter, Lost Harvests.
+
+99   Donica Belisle, Retail Nation: Department Stores and the Making of Modern 
+
+Canada (Vancouver: UBC Press, 2014), 24–32. 
+
+100 Alex Ross, “The Records of the Hudson’s Bay Company Land Depart-
+
+ment,” Archivaria 22 (Summer 1986): 118. 
+
+101 “The Allure of the Hudson’s Bay,” New York Times, 2 June 1981, D1, 
+https://www.nytimes.com/1981/06/02/business/the-allure-of-hudson-
+s-bay.html. 
+
+102 “Allure of the Hudson’s Bay.”
+103 Carl Beal, “Money, Markets, and Economic Development in Saskatch-
+ewan Indian Reserve Communities” (PhD diss., University of Manitoba, 
+1995), 232, 235. 
+
+104 Beal, “Money,” 235–36, 251. 
+105 Beal, “Money,” 229, 291. 
+106 Beal,  “Money,”  244–45.  These  prices  would  increase  overtime,  albeit 
+
+marginally.
+
+107 Beal, “Money,” 279. 
+108 Beal, “Money,” 256. 
+109 Carter, Lost Harvests, 210. 
+110 Carter, “‘An Infamous Proposal’: Prairie Indian Reserve Land and Sol-
+dier Settlement after World War I,” Manitoba History, no. 37 (Spring/
+Summer  1999):  http://www.mhs.mb.ca/docs/mb_history/37/infam-
+ousproposal.shtml#005.
+
+111 Beal, “Money,” 294. 
+112 Carol Sanders, “Reconciliation in the Air,” Winnipeg Free Press, 23 April 
+
+2022, A3.
+
+113 Nicholas Frew, “Downtown Winnipeg’s Landmark Hudson’s Bay Co. 
+Building  Worth  $0,”  CBC  News,  23  November  2019,  https://www.
+
+138
+
+JOURNAL OF THE CHA 2024 | REVUE DE LA SHC 2024cbc.ca/news/canada/manitoba/hudsons-bay-company-building-worth-
+zero-real-estate-appraiser-1.5370572.
+
+114 Bartley  Kives,  “Returning  Land  and  Staving  off  Decay,”  CBC  News, 
+23  April  2022,  https://www.cbc.ca/news/canada/manitoba/down-
+town-winnipeg-bay-transfer-1.6427921.
+
+115 “Looking HBC’s Ill-gotten Gift Horse in the Mouth,” episode 288 of 
+Media Indigena, 3 May 2022, 00:52:48-00:53:00, https://mediaindigena.
+libsyn.com/looking-hbcs-ill-gotten-gift-horse-in-the-mouth-ep-288.
+
+139
+
+RECONCILING THE LEDGER: THE RUPERT’S LAND PURCHASE, SETTLER  CAPITALISM, AND INDIGENOUS DISPOSSESSION ON THE PRAIRIES

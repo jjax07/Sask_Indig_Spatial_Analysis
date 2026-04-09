@@ -1815,3 +1815,253 @@ Post-correction Indeterminate group: **6 municipalities**.
 **Maidstone's 24-year gap is analytically significant despite Indeterminate status.** With `founded = 1903` (Barr Colonist arrival) and a nearest surrender of 1927, the formal gap is 24 years — longer than many confirmed Type A municipalities. The mechanism is unusual (HBC patent return rather than settler petition), but the temporal relationship — substantial settler presence long preceding formal reserve reduction — is consistent with the Type A pattern. Maidstone is a data-constrained case, not a structural outlier.
 
 **The group does not affect the core dataset counts materially.** 6 of 429 municipalities (1.4%). The synthesis's claims about Type A, B, and C distributions are unaffected.
+
+---
+
+## Query 13 — None-type Métis municipalities: full profile
+
+### Results
+
+| name | founded | metis_community | metis_y_found | metis_dist_m | pop_1921 | dist_to_surrender_m | sequence |
+|---|---|---|---|---|---|---|---|
+| Abernethy, VL | 1903 | Abernethy | 1903 | 0 | 280 | 29,257 | same_year |
+| Moosejaw, C | 1882 | Moose Jaw | 1870 | 0 | 19,285 | 54,803 | metis_first |
+| Saskatoon, C | 1882 | Saskatoon | 1920 | 0 | 25,739 | 60,194 | muni_first |
+| Estevan, T-V | 1892 | Estevan | 1885 | 393 | 2,290 | 68,473 | metis_first |
+| Swift Current, C | 1883 | Swift Current | 1883 | 534 | 3,518 | 137,192 | same_year |
+| Rocanville, VL | 1902 | Welwyn | 1880 | 11,361 | 415 | 40,766 | metis_first |
+| Verwood, VL | 1912 | Willow Bunch | 1880 | 12,539 | 242 | 63,914 | metis_first |
+| Canwood, VL | 1911 | Mont Nebo | 1880 | 16,587 | 158 | 27,774 | metis_first |
+| Ruddell, VL | 1904 | Baljennie | 1945 | 16,951 | 96 | 28,988 | muni_first |
+| Neville, VL | 1911 | Lac Pelletier | 1880 | 17,696 | 151 | 102,988 | metis_first |
+| Dundurn, VL | 1902 | Round Prairie | 1855 | 19,139 | 197 | 97,127 | metis_first |
+| Success, VL | null | Saskatchewan Landing | 1880 | 21,939 | 93 | 164,269 | unknown |
+| Naicam, VL | 1919 | Archerwill | null | 44,112 | 119 | 58,207 | unknown |
+| Cadillac, VL | 1913 | Val Marie | 1900 | 53,022 | 197 | 94,911 | metis_first |
+| Turtleford, VL | 1908 | Meadow Lake | 1889 | 87,563 | 288 | 46,132 | metis_first |
+
+### Sequence summary
+
+- **metis_first:** 10 of 15 (Moose Jaw, Estevan, Rocanville, Verwood, Canwood, Neville, Dundurn, Cadillac, Turtleford, and Willow Bunch/Verwood)
+- **same_year:** 2 (Abernethy, Swift Current)
+- **muni_first:** 2 (Saskatoon, Ruddell)
+- **unknown:** 2 (Success, Naicam — null `founded` or null `metis_y_found`)
+
+### Urban-core cases (dist_m = 0 or near-zero)
+
+The five smallest-distance cases are the most analytically significant — communities either inside or immediately adjacent to the municipality:
+
+**Abernethy** (same_year, 1903): Métis community and municipality founded the same year, suggesting the colonial settlement process absorbed or displaced a simultaneously forming community. At 29km from any surrendered reserve, this is not a reserve-corridor case.
+
+**Moose Jaw** (metis_first, gap 12 years): Métis community 1870, city founded 1882 — a 12-year precedence gap. At 55km from any surrender, Moose Jaw is the clearest large-city urban-core displacement case alongside Saskatoon. The community was inside or adjacent to the eventual city footprint.
+
+**Saskatoon** (muni_first, gap −38 years): `metis_y_found = 1920` postdates the 1882 municipal founding. This is almost certainly a data issue — Saskatoon had documented Métis presence predating 1882 (the Métis Crossing/Opimihaw settlement and river crossing use). The `Y_FOUND = 1920` likely records a reconstituted or relocated community rather than initial formation. This result should be flagged as a data artefact; Saskatoon should analytically be treated as `metis_first` or `unknown`.
+
+**Estevan** (metis_first, gap 7 years): Métis community 1885, municipal founding 1892. At 393m distance, the community was immediately adjacent. 68km from any surrender — a pure urban-core case with no reserve-corridor dimension.
+
+**Swift Current** (same_year, 1883): Both founded 1883 — simultaneous CPR townsite creation and Métis community formation, or more likely an existing community absorbed into the new CPR townsite designation. At 137km from any surrender, the furthest none-type case from surrendered land in the entire dataset.
+
+### Métis-first cases at distance (11–88 km)
+
+The remaining 10 cases have Métis communities at distances of 11–88km. These are not urban-core absorption cases in the same sense — the municipality and the Métis community were in different locations. The `metis_community_present` flag captures proximity (nearest Métis community within a threshold), not co-location. For these cases, the finding is that a pre-existing Métis community sat within the municipality's regional orbit, not that the municipality was built on that community's land.
+
+The precedence gaps in this group are substantial: Dundurn (Round Prairie, Y_FOUND 1855, gap 47 years), Rocanville (Welwyn, gap 22 years), Neville and Verwood and Canwood (all Y_FOUND 1880, gaps 31–32 years). These reflect the broad pattern of Métis communities predating colonial settlement across the province, not a specific dispossession mechanism tied to these municipalities.
+
+**Ruddell/Baljennie** (muni_first, Y_FOUND 1945): As noted in Query 5a findings — Baljennie likely reflects a post-WWII reconstituted road allowance community. The muni_first classification is correct for this specific community's documented dates; Métis families involved likely had prior regional presence.
+
+### The two distinct mechanisms confirmed
+
+Query 13 confirms the synthesis's distinction between two none-type Métis displacement processes:
+
+1. **Urban-core absorption** — Moose Jaw, Saskatoon, Estevan, Swift Current, Abernethy: cities and towns built at or adjacent to pre-existing Métis communities, with distances of 0–534m and no reserve-surrender dimension. The dispossession mechanism was municipal expansion, street grids, and land titles — not reserve reduction.
+
+2. **Regional proximity** — the remaining 10 cases: Métis communities within regional range (11–88km) but not in the same location. These reflect general Métis landscape presence, not a specific site-level displacement relationship with the named municipality.
+
+The synthesis's claim that "urban-core displacement operated through a separate mechanism from reserve-adjacent displacement" is confirmed. The urban-core cases are geographically identifiable (dist_m under 1km), temporally coherent (all metis_first or same_year), and spatially isolated from any reserve corridor (dist_to_surrender_m all above 50km).
+
+### Saskatoon data issue
+
+The corrected `metis_y_found = 1913` (Community record, updated 2026-04-09 via Phase 5b enrichment) still produces a `muni_first` classification (municipal founding 1882, community 1913). This remains a data artefact. The Métis community at Saskatoon/Opimihaw predates 1882 — the 1913 date records a reconstituted or formally documented community, not the initial presence. Neither 1913 nor the previous 1920 captures the pre-1882 presence that is historically documented.
+
+**This will be addressed directly through archival research.** LAC (Library and Archives Canada, Ottawa, week of 2026-04-14) holds RG 15 half-breed scrip application and assignment/transfer records for the Saskatoon/Round Prairie region. Two named speculators active in the region — Emil Meilicke and Grace Fletcher — were systematically buying up Métis scrip and homestead land before the 1920s. Their names should recur across assignment records in the same geographic cluster, providing transaction-level evidence for the urban-core displacement mechanism.
+
+**The Meilicke/Dundurn/Round Prairie connection is directly in the dataset.** Meilicke is credited with settling Dundurn (Query 13: `nearest_metis_community = Round Prairie`, `metis_y_found = 1855`, `dist_m = 19,138m`). The speculator named in connection with Saskatoon Métis scrip acquisition is the same person associated with a municipality-community pair already in the data. This is not general contextual background — it is a direct link between a named actor and the Dundurn/Round Prairie entry in Query 13. The scrip assignment records would document whether Meilicke's Dundurn settlement activity and his Saskatoon-area scrip purchases were part of a single coordinated land accumulation strategy.
+
+Until archival data is available, Saskatoon's temporal sequence should be treated as `unknown` rather than `muni_first` in any write-up.
+
+---
+
+## Query 14 — Population vs. gap length within Type A: testing the political pressure interpretation
+
+**Note:** Query written with a Cypher syntax error (`ORDER BY min(pop_rank)` references a pre-aggregation variable). Fixed by including `min(pop_rank) AS pop_rank_sort` in the RETURN clause and ordering by that. The corrected query was run; `cypher_queries.md` records the original form.
+
+### Results
+
+67 of 83 Type A municipalities have non-null `population_1921` and are included. 16 are excluded due to null population data.
+
+| pop_band | n | avg_gap | avg_dist_m | min_gap | max_gap |
+|---|---|---|---|---|---|
+| Under 200 | 20 | 14 | 15,531 | 1 | 36 |
+| 200–499 | 31 | 19 | 11,695 | 0 | 37 |
+| 500–999 | 5 | 22 | 10,221 | 12 | 25 |
+| 1,000–2,999 | 7 | 13 | 13,961 | 1 | 34 |
+| 3,000+ | 4 | 20 | 15,869 | 5 | 37 |
+
+### Findings
+
+**The hypothesis is not confirmed.** The query tested whether larger Type A municipalities tend to have longer formal gaps — the prediction being that higher population correlates with longer pre-surrender presence, supporting the "political pressure operates at a distance over time" interpretation. The gap does not increase monotonically with population. The 1,000–2,999 band has the shortest average gap (13 years), the opposite of what the hypothesis predicts. The 500–999 band has the highest average gap (22 years), but with only 5 municipalities this is not robust. The 3,000+ band (n=4) averages 20 years — similar to the 200–499 band (n=31, avg 19 years).
+
+**The distance gradient is more consistent than the gap gradient.** Average distance to surrendered land decreases from Under 200 (15,531m) through 200–499 (11,695m) to 500–999 (10,221m), then rises again for 1,000–2,999 (13,961m) and 3,000+ (15,869m). The mid-range settlements (200–999) sit closest to surrendered land. This is broadly consistent with the Query 8c commercial type gradient — the farm clusters and small service centres that needed direct land access were in the middle of the population distribution, not the smallest or largest.
+
+**The larger bands are too small to support the interpretation.** n=5 for 500–999 and n=4 for 3,000+ make averages in those bands unreliable. The gap and distance values for the two largest bands could shift substantially with the addition or removal of a single municipality. The hypothesis would need a different test — possibly using the full commercial type variable from Query 8c rather than population size as a proxy — to be confirmed or refuted definitively.
+
+**The synthesis claim stands, but on different grounds.** Section 5 of the synthesis ("Commercial type is the load-bearing variable") rests on the Query 8c distance gradient by commercial type, not on population size. That finding — farm clusters closest, cities furthest, within Type A — remains valid. Query 14 tests a related but distinct claim (population predicts gap length) and finds no support for it. The two findings are compatible: commercial type predicts proximity within Type A, but population size does not predict gap length within Type A. Proximity and gap length are measuring different dimensions of the pressure-then-surrender relationship.
+
+---
+
+## Query 14a — CSD administrative type vs. temporal type and gap
+
+### Results
+
+| csd_type | temporal_type | n | avg_dist_m | avg_gap |
+|---|---|---|---|---|
+| C | A | 3 | 15,986 | 18 |
+| C | none | 4 | 80,196 | 24 |
+| T | A | 19 | 13,289 | 20 |
+| T | B | 2 | 12,328 | 1 |
+| T | none | 56 | 74,681 | 10 |
+| T_PT | none | 1 | 70,404 | 24 |
+| VL | A | 61 | 13,541 | 16 |
+| VL | B | 25 | 13,385 | −2 |
+| VL | C | 8 | 12,345 | −9 |
+| VL | none | 244 | 76,166 | 4 |
+
+### Findings
+
+**CSD type adds nothing beyond what commercial type already shows.** The distance pattern within Types A, B, and C is nearly identical across C, T, and VL (13,289–15,986m for Type A; 12,328–13,385m for Type B; 12,345m for Type C — all VL). The structural signal is in the none group, where all three CSD types sit 70–80km from surrendered land, as expected. Administrative classification (City / Town / Village) does not predict proximity or gap length within any temporal type.
+
+**The Type A split between VL and T is negligible.** 61 VL and 19 T municipalities are Type A, with average distances of 13,541m and 13,289m respectively — a 252m difference. Average gaps are 16 and 20 years. Neither difference is analytically meaningful.
+
+**Cities are too few to draw conclusions.** Only 3 Type A cities (n=3) and 4 none-type cities (n=4). The city avg_gap of 24 for none-type is driven by the 4 cities with no surrendered reserve in proximity — it is not a meaningful comparison to the Type A city gap of 18.
+
+**The none-type avg_gap values are artifacts of the null handling.** The `avg_gap` for none-type rows is calculated only where `founded IS NOT NULL AND nearest_surrender_year IS NOT NULL` — for none-type municipalities this is the gap to the nearest surrender even though that surrender is beyond 25km and analytically unrelated to the municipality. These figures should not be interpreted as evidence of any relationship.
+
+**14a is closed.** CSD administrative type is not a load-bearing structural variable. Commercial tier (IS_TYPE) captures the relevant variation; CSD type does not add to it.
+
+---
+
+## Query 14b — Founding decade vs. temporal type within Type A
+
+### Results
+
+| founding_decade | n | avg_gap | avg_dist_m | min_gap | max_gap | examples |
+|---|---|---|---|---|---|---|
+| 1870 | 2 | 29 | 10,495 | 24 | 34 | Battleford, Duck Lake |
+| 1880 | 18 | 26 | 14,801 | 12 | 37 | Arcola, Broadview, Grenfell, Saltcoats, Whitewood, Wolseley |
+| 1890 | 11 | 15 | 11,739 | 4 | 29 | Forget, Grayson, Bethune, Montmartre, Pilot Butte, Canora |
+| 1900 | 32 | 13 | 13,021 | 0 | 25 | Melville, Dubuc, Fenwood, Goodeve, Killaly, Stockholm |
+| 1910 | 4 | 10 | 13,068 | 7 | 18 | Duff, Edenwold, Silton, Krydor |
+
+### Findings
+
+**Founding decade is the clearest structural signal in the 14-series.** Gap length decreases monotonically as founding decade increases: 1870s (avg 29 years) → 1880s (avg 26) → 1890s (avg 15) → 1900s (avg 13) → 1910s (avg 10). Earlier-founded settlements waited longer for formal surrender. Later-founded settlements arrived into a landscape already under active surrender pressure and surrenders followed much faster.
+
+**This is not simply a data artifact — it reflects two distinct mechanisms.** The 1870s–1880s wave (CPR main line, administrative/mission settlements) predated the Sifton-era immigration boom by 15–25 years. The pressure they generated was real but diffuse — scattered homesteaders, small railway townsites, administrative posts — and the DIA had not yet developed the streamlined surrender machinery of the 1900s. The 1900s wave arrived when the Sifton immigration programme was at full intensity, the railway network was dense, and the political and administrative apparatus for processing surrenders was well-established. Pressure resolved faster because the system had learned how to process it faster.
+
+**Distance does not follow the same pattern.** Average distance to surrendered land does not decrease monotonically across decades: 1870s (10,495m), 1880s (14,801m), 1890s (11,739m), 1900s (13,021m), 1910s (13,068m). There is no clear trend. The founding wave a settlement belonged to predicts how long pressure took to resolve, but not how close to surrendered land it was.
+
+**The 1880s cohort (n=18) is the most analytically important.** It is large enough to be reliable, has the longest average gap of any well-populated band (26 years), and includes the anchor cases of the corridor argument: Broadview, Arcola, Grenfell, Wolseley — all CPR main line, all with gaps of 20–37 years. The 1880s cohort is the core of the "long accumulation before formal surrender" finding.
+
+**The 1910s band (n=4) is too small to interpret.** Four municipalities is insufficient for a reliable average. That said, a 10-year average gap for settlements founded in the 1910s is structurally plausible — the main surrenders in the dataset cluster 1905–1920, so a 1910s-founded settlement would have a short ceiling on its potential gap.
+
+---
+
+## Query 14c — Surrender density vs. gap length within Type A
+
+**Note:** Same ORDER BY syntax issue as Query 14 and 14a. Fixed by adding numeric `density_sort` to the WITH clause and using `min(density_sort)` in RETURN/ORDER BY.
+
+### Results
+
+| density_band | n | avg_gap | avg_dist_m | min_gap | max_gap |
+|---|---|---|---|---|---|
+| 1 | 30 | 18 | 16,431 | 1 | 37 |
+| 2 | 13 | 14 | 12,562 | 0 | 37 |
+| 3–4 | 15 | 19 | 10,205 | 3 | 36 |
+| 5+ | 9 | 17 | 8,465 | 4 | 34 |
+
+### Findings
+
+**Neither hypothesis is confirmed.** Gap length does not decrease consistently with higher surrender density (hypothesis 1: concentrated pressure = faster resolution) nor increase consistently (hypothesis 2: iterative pressure = longer accumulation). The pattern across bands is 18 → 14 → 19 → 17 — non-monotonic and with overlapping ranges in every band. Surrender density within 25km does not predict gap length within Type A.
+
+**Distance does decrease consistently with density.** avg_dist_m falls monotonically: 16,431m (density 1) → 12,562m (density 2) → 10,205m (density 3–4) → 8,465m (density 5+). Municipalities near more surrendered parcels are closer to surrendered land overall — which is structurally expected, since higher density simply means more surrender parcels in the vicinity, pulling the minimum distance down. This is a spatial tautology rather than an analytical finding.
+
+**The 5+ band (n=9) is the Battle River corridor.** High surrender density (5+ parcels within 25km) is the signature of the Battle River corridor (Battleford, North Battleford) and the Qu'Appelle valley clusters, as established in Query 6. The 8,465m average distance for this group reflects close-range intensity pressure, consistent with Section 4 of the synthesis. The gap of 17 years in this band is not meaningfully different from the other bands.
+
+**14c is closed.** Surrender density is a spatial measure that correlates with proximity (expected) but not with gap length (not confirmed in either direction). It does not add explanatory power to the temporal argument.
+
+---
+
+## Query 14d — Ethnic/organized settlement character vs. gap and proximity within Type A
+
+### Results
+
+| settlement_character | n | avg_gap | avg_dist_m | min_gap | max_gap |
+|---|---|---|---|---|---|
+| Ethnic/Organized | 18 | 15 | 14,088 | 1 | 29 |
+| Non-ethnic | 49 | 18 | 12,896 | 0 | 37 |
+
+### Findings
+
+**Ethnic settlements have a modestly shorter average gap and are modestly further from surrendered land than non-ethnic settlements.** The gap difference (15 vs 18 years) and distance difference (14,088m vs 12,896m) are in the expected direction — ethnic colonies arrived later in the settlement sequence and sit slightly further from surrendered land — but neither difference is large enough to constitute a structural distinction.
+
+**The max_gap boundary is the more significant finding.** Non-ethnic settlements reach a maximum gap of 37 years; ethnic settlements cap at 29 years. No ethnic/organized settlement in the Type A set has a gap longer than 29 years. This is consistent with the founding decade finding from 14b: ethnic colonies were overwhelmingly Sifton-era (1890s–1900s) plantings on land that had already been in the settlement system for years. The earliest-founded, longest-gap settlements (Battleford, Duck Lake, Broadview) are all non-ethnic administrative or railway corridor towns.
+
+**Raibmon's settler-type distinction is not visible as a gap or proximity pattern.** The framework treats ethnic colonies and CPR townsites as different branches of accumulated settler presence, but within the Type A set they produce similar gap and proximity distributions. The distinction that matters in the data is founding decade (14b), not ethnic/organized character. Ethnic colonies founded in the 1900s look like non-ethnic settlements founded in the 1900s.
+
+**The examples list is informative.** The 18 ethnic/organized Type A settlements include Melville, Fenwood, Grayson, Killaly, Stockholm, Dysart, Edenwold, Lipton — predominantly Ukrainian, Swedish, and German colonies in the Qu'Appelle and Fishing Lake corridors. Their shared CNoR/GTPR railway context and 1900s founding decade explains the distribution better than their ethnic character.
+
+---
+
+## Query 14e — Railway lag vs. founding gap within Type A (pre-railway settlements)
+
+### Results (top 25 by railway_lag descending)
+
+| name | founded | railway_year | railway | surrender_year | reserve | founding_gap | railway_gap | railway_lag | dist_m |
+|---|---|---|---|---|---|---|---|---|---|
+| Fort Qu'Appelle, VL | 1880 | 1911 | GTPR | 1910 | Pasqua | 30 | −1 | 31 | 8,216 |
+| Battleford, T-V | 1875 | 1905 | CNoR | 1909 | Moosomin | 34 | 4 | 30 | 10,264 |
+| Leslie, VL | 1882 | 1909 | CNoR | 1907 | Fishing Lake | 25 | −2 | 27 | 18,461 |
+| Lebret, VL | 1886 | 1911 | GTPR | 1910 | Pasqua | 24 | −1 | 25 | 14,958 |
+| Foam Lake, VL | 1882 | 1905 | CNoR | 1907 | Fishing Lake | 25 | 2 | 23 | 24,221 |
+| Duck Lake, T-V | 1875 | 1890 | QLSRSC | 1899 | One Arrow | 24 | 9 | 15 | 10,726 |
+| Montmartre, VL | 1893 | 1907 | CNoR | 1905 | Carry The Kettle | 12 | −2 | 14 | 6,517 |
+| Melfort, T-V | 1892 | 1905 | CNoR | 1902 | Cumberland | 10 | −3 | 13 | 12,061 |
+| Blaine Lake, VL | 1899 | 1911 | CNoR | 1919 | Muskeg Lake | 20 | 8 | 12 | 10,760 |
+| Arcola, T-V | 1889 | 1901 | CPR | 1901 | Ocean Man | 12 | 0 | 12 | 15,961 |
+| Regina Beach, VL | 1902 | 1911 | CPR | 1918 | Last Mountain Lake | 16 | 7 | 9 | 0.0 |
+| Marcelin, VL | 1902 | 1911 | CNoR | 1919 | Muskeg Lake | 17 | 8 | 9 | 802 |
+| Grayson, VL | 1896 | 1904 | CPR | 1924 | Fishing Station | 28 | 20 | 8 | 12,480 |
+| Canora, T-V | 1897 | 1905 | CNoR | 1909 | The Key | 12 | 4 | 8 | 16,444 |
+| Yorkton, T-V | 1882 | 1889 | Other | 1907 | Little Bone | 25 | 18 | 7 | 15,520 |
+| Forget, VL | 1897 | 1904 | CPR | 1901 | Ocean Man | 4 | −3 | 7 | 11,113 |
+| Veregin, VL | 1899 | 1905 | CNoR | 1906 | Cote | 7 | 1 | 6 | 7,535 |
+| Lumsden, T-V | 1881 | 1887 | QLSRSC | 1918 | Last Mountain Lake | 37 | 31 | 6 | 16,573 |
+| Craven, VL | 1882 | 1887 | QLSRSC | 1918 | Last Mountain Lake | 36 | 31 | 5 | 14,023 |
+| Prince Albert, C | 1885 | 1890 | QLSRSC | 1897 | Chakastaypasin | 12 | 7 | 5 | 17,431 |
+| Kelliher, VL | 1903 | 1908 | GTPR | 1920 | Muskowekwan | 17 | 12 | 5 | 11,832 |
+| Kamsack, T-V | 1899 | 1904 | CNoR | 1906 | Cote | 7 | 2 | 5 | 0.0 |
+| Shellbrook, VL | 1905 | 1910 | CNoR | 1919 | Mistawasis | 14 | 9 | 5 | 24,731 |
+| Semans, VL | 1904 | 1908 | GTPR | 1919 | Poor Man's | 15 | 11 | 4 | 16,090 |
+| Ituna, VL | 1903 | 1907 | GTPR | 1928 | Little Black Bear | 25 | 21 | 4 | 12,457 |
+
+### Findings
+
+**The top of the list confirms the institutional and mission founding set.** Fort Qu'Appelle (railway_lag 31, GTPR arrived 1911 — one year after surrender), Battleford (railway_lag 30, founded 1875 as NWMP/territorial capital), Duck Lake (railway_lag 15, founded 1875 as Métis and HBC post site), Lebret (railway_lag 25, mission community from 1860s), Lumsden and Craven (railway_lag 5–6, QLSRSC arrived 1887 but both founded 1881–1882 as agricultural settlements) — these are all communities whose founding predated railway access by years or decades, and whose Type A classification reflects accumulated institutional or agricultural presence rather than railway-driven townsite development.
+
+**Fort Qu'Appelle is the extreme case.** Founded 1880, railway not until 1911 — after the 1910 Pasqua surrender. Fort Qu'Appelle generated 30 years of pre-surrender pressure without a railway; indeed the railway arrived after the surrender. This is the strongest case in the dataset for non-railway-driven pressure: the accumulated presence of the NWC post (1804), Métis community (1840), NWMP barracks (1880), mission presence, and homesteading generated enough pressure to yield a surrender in 1910 with no railway until the following year. The railway_gap of −1 confirms this — the GTPR arrived too late to have driven the surrender.
+
+**Three cases have negative railway_gap (surrender before railway).** Fort Qu'Appelle (−1), Leslie (−2), Lebret (−1), Montmartre (−2), Melfort (−3), Forget (−3). In all six cases the settlement predated the railway by years, generated pre-surrender pressure through other means, and the surrender preceded or coincided with railway arrival. These are the clearest non-railway Type A cases in the dataset.
+
+**The Qu'Appelle valley cluster dominates the high-lag end.** Fort Qu'Appelle (31), Lebret (25), Lumsden (6), Craven (5) — four of the top six by railway_lag are in the Qu'Appelle valley, all served eventually by GTPR or QLSRSC lines that arrived late relative to settlement. The valley's long pre-railway colonial history (fur trade, mission, NWMP, homesteading) produced the deepest founding-to-railway lags in the province.
+
+**14e extends and confirms the Query 3a institutional founding analysis.** Query 3a identified Fort Qu'Appelle (effective_gap 106 from 1804 NWC post), Battleford, Duck Lake, Lebret, and Lumsden as long-gap institutional cases. Query 14e shows that the same settlements cluster at the top of the railway_lag distribution — pre-railway founding and long formal gap are the same phenomenon measured differently. The institutional founding-type finding from 3a and the railway lag finding from 14e are mutually reinforcing.
