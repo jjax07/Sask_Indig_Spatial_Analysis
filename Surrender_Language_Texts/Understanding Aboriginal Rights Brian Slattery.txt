@@ -1,0 +1,4844 @@
+UNDERSTANDING ABORIGINAL RIGHTS
+
+Brian Slattery*
+Toronto
+
+The entrenchment of aboriginal rights in the Constitution Act, 1982 and the
+importance of aboriginal claims now reaching the courts highlight the need to
+understand these long-ignored rights. This article sets out a general theory of
+the subject, drawing on the leading cases and the complex history of relations
+between native peoples and the Crown . Aboriginal rights are based on a set of
+basic common law principles that operate uniformly across Canada, except
+where modified by treaty or legislation . Under those principles, native peoples
+presumptively hold full rights to lands in their possession, and retain their
+accustomed laws andpolitical institutions, including a measure ofinternal auton-
+omy . The Crown holds, a general fiduciary obligation to protect aboriginal
+peoples and their lands. Aboriginal rights have long enjoyed some constitu-
+tional protection under the Royal Proclamation of 1763 and the Constitution
+Act, 1867. The recent entrenchment of these rights completes the process .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+L'inclusion des droits des autochtones dans la Loi constitutionnelle de 1982 et
+l'importance des revendications autochtones qui arrivent maintenant devant les
+tribunaux soulignent combien il est nécessaire de comprendre ces droits restés
+dans l'oubli pendant si longtemps . Dans cet article, l'auteur présente le sujet
+dans ses grandes lignes en s'appuyant sur les décisions qui font autorité et sur
+l'histoire complexe des relations entre les peuples autochtones et la Couronne.
+Les droits autochtones ont pour base un ensemble de principes de common law
+qui s'appliquent defaçon uniforme dans tout le Canada saufquand un traité ou
+un acte législatify ont apporté des changements . En vertu de ces principes, les
+peuples indigènes ont, de prime abord, tous les droits sur les terres qu'ils
+possèdent et conservent leur droit coutumier et leurs institutions politiques y
+compris une certaine autonomie domestique. La Couronne a l'obligationfiduciàry
+générale deprotéger les peuples autochtones et leurs terres . Les droits autochtones
+reçoivent depuis longtemps une certaine protection constitutionnelle et ceci en
+vertu de la Proclamation royale de 1763 et de la Loi constitutionnelle de 1867.
+L'inclusion récente de ces droits dans la Constitution ne fait que parfaire ce
+développement .
+
+Introduction
+The subject of aboriginal rights is life an overgrown and poorly exca-
+vated archeological site. Most visitors are content to wander around the
+
+*Brian Slattery, of Osgoode Hall Law School, York University, Toronto, Ontario.
+I am indebted to Professors John Evans, Kent Mchleil, Peter Hogg, and Michael Asch,
+as well as Messrs . Bruce McLeod and John Hurley for their helpful criticisms of an
+earlier version of this article . I should also like to thànk the Social Sciences and Human-
+ities Research Council of Canada and Osgoode Hall Law School for making time avail-
+able for research and writing. The law stated herein is as of December 31st, 1986 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+728
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol. 66
+
+ruins, climb to the top of the highest mound, or poke about in the dust
+for souvenirs. Others, prompted by curiosity or official duty, select a
+likely spot and sink a trench through the layers of historical deposits,
+uncovering, perhaps, the severed foot of a colossal statue, or a worn
+inscription . But the meaning of these objects is unclear. Even when they
+can be identified and dated, their larger import escapes us.
+
+It is now a century and more since excavation of this sort got under-
+way in Canada. Some areas have been cleared and a number of curious
+items retrieved, tagged, and sorted . But we still have only a dim percep
+tion of the shape of the city that lies beneath our feet . More surprising,
+little thought has been given to the matter . When questions arise about
+the location of the city's boundaries, and the significance of its principal
+structures, we are referred to confident statements made by early exca-
+vators, as if these dispensed with the need for further inquiry.
+
+A number of factors suggest that the era of haphazard excavation is
+rapidly coming to an end. Section 35 of the Constitution Act, 1982'
+recognizes and affirms the "existing aboriginal and treaty rights of the
+aboriginal peoples of Canada" . Likewise, section 25 shields from the
+impact of the Canadian Charter of Rights and Freedoms2 a broader group
+of rights described as "aboriginal, treaty or other rights or freedoms that
+pertain to the aboriginal peoples of Canada", including those recog-
+nized by the Royal Proclamation of 1763 . These sections require courts
+to confront many of the basic unresolved issues concerning aboriginal
+rights .
+
+In an important case the Supreme Court has signalled that it is
+ready for the task . While not dealing directly with the new constitutional
+provisions the judgment provides the stimulus and much essential mate
+rial, for reflection on the fundamental nature and origins of aboriginal
+rights . The case is Guerin v. The Queen .' The occasion was an action
+by the Musqueam Indian band of British Columbia against the federal
+government . The band possessed valuable reserve lands in the City of
+Vancouver. They alleged that in 1957 the government induced them to
+surrender part of their reserve to the Crown for leasing to a golf club,
+with the rent to be applied to the band's account. After obtaining the
+surrender from the band, the government leased the land to the golf club
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+I Schedule B of the Canada Act, 1982, c. l l (U .K .) .
+
+2 Part I (ss. 1-34) of the Constitution Act, 1982 .
+3 The most accessible text is that found in R.S .C . 1970, App. 11, No . 1, but it is
+not completely accurate . An accurate copy of the original printed text is given in C .S .
+Brigham (ed.), British Royal Proclamations Relating to America (1911), p. 212. The
+original document, as entered on the Patent Roll for the regnal year 4 Geo. III, may be
+seen in the United Kingdom Public Record Office : c. 66/3693 (back of roll).
+
+4 [198412 S.C .R . 335, (1984), 13 D.L .R . (4th)'321 (S .C .C .) . For analysis of the
+decision, see: D.P . Emond, Case Comment: Guerin v. R. (1986), 20 Estates and Trusts
+
+ 
+ 
+(cid:9)
+(cid:9)
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+729
+
+for seventy-five years on terms much less favourable than the band had
+agreed to, and did not even give there a copy of the lease until twelve
+years later. Evidence showed that the lands were potentially among the
+most valuable in Vancouver and could have commanded a much higher
+rent. The band argued that the government was guilty of a breach of
+trust, and asked for damages .
+-
+
+The government argued in reply that it was not legally responsible
+to the band for what it did with their lands after the surrender. In effect,
+it might have leased the lands on whatever terms it saw fit, regardless of
+what it had told the band earlier. The government's only responsibility
+to the band was political rather than legal.
+
+The Supreme Court unanimously rejected the government's argu-
+ments and held it legally accountable for its adtions, awarding the band
+ten million dollars in damages. Dickson J., speaking for himself and
+Beetz, Chouinard and Lamer JJ., based his decision squarely on the
+concept of aboriginal land rights . He held that aboriginal land title is a
+legal right derived from the native peoples' historic occupation of their
+tribal lands. That title both pre-dated and survived the claims to sover-
+eignty made by European nations in colonizing North America. Although
+aboriginal title was recognized in the Royal Proclamation of -1763, it has
+an independent basis in Canadian common law. It entitles native peoples
+to possess their homelands, until their =title is extinguished by a volun-
+tary surrender to the Crown or by legislation. Native peoples have a
+special relationship with the,,Crown, whereby the Crown serves as an
+intermediary between them and people wishing to purchase or lease their
+lands. This relationship gives rise to a distinctive fiduciary obligation on
+the part of the Crown to deal with surrendered native lands for the bene-
+fit of the native peoples. If the Crown fails in the performance of its
+fiduciary duties it is liable in damages .
+
+A second opinion, coming to similar conclusions, was delivered by
+Wilson J., with Ritchie and McIntyre JJ. concurring . She emphasizes
+that the Crown has a general fiduciary obligation to protect Indian rights
+in their reserves, which is rooted in the concept of aboriginal title. The
+last of the eight judges participating in the decision, Estey J., gave a
+short separate opinion concurring in the result, but involving the law of
+agency .s
+
+.
+
+Reports 61 ; J. Hurley, The Crown's Fiduciary Duty and Indian Title: Guerin v. The
+Queen (1985), 30 McGill Law J. 559; W.R . McMurtry and A. Pratt, Indians and the
+Fiduciary Concept, Self-Government and the Constitution : Guerin in Perspective, [1986]
+3 C .N .L .R . 19 ; 1.1 . Reynolds and L.F . Harvey, The Fiduciary Obligation of the United
+States and Canadian Governments towards Indian Peoples, in Indians and the Law II,
+Chapter 1, Materials prepared for Continuing Legal Education, Vancouver, B.C ., Janu-
+ary and March, 1985 .
+
+5 The ninth member of the bench, Laskin C.J .C ., took no part in the judgment.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+730
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+The decision has a profound significance for aboriginal land claims .
+In the Prairie Provinces, most of Ontario, and part of the Northwest
+Territories, Indian peoples were induced to sign treaties whose written
+terms provide for the surrender of their lands to the Crown. No such
+treaties were signed for the Atlantic Provinces, Quebec, much of British
+Columbia, and large sectors of the North.6 In Quebec, native land claims
+were partially settled by the James Bay Agreement in the mid-1970s .7
+But in many other parts of Canada native people maintain that their
+rights to their traditional homelands have never been lawfully extin-
+guished by treaty or by statute. 8 In areas where treaties were signed, it is
+disputed whether the written texts faithfully reflect the oral terms of the
+agreements.
+
+The federal government has acknowledged that certain native peo-
+ples have continuing interests in traditional lands founded on use and
+occupancy, and has been prepared to negotiate some aboriginal land
+claims on that basis . But it has remained equivocal about the legal mer-
+its of these claims .9 Provincial governments, whose control over natural
+resources is affected, have generally been more reluctant than the fed-
+eral government to acknowledge the existence of aboriginal title or to
+negotiate claims based on it.
+
+Prior to the Guerin decision, the jurisprudence on aboriginal title
+had been unclear. In Calder v. Attorney-General of British Columbia, to
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+a The subject is considered in: B.H . Wildsmith, Pre-Confederation Treaties, in
+B .W . Morse (ed.), Aboriginal Peoples and the Law: Indian, Metis and Inuit Rights in
+Canada (1985), pp . 122-271 ; N.K. Zlotkin, Post-Confederation Treaties, ibid ., pp . 272-407.
+
+7 The James Bay and Northern Quebec Agreement (Quebec: Éditeur officiel du
+Québec, 1976); embodied in S.C . 1976-77 c.32, and S.Q . 1976 c .46. See: W. Moss,
+The Implementation of the James Bay and Northern Quebec Agreement, in Morse, op .
+cit, footnote 6, pp . 684-694.
+
+8 For general accounts, see: D. Sanders, Prior Claims : Aboriginal People in the
+Constitution of Canada, in S.M . Beck and 1. Bernier (eds .), Canada and the New
+Constitution, Vol. 1 (1983), pp . 225-279; P.A . Cumming, Canada's North and Native
+Rights, in Morse, op . cit, footnote 6, pp . 695-744; B .W . Morse, The Resolution of
+Land Claims, in Morse, op . cit, footnote 6, pp . 617-683 ; M . Boldt and J.A. Long
+(eds .), The Quest for Justice: Aboriginal Peoples and Aboriginal Rights (1985) ; P.A .
+Cumming and N.H . Mickenberg (eds .), Native Rights in Canada (2nd ed ., 1972).
+
+9 See: Canada, Department of Indian Affairs and Northern Development, In All
+Fairness : A Native Claims Policy . Comprehensive Claims (1981), which states at pp .
+11-12: "Because of historical reasons--continuing use and occupancy of traditional lands
+there were areas in which Native people clearly still had aboriginal interests. Further-
+more these interests had not been dealt with by treaty nor did any specific legislation
+exist that took precedence over these interests.
+. . [Under the federal government's
+1973 policy statement) the federal government was prepared to accept land claims based
+on traditional use and occupancy and.
+. although any acceptance of such a claim
+would not be an admission of legal liability, the federal government was willing to
+negotiate settlements of such claims ." (Emphasis added) .
+
+.
+
+.
+
+10 [19731 S.C .R . 313, (1973), 34 D.L .R . (3d) 145. For discussion of the case, see
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+73 1
+
+decided in 1973, the Supreme Court of Canada split on the question
+whether the Nishga people of British Columbia possessed aboriginal rights
+to their traditional lands in the Nass River Valley . Hall J., Spence and
+Laskin JJ . concurring, held that the Nishgas had a legally recognizable
+title that had not been extinguished at the coming of the British Crown
+or by subsequent legislation. Judson J., Martland and Ritchie JJ. con-
+curring, seemed to accept that the hlishgas originally had some sort of
+aboriginal rights to their lands, but held that those rights had been terminated
+by British Columbia legislation-before Confederation. The seventh mem-
+ber of the court, Pigeon J., expressed no opinion on these points and
+held against the Alishgas on a procedural ground . Although the decision
+as a whole supported the concept of aboriginal title, the ambiguity of
+Judson J.'s judgment left room for argument .
+
+The Guerin decision ends this aspect of the controversy, with seven
+of the eight judges holding that aboriginal title is a legal right that can
+be extinguished only by native consent or by legislation.' 1 The effect is
+to shift the burden of proof to federal and provincial governments . They
+must now show that aboriginal land rights were lawfully extinguished in
+the past or acknowledge their continuing existence." Where the rights
+were wiped out by legislation, the decision implies that compensation
+should have been paid . 13
+
+Another important ëffect of the decision is to suggest that the Crown
+has a -general trust-like obligation toward native peoples. is This ruling
+has implications in a number of areas..-It provides a standard for the
+interpretation of treaty promises made by the Crown to Indian peoples,
+and also for interpreting legislation that affects native rights . At the
+least, it opens the door to actions alleging improper Crown dealings
+with reserve lands.
+
+Most important, however, is the fact that in Guerin the Supreme
+Court shows a willingness to consider the topic of aboriginal rights afresh,
+and to initiate a dialogue concerning the broad principles that alone can
+make sense of the subject. is The initiative comes none too soon, for
+courts are increasingly being faced with large and complex aboriginal
+claims . The absence of clear guiding principles has made it exception-
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+K.M . Lysyk, The Indian Title Question in Canada: An Appraisal in the Light of Calder
+(1973), 51 Can. Bar Rev. 450; D. Sanders, The I+Tishga Case (1973), B .C . Studies (no.
+19) 3 .
+
+1, See discussion below at footnotes 70-79 .
+12 Infra, at footnote 131 .
+13 Infra, at footnotes 91-104 .
+14 Infra, at footnotes 105-116.
+is The same attitude permeates the Supreme Court's recent decision regarding treaty
+
+rights in Simon v. The Queen, [1985] 2 S .C .R . 387, (1985), 24 D.L .R . (4th) 390.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+732
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+ally difficult for trial courts to cope with the voluminous body of histori-
+cal and anthropological evidence that often characterizes such claims,
+and the judgments show the strain . 16
+
+This article represents a contribution to the dialogue that Guerin
+initiates. My aim is to outline a general theory of aboriginal rights that
+embraces the decision's main holdings and relates them to a broader
+series of questions . The theory draws on the leading Canadian cases on
+the subject, and to a limited extent on American jurisprudence . But it is
+not founded exclusively on precedent. It looks beyond the confines of
+the cases to the larger historical processes they reflect . The goal, then,
+is to provide a map for understanding what aboriginal rights are all
+about.
+
+I will discuss first the sources and status of the doctrine of aborigi-
+nal rights . I will then focus specifically on aboriginal title to land, review-
+ing its main characteristics, and in particular, the ways it may be gained
+and lost . The links between aboriginal lands and Reserves will then be
+briefly explored . Finally, I will discuss the question of legislative juris-
+diction over aboriginal rights, and the constitutional provisions protect-
+ing them from governmental intrusion.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+I. Roots
+The doctrine of aboriginal rights is a basic principle of Canadian com-
+mon law17 that defines the constitutional links between the Crown and
+aboriginal peoples' $ and regulates the interplay between Canadian sys-
+tems of law and government (based on English and French law) and
+native land rights, customary laws, and political institutions . It states the
+original terms upon which the Crown assumed sovereignty over native
+peoples and their territories. The factual process by which this occurred
+is sometimes misunderstood, and so I will briefly review it before con-
+sidering its legal dimensions .
+
+1e Witness the courts' struggles in such cases as Hamlet of Baker Lake v. Minister
+of Indian Affairs, 119801 1 F.C . 518 (F .C .T .D .), and Attorney-General for Ontario v.
+Bear Island Foundation (1984), 15 D.L .R . (4th) 321 (Ont . H .C .) .
+
+17 By Canadian common law, I mean simply the unwritten law applied by Cana-
+I do not mean
+dian courts, whether in "common law" or "civil law" jurisdictions .
+English common law, as received in certain parts of Canada . Nor do I mean the com
+mon law as opposed to equity . In certain spheres (notably that of aboriginal rights),
+Canadian common law operates uniformly across the country, regardless of whether the
+law of the particular jurisdiction is based on French law or English law.
+
+1$ I will use the phrase "aboriginal peoples", "native peoples", and "Indian peo-
+ples" interchangeably . The term "Indian", of course, has a narrower meaning in popu-
+lar usage, but in Canadian legal usage has been employed to refer to Inuit and Metis
+peoples, as well as "Indians" in the narrow sense. See references in footnote 175
+below.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+733
+
+A. The Coming of the Crown 19
+
+Most native Canadian peoples were never conquered by the Crown.
+From the early days of colonization, Great Britain and France advanced
+claims to broad swathes of American territory, and offered to protect the
+native inhabitants against the imperial designs of other European powers
+and the uncontrolled inroads of settlers, traders, miners, and specula-
+tors. Initially, these claims were not backed by serious efforts to con-
+quer or govern the lands in question, and were ignored by most Indians,
+who were well able to defend themselves . 20
+
+Small colonies of French and English settlers sprang up along the
+eastern coasts of America, and extensive webs of relations developed
+with near and distant median groups, until the whole offe eastern and
+northern continent was affected . In early times, these relations were
+usually conducted on a basis of rough equality . They generally took the
+shape of formal oral treaties dealing with matters -of trade and alliance,
+war and peace, the cession of lands and the drawing of boundaries,
+reparation for past wrongs and promises of right-doing in future . 22 They
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+'9 See generally: J.T . Juricek, English Claims in North America to 1660: A Study
+in Legal and Constitutional History (Doctoral Dissertation, University of Chicago, 1970);
+B . Slattery, The Land Rights of Indigenous Canadian Peoples, As Affected by the Crown's
+Acquisition of Their Territories (D . Phil . Thesis, Oxford University, Faculty of Law,
+1979 ; reprinted, University of Saskatchewan Native Law Centre, 1979); J. Hurley, Chil-
+dren or Brethern : Aboriginal Rights in Colonial Iroquoia (Doctoral Dissertation, Cam-
+bridge University, 1985); G.S . Lester, The Territorial Rights of the Inuit of the Cana-
+dian Northwest Territories: A Legal Argument (Doctoral Dissertation, Osgoode Hall
+Law School, York University, 1981); J. Stagg, Anglo-Indian Relations in North Amer-
+ica to 1763 and an Analysis of the Royal Proclamation of 7 October 1763 (Ottawa:
+Department of Indian and Northern Affairs, 1981); P.C . Williams, The Chain (LL.M .
+Dissertation, Osgoode Hall Law School, York University, 1982).
+
+z° For a detailed review, see Hurley, op . cit., footnote 19 ; Slattery, op. cit., foot-
+
+note 19, pp. 95-125 .
+
+z' Among numerous works, the following deserve particular mention: A.G . Bailey,
+The Conflict of European and Eastern Algonkian Cultures, 1504-1700: A Study in Cana-
+dian Civilization (2nd ed ., 1969); L.H .. Gipson, The British Empire Before the Ameri
+can Revolution, 15 vols . (1936-1970) ; C.J . Jaenen, Friend and Foe: Aspects of French-
+Amerindian Cultural Contact in the Sixteenth and Seventeenth Centuries (1976) ; F. Jennings,
+The Invasion of America. Indians, Colonialism, and the Cant of Conquest (1975) ; F.
+Jennings, The Ambiguous Iroquois Empire (1984); R.O . MacFarlane, Indian Relations
+in New England, 1620-1760: A Study of a Regulated Frontier (Doctoral Dissertation,
+Harvard University, 1933); W .S . Robinson, Indian Policy of Colonial Virginia (Doc-
+toral Dissertation, University of Virginia, 1950); A.W. Trelease ; Indian Affairs in Colo-
+nial New York : The Seventeenth Century (1960) ; B. Trigger, The French Presence in
+Huronia: The Structure of Franco-Huron Relations in the First Half of the Seventeenth
+Century (1968), 49 Canadian Historical Review 107.
+
+21 Many of these are reproduced in standard printed collections of colonial docu-
+ments, such as E .B . O'Callaghan (ed.), Documents Relative to the Colonial History of
+the State of New York, 11 vols . (1856-1861) .
+
+ 
+ 
+734
+
+THE CANADIAN BAR REVIEW
+
+(Vol. 66
+
+were strongly influenced by Indian concepts and ceremonial, and were
+often renewed in annual sessions .'
+
+Britain eventually outflanked its imperial rivals . A long series of
+wars with France and Spain led to treaty settlements that recognized
+some of Britain's existing claims and purported to add further territories
+to its domains." Some of these treaties succeeded in restraining Euro-
+pean rivals from meddling in the areas designated, leaving Britain free
+to trade and colonize there without outside interference . Others were
+just a prelude to further controversy and conflict. Finally, at the Treaty
+of Paris in 1763, France withdrew completely from the area now com-
+prising Canada, allowing Britain a free hand. Indian peoples did not
+sign this Treaty or its predecessors, and did not concede that European
+states had the power to sign for them."
+
+Native Canadians could not, however, remain immune forever to
+European domination . Over several centuries, and after long periods of
+alliance and trade, they succumbed piecemeal to the Crown's pressure
+to accept its authority, usually only when their economic fortunes and
+military capacity had waned, and in the shadow of the growing power of
+the settler communities.26 The pattern differed from area to area, but
+generally the government gained control only in the nineteenth or twen-
+tieth centuries. In some cases, Indian groups signed formal treaties osten-
+sibly acknowledging the Crown's sovereignty, receiving in return assur-
+ances of protection .27 In others, the process was more informal and
+haphazard, and was accompanied by varying degrees of native resis-
+tance and protest. Even today, significant opposition to the legitimacy
+of the Crown's rule has continued among native groups .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+23 See, in particular, Williams, op . cit., footnote 19, pp . 31-68.
+' Notably, the Treaty of Utrecht (1713) and the Treaty of Paris (1763). For detailed
+discussion of these and other treaties, see Slattery, op . cit., footnote 19, pp . 126-190;
+M. Savelle, The Origins of American Diplomacy: The International History of Angloamerica,
+1492-1763 (1967) ; M. Savelle, The Diplomatic History of the Canadian Boundary,
+1749-1763 (1940) .
+
+25 See, D.V . Jones, License for Empire : Colonialism by Treaty in Early America
+
+(1982) .
+
+26 For illuminating accounts of this process, see, inter alia: R. Fisher, Contact and
+Conflict: Indian-European Relations in British Columbia, 1774-1890 (1977) ; R. Fumoleau,
+As Long As This Land Shall Last: A History of Treaty 8 and Treaty 11, 1870-1939
+(1973) ; L.F .S . Upton, Micmacs and Colonists: Indian-White Relations in the Maritimes,
+1713-1867 (1979) .
+
+27 No complete printed collection of these treaties exists . Useful sources include:
+A. Moms, The Treaties of Canada with the Indians of Manitoba and the North-West
+Territories (1880) ; Canada, Indian Treaties and Surrenders, 3 vols . (1905-1912) ; W.D .
+Hamilton and W.A . Spray (eds .) . Source Materials Relating to the New Brunswick
+Indian (1976) . The written texts of these treaties must be read with a critical eye. Usually,
+they were accompanied by extensive oral exchanges, which may have constituted the
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+73 5
+
+B. The Legal Effects of Crown Claims
+
+What legal impact did the Crown's penetration of North America
+have on Indian peoples? Two basic issues arise. The first is this . Were
+the Crown's initial claims, coupled with acts of "discovery" and treaties
+with other European states, legally sufficient to bring native groups and
+their territories under the Crown's sovereignty, regardless of the degree
+of factual control achieved? ®r did the Crown obtain sovereignty over
+native peoples only at later stages, when they actually submitted to its
+authority?
+
+The second issue springs from the first. Assuming that the Crown
+did, in some way or other, gain sovereignty over native Canadian peo-
+ples, how did this event, affect their legal position? What happened to
+their laws, property rights, and political institutions? Did these disap-
+pear overnight, to be replaced by a new set of rights, and rules? Or did
+théy survive the transition basically intact, or in some modified but rec-
+ognizable form?
+
+Most of this article will be taken up with the second of the two
+issues, which is really a nest of distinct but related questions . The first
+issue has complex historical and theoretical dimensions that cannot be
+fully explored here . Both issues are, of course, legal, and cannot be
+resolved simply by looking at the facts. Rules are needed to determine
+which facts are relevant and to assess their significance : At least three
+legal systems are available for the task : international law, the domestic
+law of the claimant European state, and the domestic law of the native
+people whose lands are claimed. The resolution of the issues depends in
+part on which system is chosen as an initial vantage point. In this arti-
+cle, we will adopt the perspective of a Canadian court, rather than a
+disinterested international tribunal or a native society. Our focus, then,
+will be on the position in Canadian law, leaving the other perspectives
+to be explored on another occasion .
+
+The first issue may be disposed of briefly. Canadian law treats the
+question of when and how the Crown gained sovereignty over Canadian
+territories in a somewhat artificial and self-serving manner. To state a
+complex matter simply, the courts apparently feel bound to defer to
+official territorial claims advanced by the Crown, without inquiring into
+the facts supporting them or their validity in international law. 28 This
+judicial posture of deference is designed to leave the executive with a
+relatively free hand in matters of foreign policy . So a Canadian court
+will ordinarily recognize historical claims officially advanced by the Crown
+
+true agreement. The written version was translated orally to the- Indians in a process that
+allowed ample opportunity for misunderstanding and distortion .
+
+zs Nevertheless, a court might well take international law into account in interpre-
+ting Crown claims, so as to harmonize the two as far as possible . For discussion and
+authorities, see Slattery, op. cit., footnote 19, pp . 63-65.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+736
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol, 66
+
+to American territories as effective to confer sovereignty for domestic
+purposes .
+
+The question to be answered in the Canadian context, then, is how
+much territory the Crown claimed at various stages, and for what pur-
+poses. This is a complex question, requiring a detailed and balanced
+reading of the historical record, one that is sensitive to the vagaries of
+state policy and ambition, and takes account of the Crown's dealings not
+only with other European powers, but also with native peoples. It is not
+enough to found the acquisition of the continent on some bit of puffery
+in an ancient Charter. Claims advanced in one era were quietly retracted
+or modified in another. What was convenient to assert in dealings with
+other European powers was often prudent to deny in negotiations with
+Indian groups, and vice versa. To determine the date, then., when the
+Crown unequivocally asserted sovereignty over a given sector of Canada
+requires a detailed analysis of -4he evidence pertinent to that area.
+
+Given that the Crown at some stage asserted sovereignty over native
+Canadian groups, what effect did this have on their laws, land rights,
+and political institutions, as seen from the perspective of a Canadian
+court? This is the second of the two questions identified earlier, and it is
+the one that will claim our attention throughout the remainder of this
+paper. A brief summary of our response maybe given here . 29
+
+A review of the. Crown's historical relations with aboriginal peo-
+ples supports the conclusion that the Crown, in offering its protection to
+such peoples, accepted that they would retain their lands, as well as
+their political and cultural institutions and customary laws, unless the
+terms of treaties ruled this out or legislation was enacted to the contrary .
+Native groups would retain a measure of internal autonomy, allowing
+them to govern their own affairs as they found convenient, subject to the
+overriding authority of the Crown in Parliament . The Crown assumed a
+general obligation to protect aboriginal peoples and their lands and gen-
+erally to look out for their best interests-what the judges have described
+as a fiduciary or trust-like obligation . In return, native peoples were
+required to maintained allegiance to the Crown, to abide by her laws,
+and to keep the peace.
+
+C. The Common Law Doctrine of Aboriginal Rights30
+
+The Crown's historical dealings with Indian peoples were based on
+legal principles suggested by the actual circumstances of life in North
+
+29 The matter is considered in detail in Slattery, op . cit., footnote 19, pp . 10-62; B.
+Slattery, Ancestral Lands, Alien Laws : Judicial Perspectives on Aboriginal Title (Uni-
+versity of Saskatchewan Native Law Centre, 1983) . Compare with Lest6r, op . cit.,
+footnote 19; G.S . Lester, Inuit Territorial Rights in the Canadian Northwest Territories:
+A Survey of Legal Problems (Ottawa: Tungavik Federation of Nunavut, 1984) .
+
+30 See, generally: J. Hurley, Aboriginal Rights, the Constitution and the Marshall
+
+3
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+73 7
+
+America, the attitudes and practices of Indian societies, broad rules of
+equity and convenience, and imperial policy . These principles gradually
+crystallized as part of the special branch of British law that governed the
+Crown's relations with its overseas dominions, commonly termed "colo-
+nial law", or more accurately "imperial constitutional law" . 31
+
+The legal principles concerning aboriginal peoples developed at the
+same time as other basic doctrines of colonial law and shared essentially
+the same juridical character. Many of their basic tenets can be discerned
+as early as the seventeenth century in British practice in the American
+colonies. They emerge more fully developed during the next century
+and are reflected, if only partially, in the major Indian document of this
+era, the Royal Proclamation of 1763 .2 Just as eighteenth century colo-
+nial law harboured rules governing such matters as the constitutionals.
+status of colonies, the relative powers of the Imperial Parliament and
+local assemblies, and the reception of English law, it also contained
+rules concerning the status of native peoples living under the Crown's
+protection, and the position of their lands, customary laws, and political
+institutions . These rules form a body of unwritten law known collec-
+tively as the doctrine of aboriginal rights . The part dealing specifically
+with native lands is called the doctrine of aboriginal title . Other parts
+deal with such matters as Indian treaties, customary law, powers of
+self-government, and the fiduciary role of the Crown.
+
+The doctrine of aboriginal rights, like other doctrines of colonial
+law, applied automatically to a new colony when the colony was acquired .
+In the same way that colonial law determined whether a colony was
+deemed to the "settled" or "conquered", and whether English law was
+automatically introduced or local laws retained, it also supplied the pre-
+sumptive legal structure governing the position of native peoples. The
+doctrine of aboriginal rights applied, then, to every British colony that
+now forms part of Canada, from Newfoundland to British Columbia.
+Although the doctrine was a species of unwritten British law, it was not
+part of English common law in the narrow sense, and its application to a
+colony did not depend on whether or not English common law was
+introduced there . Rather the doctrine was part of a body of fundamental
+constitutional law that was logically prior to the introduction of English
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+Court (1982-83), 17 R.J .T . 403; M. Asch, Home and Native Land : Aboriginal Rights
+and the Canadian Constitution (1984) ; M. Jackson, The Articulation of Native Rights in
+Canadian Law (1984), 18 U.B .C .L .R . 255.
+
+31 The point is considered in more detail in Slattery, op . cit., footnote 29, J?p.
+35-36. The origins and character of colonial law are discussed in B . Slattery, The Inde-
+pendence of Canada (1983), 5 Sup. Ct . L.R. 369, at pp . 375-384.
+
+32 Supra, footnote 3. The process by which the common law principles governing
+aboriginal rights developed is well-described by Strong J. in St . Catharines Milling and
+Lumber Co . v. The Queen (1887), 13 S.C .R . 577, at pp . 607-616.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+738
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+common law and governed its application in the colony . Thus, the doc-
+trine of aboriginal rights extended to New France at the time of British
+conquest, even before English law was introduced in 1763, and was
+unaffected by the restoration of private French law in the Quebec Act" a
+decade or so later.
+
+Not only does the doctrine of aboriginal rights apply apart from the
+introduction of English common law, it limits and molds the application
+of that law to native peoples, just as it limits the application of French
+law to native people in Quebec . The reason is that the doctrines govern-
+ing the reception of English law in "settled" colonies, and the retention
+of local law (such as French law) in "conquered" colonies are them-
+selves part of imperial constitutional law and are to be understood in
+light of other imperial principles, including the doctrine of aboriginal
+rights .
+
+This consideration provides the theoretical basis for the survival of
+native customary law in Canada, a phenomenom long recognized (but
+not always well understood) in our courts .34 When the Crown gained
+sovereignty over an American territory, colonial law dictated that the
+local customs of the native peoples would presumptively continue in
+force and be recognizable in the courts, except insofar as they were
+unconscionable or incompatible with the Crown's assertion of sover-
+eignty . In this respect, the rule resembles that applied in conquered or
+ceded colonies, where the local law is held to remain in force in the
+absence of acts to the contrary . But the rule respecting native custom
+applies regardless of whether the territory is deemed to have been acquired
+by conquest, cession, peaceful settlement, or in some other way. It may
+be seen, then, that the doctrine of colonial law that supports the survival
+of native custom in Canada is distinct from the English rules concerning
+local custom in England and is governed by quite different considera-
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+33 14 Geo.
+
+III, c.83 (U .K .) . It
+
+is a matter of debate how far English law was
+actually introduced in Quebec in 1763, and thus whether the Quebec Act restored or
+merely confirmed French private law. See Slattery, op . cit., footnote 19 . pp . 165-174,
+204-210.
+
+34 See, Connolly v. Woolrich (1867), 11 L.C . Jur. 197 (Que . S.C .), (1869), 1
+R.L.O .S . 253 (Que . C.A.) ; R. v. Nan-e-quis-a Ka (1889), 1 Terr. L.R . 211 (N .W .T.S .C .) ;
+R. v. Bear's Shin Bone (1899), 3 C .C .C . 329 (N .W .T .S .C .) ; Re Noah Estate (1961), 32
+D.L.R. (2d) 185 (N .W .T .T .C .); Re Adoption of Katie (1961), 32 D.L .R . (2d) 686
+(N .W .T.T.C.) ;ReBeaulieu'sAdoption Petition (1969),3 D.L .R . (3d) 479 (N .W .T .T .C .) ;
+Re Kitchooalik and Tucktoo (also reported sub nom Re Deborah) (1972), 28 D.L .R .
+(3d) 483 (N .W .T .C .A .), aff'g (1972), 27 D.L .R . (3rd) 225 (N .W .T .T .C .); Re Wah-
+Shee (1975), 57 D.L .R . (3rd) 743 (N .W .T .S .C .) ; Re TagornakAdoption Petition, [1984]
+1 C.N .L .R . 185 (N .W .T .S .C .) ; N.K. Zlotkin, Judicial Recognition of Aboriginal Cus-
+tomary Law in Canada: Selected Marriage and Adoption Cases, [1984] 4 C.N .L .R . 1,
+Slattery, op . cit., footnote 19, pp . 35-44.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+73 9
+
+tions. The attempt to apply the tests governing custom in the English
+County of Kent to native customs in the Canadian Northwest Territories
+is misguided.
+
+From its origins in British imperial law, the doctrine of aboriginal
+rights has passed into Canadian common law, and, subject to statutory
+modifications, operates uniformly across Canada." The doctrine was
+inherited not only by Canada but also by the United States after the
+American Revolution . A series of decisions written by Chief Justice
+Marshall of the United States Supreme Court in the early nineteenth
+century review the history of British dealings with native peoples in
+America, and articulate certain principles implicit in those dealings . 36
+These decisions perform for the doctrine of aboriginal rights what Lord
+Mansfield's celebrated decision in Campbell v. Hall3' performs for other
+principles of colonial law, providing structure and coherence to an untidy
+and diffuse body of customary law based on official practice . The Mar-
+shall decisions are as relevant to Canada as they are to the United States,
+and have often been cited in Canadian courts . 38
+
+The decision of the Supreme Court of Canada in Guerin v. The
+Queen, testifies to the common law foundations of aboriginal rights . In
+dealing with such subjects as the existence and nature of aboriginal title,
+the character of surrenders of native land, and the fiduciary obligations
+of the Crown toward native peoples, the court treats the question in each
+case as one of unwritten or common law that is distinctive to Canada
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+3s The transformation of colonial legal principles into rules of Canadian common
+
+law is examined in Slattery, loc. cit., footnote 31, at pp . 390-392.
+
+36 See, Johnson and Graham's Lessee v. McIntosh, 8 Wheaton 543 (1823) ; Chero-
+kee Nation v. State of Georgia, 5,Peters 1 (1831) ; Worcester v. State of Georgia, 6
+Peters 515 (1832) . For analysis of these decisions, see, Hurley, loc. cit., footnote-30 ;
+Slattery, op . cit., footnote 29, pp . 17-38; H.R. Berman, The Concept of Aboriginal
+Rights in the Early Legal History of the United States (1978), 27 Buffalo L. Rev. 637;
+J.Y . Henderson, Unraveling the Riddle of Aboriginal Title (1977), 5 Amer . Ind. L.
+Rev. 75 . Fo r an excellent historical study, see J .C. Burke, The Cherokee Cases: A
+Study in Law, Politics; "and Môrality (1968-69), 21 Stan. L. Rev. 500.
+
+37 (1774), Lofft 655, 98 E.R . 848; 1 Cowp . 204, 98 E.R. 1045 ; 20 St . Tr. 239
+
+(K .B .) .
+
+38 To cite only a few examples, the Canadian judges in St . Catharines Milling and
+Lumber Co. v. The Queen place heavy reliance on Marshall J.'s views, albeit with
+varying results; see (1885), 10 O.R . 196 (Ont . Ch .), per Boyd C., at p. 209; (1886), 13
+O.A .R . 148 (Ont . C.A .), per Burton J.A ., at p. 160; per Patterson J.A ., at p. 169;
+(1887), 13 S .C .R . 577, per Ritchie C.J ., at p . 600, per Strong J., at pp . 608, 610-612,
+633-634, per Taschereau J., at p. 642. Both major opinions written in the Supreme
+Court in the Calder case refer to the Marshall decisions (supra, footnote 12, per Judson
+J., at p. 151, per Hall J., at pp . 193-196), as does the opinion of Dickson J. in the
+Guerin case (supra, footnote 4, at pp . 335-336) .
+
+39 Supra, footnote 4.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+740
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+and exists independently of statute or executive order. The court clearly
+assumes that the common law governing these matters is uniform, and
+does not vary from province to province . There is no suggestion that the
+law applied by the court was peculiar to the province of British Colum-
+bia, where the case arose.
+
+The fact that the common law of aboriginal rights is uniform across
+Canada means that it is not necessary for many purposes to determine
+what precise territories are covered by the Indian provisions of the Royal
+Proclamation of 1763. 4° Even assuming that certain provisions do not
+apply to same parts of Canada, the common law principles that the
+Proclamation consolidates are in force there. The fruits of this approach
+are evident in Guerin, where the court treats a rule embodied in the
+Proclamation as relevant to British Columbia without finding it neces-
+sary to determine the document's precise geographical scope. 41
+
+The Guerin decision also stands for the proposition that statutes
+and other acts concerning native people should be read in the light of the
+common law of aboriginal rights . In Guerin, the court adopts this approach
+in interpreting the provisions of the Indian Act. 42 By implication, the
+common law also provides the context for understanding treaties signed
+with particular Indian bands, as well as such important constitutional
+provisions as section 91(24) of the Constitution Act, 1867,43 and sec-
+tions 25 and 35 of the Constitution Act, 1982 .44
+
+As a common law doctrine, albeit a fundamental one, the doctrine
+of aboriginal rights can in principle be overriden or modified by legisla-
+tion passed by a competent legislature, in the absence of constitutional
+barriers. It seems doubtful whether Indian peoples initially understood
+or accepted the principle that legislation could nullify their aboriginal
+rights without their consent, and inconsistent Crown practice may have
+
+4° On the geographical scope of the Proclamation, see Slattery, op. cit., footnote
+19, pp . 175-282; K.M . Narvey, The Royal Proclamation of 1763 . The Common Law,
+and Native Rights to Land within the Territory Granted to the Hudson's Bay Company
+(1973-74), 38 Sask . L. Rev. 123 .
+
+41 Supra, footnote 4, per Dickson J., at pp . 376-379 (S .C .R .), pp . 334-336 (D .L .R .),
+
+per Estey J., at pp . 392 (S .C .R .), 346 (D .L .R .) .
+
+42 Ibid., especially at pp . 383, 384-387 (S .C .R .), 340, 341-342 (D .L.R .), per Dickson
+
+J., and at pp . 348-350 (S .C .R .), 356-357 (D .L.R .), per Wilson J.
+
+43
+
+30 & 31 Vict ., c .3 (U .K .) . See discussion, infra, at footnotes 174-176, and
+
+188-221 .
+
+44 Supra, footnote 1 . See infra, at footnotes 222-225.
+45 See, Calder v. Attorney-General of British Columbia, supra, footnote 10, per
+Judson J., at pp . 333-334 (S .C .R .), 159-160 (D .L .R .), per Hall J., at pp . 401-404
+(S .C .R .), 208-210 (D .L .R .) ; R. v . Derriksan (1976), 71 D.L .R . (3d) 159 (S .C .C .) ;
+Kruger and Manuel v. The Queen, [19781 1 S .C .R . 104, at pp . 111--112, 116-117,
+(1977), 75 D.L .R . (3d) 434, at pp . 439, 443; Guerin v. The Queen, supra, footnote 4,
+per Dickson J., at pp . 376-377 (S .C .R .), 335 (D .L.R .) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19571
+
+Understanding Aboriginal Rights
+
+74 1
+
+contributed to the confusion. Nevertheless, the sfandard British doctrine
+attributing paramountcy to Acts of Parliament has been applied. 46 The
+ameliorating factor is that throughout much of Canadian history consti-
+tutional provisions have limited the power of local legislatures to affect
+aboriginal rights .' ,
+
+It is not possible here to consider the full range of doctrines associ-
+ated with the concept of -aboriginal rights . We will concentrate on the
+best developed of these doctrines, that concerning aboriginal land rights
+(."aboriginal title"), and deal briefly in this context with the Crown's
+fiduciary responsibilities .
+
+II. Aboriginal Title: General Features
+
+A . Basic Concepts48
+
+From early colonial times, a system arose in North America whereby"
+lands over which the Crown claimed sovereignty were divided into two
+broad categories : Indian Territories, and lands governed by European
+style land systems ("General Lands") . The distinction between these
+categories is the key to understanding the doctrine of aboriginal land
+rights .
+
+Prior to the advent of Europeans, most of North America was actu-
+ally possessed àtid used by native communities. But the map of aborigi-
+nal North America-was not completely static . Native peoples migrated
+in response to such factors as war, epidemic, famine, dwindling game
+reserves, altered soil conditions, trade, and population pressure . Lands
+that were vacant at one period might latex be occupied, and boundaries
+between groups shifted over time . The identities of the groups them-
+selves changed, as weaker ones withered or were absorbed by others,
+and new ones emerged."
+
+Far from ending this fluidity, the coming of Europeans in some
+cases increased it, as novel trade opportunities, technologies, and means
+of transport upset existing alliances and balances of power and stimulated
+fresh forms of competition and conflict ." The introduction of the horse
+
+46 The genesis of the principle of Parliamentary supremacy as applied to British
+
+colonies is considered in Slattery, loc. cit., footnote 31, at pp . 384-390.
+
+47 See, infra, at footnotes 181-225.
+48 See generally, J.C . Smith, The Concept of Native Title (1974), 24 U.T . Law J.
+1; Lysyk, loc. cit., footnote 10 ; Cumming and Mickenberg, op . cit., footnote 8; Slattery,
+op . cit., footnote 29 ; Lester, op . cit., footnote 19 ; G. LaForest, Natural Resources and
+Public Property under the Canadian Constitution (1969), pp . 108-133 ; D.W . Elliott,
+Aboriginal Title, in Morse, op . cit., footnote,6, pp . 48-121 .
+
+49 See, for example, D.G. Mandelbaum, The Plains Cree : An Ethnographic, His-
+
+torical, and Comparative Study (1979), pp . 7-46 .
+
+so Mandelbaum, ibid .; H. Brody, Maps and Dreams : Indians and the British Colum-
+
+bia Frontier (1983), pp . 22-23 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+742
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+and fire-arms to the western plains gave rise to new and more mobile
+styles of life among the Western Indians, which ironically are often
+taken to exemplify traditional Indian culture. The well-known wars of
+the Iroquois against their aboriginal neighbours in the seventeenth cen-
+tury were related to the European fur trade ."
+
+If European influence did not in fact stabilize native boundaries,
+the Crown's assertion of sovereignty did not in law confine native peo-
+ples to the lands they happened to possess at that time and prevent them
+from acquiring title to new lands in the future . The Indian 'Territories
+remained as before, an area open to movement and change, where the
+land rights of a native group rested on possession, and title was gained
+by appropriation or agreement and lost by abandonment.
+
+But the Crown's claim of sovereignty over the Indian Territories
+had one significant legal consequence: under British law, the Crown
+gained ultimate title to the soil. This flowed from the feudal character of
+the British constitution, whereby the Crown was not only sovereign but
+also ultimate landlord . Once a British court recognized the assertion of
+sovereignty, it also attributed to the Crown a notional title to the lands
+claimed."
+
+For most practical purposes the Crown's underlying title to the Indian
+Territories did not affect native property rights, which were viewed as
+burdens on that title ." Neither did it affect customary native systems of
+land use and tenure, which remained in force within fhe native commu-
+Its main
+nities and governed the relations of their members inter se.
+consequence was that native peoples could not cede their territories to
+European states other than Britain, for to do so would have involved a
+denial of the Crown's sovereign rights . Nevertheless, native peoples were
+not barred from transferring lands among themselves (where native cus-
+tom allowed this), and their ability to gain rights to new lands within the
+Indian Territories by simple appropriation was unimpaired .
+
+5' See, for example, G.T. Hunt, The Wars of the Iroquois : A Study in Intertribal
+
+Trade Relations (1960) .
+
+Sz See, Johnson and Graham's Lessee v. McIntosh, supra, footnote 36 ; Amodu
+Tijani v. Secretary, Southern Nigeria, [192112 A.C . 399, at p. 407 (P .C .) ; St . Cather-
+ine's Milling and Lumber Co . v. The Queen (1888), 14 A.C . 46 (P,C .) (lower court
+decisions reported sub. nom. St. Catherine's Milling and Lumber Co. v. The Queen,
+supra, footnote 38). For analysis, see, Slattery, op . cit., footnote 19, pp . 45-62; Slattery,
+op . cit., footnote 29, pp. 17-43; K.O . Roberts-Wray, Commonwealth and Colonial Law
+(1966), pp . 625-636; J.W . Salmond, Jurisprudence (7th ed ., 1924) (last edition edited
+by Salmond), App. V, p. 554; D.P . O'Connell, International Law (2nd ed ., 1970), Vol.
+I, pp . 403-405 .
+
+53 The account that follows represents a distillation of the principles laid down by
+Chief Justice Marshall in Johnson v. McIntosh . supra, footnote 36, as approved, most
+recently, in Guerin, supra, footnote 4, per Dickson J., at pp . 376-379 (S .C .R .), 335-336
+(D .L .R .) . For detailed analysis of the principles, see Slattery, op. cit., footnote 29, and
+Slattery, op . cit., footnote 19, pp . 350-361 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+74 3
+
+Further restrictions on transfers of native lands rose from another
+source . When colonies of Europeans were established in America,
+European-derived land systems were introduced among the settlers. These
+systems had one common characteristic . They were based on the prem-
+ise that title to land in the colony, so far as the settlers were concerned,
+could only be derived from Crown grant. Title to, land was thus in prin-
+ciple derivative . It followed that private settlers could not acquire title to
+land simply by taking possession of it; neither could they gain title by
+purchase from the Indians . This principle served several important pur-
+poses . It ensured that the Crown and its deputies retained control over
+the pace and manner in which land was settled, and that they benefitted
+from revenues flowing from land grants . It also helped to avoid friction
+between settlers and Indians caused by the fraudulent practices that often
+tainted private purchases of Indian lands .
+
+The ban on cession of native lands to outside European states, cou-
+pled with the incapacity of settlers to gain title by Indian purchases,
+resulted in the characterization of native title as inalienable except to the
+Crown. It can be seen, however, that the inalienability of native title
+applied only to dealings between Indians and non-Indians ; it did not
+prevent Indians from transferring lands among, themselves. Moreover, it
+did not reflect any inherent infirmity in native title . The doctrine of
+inalienability was more the product of the derivative systems of title
+governing the settlers than of any characteristics of native tenure ."
+
+Thus, North American lands claimed by the Crown were initially
+of two types. First, there were the Indian Territories, where the Crown
+held the ultimate title and an exclusive right of purchase, and the native
+peoples held rights of possession and the capacity to acquire new lands
+by appropriation or agreement inter se . Second, there were the lands
+that had been withdrawn from the Indian Territories and made available
+for settlement ("General Lands"). Such lands were governed by European-
+style land systems under which title was in principle derived from Crown
+grant. The Crown could of course grant them to native groups and indi-
+viduals, as to anyone else. But native groups could no longer freely
+appropriate them.
+
+These two categories of lands, "Indian Territories" and "General
+Lands", were at an early stage supplemented by a third category: "Indian
+Reserves" . An Indian Reserve, in the sense used here, is land that has
+become permanently attached to a particular group of native people .
+Unlike lands in the Indian Territories, an Indian Reserve cannot be lost
+
+sa It may also have been true that under certain native customary systems the sale
+or transfer of land outside the group was unknown or forbidden. To this extent, the
+restriction on alienation to private persons coincides with traditional concepts . But these
+customs are not the source of the common law rule . They would, of course, have also
+ruled out sales of native lands to the Crown, which is a central feature of the doctrine of
+aboriginal title.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+744
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+by its title-holders simply by non-occupation or gained by another native
+group simply by appropriation. By contrast with General Lands, an Indian
+Reserve is governed by a sui generis body of rules similar to that gov-
+erning aboriginal title .
+
+Lands held by native peoples in the Indian Territories are the cen-
+tral case of "aboriginal lands", and the common law rights to such
+lands constitute "aboriginal title" in its fullest sense. Virtually all aborig
+inal lands in Canada, however, have at some stage been the subject of
+proclamations, statutory provisions, treaties, or other acts . So long as
+these acts do not extinguish aboriginal title, the common law remains
+the foundation of a native group's possessory rights and the land's status
+as aboriginal land is not fundamentally affected . In Canada, there is no
+difference in principle between "recognized" and "unrecognized" aborigi-
+nal title, such as exists in the United States . I return to this point later. 56
+Aboriginal title can also exist in a modified,or attenuated form . For
+example, in ceding their aboriginal lands to the Crown, native groups
+have often retained the right to hunt, fish and trap in the ceded area,
+subject to certain conditions . These rights are best understood as resid-
+ual portions of the bundle of rights that constitutes aboriginal title. They
+are thus sui generis property rights, similar but not identical to the profit
+d prendre known to English law .57
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+B . Aboriginal Title and Customary Land Rights
+
+The doctrine of aboriginal land rights does not originate in English
+or French property law, and it does not stem from native custom . It is
+
+55 The definition of Reserves given here reflects the position at common law, and
+is not intended to correspond to the various statutory definitions given of Reserves . For
+discussion, see below at footnotes 165-171 .
+
+56 See below, at footnotes 93-104; and see Dickson J. in Guerin, supra, footnote 4,
+at pp . 379 (S .C .R .), 336-337 (D .L .R .): "It does not matter, in my opinion, that the
+present case is concerned with the interest of an Indian band in a reserve rather than with
+unrecognized aboriginal title in traditional tribal lands. The Indian interest in the land is
+the same in both cases: see Attorney Generalfor Quebec v. Attorney Generalfor Canada
+[1921] 1 A.C . 401, at pp . 410-411 (the Star Chrome case)." And for discussion of the
+distinction between "recognized" and "unrecognized" Indian title in American law,
+see, F.S . Cohen, Handbook of Federal Indian Law (1982 ed .), pp . 471-499; D.G . Kelly,
+Indian Title: The Rights of American Natives in Lands They Have Occupied Since Time
+Immemorial (1975), 75 Col. Law Rev. 655.
+
+57 See K.M . Lysyk, The Unique Constitutional Position of the Canadian Indian
+(1967), 45 Can. Bar Rev. 513, at pp . 518-519; A. Jordan, Government, Two -Indi-
+ans, One (1978), 16 Osg. Hall L.J . 709, at pp. 718-719. The issue whether a native
+hunting right is a personal right or an interest in land was left open by the Supreme
+Court of Canada in Dick v. The Queen, [1985] 2 S.C .R . 309, at p. 315, (1985), 23
+D.L.R . (4th) 33, at p. 51 . In Bolton v. Forest Pest Management Institute (1985), 21
+D.L .R . (4th) 242, at pp. 248-249 (B .C .C .A .), it was held that a registered trapline may
+constitute a profit d prendre.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+745
+
+an autonomous body of law that bridges the gulf between native systems
+of tenure and the European property systems applying in the settler com-
+munities.
+It overarches and embraces these systems, -without forming
+part of them.s8 As Dickson 9 . recognizes in the Guerin case, aboriginal
+land rights are thus sui generis.59
+
+What role, then, does native custom play in this scheme? The answer
+lies in the fact that, while the doctrine of aboriginal land rights governs
+the title of a native group considered as a collective unit, it does not
+regulate the rights of group members among themselves . Subject, always,
+to valid legislation, the latter are governed by rules peculiar to the group,
+as. laid down by custom or internal governmental organs .
+
+Thus, the doctrine of aboriginal land rights attributes to native groups
+a collective title with certain general features . The character of this col-
+lective title is not governed by traditional notions or practices, and so
+does not vary from group to group . However, the rights of individuals
+and other entities within the group are determined inter se, not by the
+doctrine of aboriginal title, but by internal rules founded on custom .
+These -rules dictate the extent to which any individual, family, lineage,
+or other sub-group has rights to possess and use lands and resources
+vested in the entire group . 6° The rules have a customary base, but they
+are not for that reason necessarily static . 61 Except to the extent they may
+be otherwise regulated -by statute, they are open to both formal and
+informal change, in accordance with shifting group attitudes, needs, and
+practices .
+
+These considerations explain why it is possible for a native group
+to hold aboriginal title to lands at common law even if it has no traditional
+notions of private land ownership. So long as the group meets the require-
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+-
+
+58 Compare with Smith, loc. cit., footnote 48 .
+59 Supra, footnote 4, at pp . 379-382 (S .C .R.), 337-339 (D .L .R .) .
+6° The position parallels that described by the Privy Council in Amodu Tijani v.
+Secretary, Southern Nigeria, supra, footnote 52, at pp . 403-404: "In India, as in South-
+ern Nigeria, there is yet another feature of the fundamental nature of the t1de to land
+which must be borne in mind . The title, such as it is, may not be that of the individual,
+as in this country it nearly always is in some form, but may be that of a community.
+Such a community may have the possessory title to the common enjoyment of a usu-
+fruct, with customs under which its individual members are admitted to enjoyment, and
+even to aright of transmitting the individual enjoyment as members by assignment inter
+vivos or by succession . To ascertain how far this latter development of right has pro-
+gressed involves the study of the history of the particular community and its usages in
+each case . Abstract principles fashioned a priori are of but little assistance, and are as
+often as not misleading ." This passage was cited by Hall J. in Calder, supra, footnote
+10, at pp. 355 (S .C .R .), 175 (D .L .R .), and the decision itself was referred to with
+approval by Dickson J. in Guerin, supra, footnote 4, at pp . 378 (S .C .R .), 336 (D .L .R .) .
+61 On the mutability of native custom, see the remarks of Sissons J. in Re Noah
+
+Estate, supra, footnote 34, at p. 197.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+746
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+ments of the doctrine of aboriginal land rights, notably the requirement
+of actual use and possession, it holds a collective title. The fact that
+group custom does not acknowledge private ownership may be relevant
+in determining the rights of individual group-members, but it does not
+affect the title of the group as a whole .
+
+The same considerations suggest that aboriginal land rights are not
+confined to "traditional" uses of land .62 The doctrine of aboriginal title
+attributes to a native group a sphere of autonomy, whereby it can deter
+mine freely how to use its lands. Its decisions may be influenced, of
+course, by "traditional" notions, but the stronger influence in the end
+will likely be current needs and attitudes . For most native groups, land
+use is a matter of survival not nostalgia. 63
+
+Some courts, however, have expressed the view that a native group
+is permanently limited in its use of aboriginal lands to customary prac-.
+tices followed at a distant historical period, such as the time the Crown
+first acquired sovereignty.4 On this supposition, aboriginal title is like
+an historical diorama in a museum . Here a smiling native strips birch-
+bark from a tree, there a warrior aims bow and arrow at a mildewed
+deer, while in the corner a youngster plucks plastic blueberries from a
+withered bush . We must, of course, disregard the next display, where
+Indians under the stern but kindly eye of a black-robed missionary plant
+their first crop of corn. Agriculture, if not practiced aboriginally, is
+forbidden. The difficulty with this conception, of course, is that native
+people are not waxen figures on display for tourists, but living people
+who depend on the land for their livelihood. Any rule that would hold
+them in permanent bondage to ancient practices must be regarded with
+scepticism .
+
+The history-bound view apparently draws on English rules under
+which a party asserting a customary right must show that the custom has
+existed from "time immemorial", which, for curious reasons, is associ
+ated with the year 1189. 65 The analogy, however, is inappropriate. As.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+62 This appears to be the position in United States law; see, for example, United
+States v. Shoshone Tribe of Indians, 304 U.S . 111 (1938) ; United States v . Klamath
+Indians, 304 U.S . 119 (1938) ; F.S . Cohen, Original Indian Title (1947-48), 32 Minn .
+Law Rev. 28, at pp . 54-55; Cohen, op . cit., footnote 56, p. 491 .
+
+63 For a compelling account of what may happen to a native group when its rela-
+tionship to the land is abruptly disrupted by outside forces, see, A.M . ShkiInyk, A- -
+Poison Stronger Than Love : The Destruction of an Ojibwa Community (1985) .
+It is
+significant that many of the land uses affected in that case were not fully "traditional"
+(in the sense of pre-European) .
+
+64 Hamlet bfBaker Lake v. Minister of Indian Affairs, supra, footnote 16, at p.
+559; Attorney General for Ontario v. Bear Island Foundation, supra, footnote 16, at
+pp . 354-361 .
+
+65 See, for example, R.M . Megarry and H.W .R. Wade, The Law of Real Property
+(5th ed., 1984), pp . 849-850, where the authors note, nevertheless, that it is not a fatal
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+747
+
+we have seen, the doctrine of aboriginal rights is not derived from rules
+applying in England, but arose in response to quite different conditions .
+Indeed, it would have been contrary to imperial interests in America to
+confine native land uses to those existing at the time of contact. The
+European fur trade, which was central to the development of Canada,
+-depended on the activities of native hunters and trappers whose practices
+had changed considerably since pre-European times. When colonial
+officials, in other contexts, urged certain native groups to abandon "their
+wandering ways" and to take up farming, they were not sanctioning an
+unlawful user of land.
+
+We must guard against the notion that native societies are essen-
+tially static in nature, that the only true aboriginal land uses are those
+that were practised "aboriginally" . In fact, of course, native societies
+have never been static, and have often been characterized by an ability
+to adapt to shifting circumstances in a highly flexible manner. Without
+this flexibility, they would have had little chance of survivâl . 67 Signifi-
+cant changes in life-style occurred from time to time among many groups
+in pre-European times, and further changes took place in response to
+European contact. But such adaptations did not entail the abandonment
+of a group's essential identity .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+The better view, then,. is that aboriginal title gives native people the
+right to exclusive use and possession of their land, and the right "to use
+it according to their own discretion". The latter words were adopted in
+the Guerin case," and should be taken as'a rejection of the theory restrict-
+ing aboriginal title to historically-based practices." It follows that aborig-
+
+objection "that the nature of the custom has changed with the times; for example, an
+ancient custom to play games has been held to cover cricket, `although it is reasonably
+certain that cricket was unknown until long after the time of Richard I"'.
+
+.
+
+66 Thus, Mandelbaum, op . cit., footnote 49, p. 20, writes : "The advent of the
+Hudson's Bay Company marked the opening of a new phase in4ribal fortunes .
+. Both
+the tribal culture and locale changed greatly under the influence of the English. The
+culture naturally altered with the influx of European goods and with the shift of occupa-
+tional emphasis from food gathering to fur trapping during certain seasons of the year .
+The locale was enlarged because the traders sent the natives deeper and deeper into the
+back country to collect furs from the different tribes and to trap in virgin territory."
+67 The point is made by Brody, op . cit., footnote 50, pp . 21-30, 85-86, 247.
+68 Per Dickson J., supra, footnote 4, at pp . 378 (S .C.R.), 336 (D .L .R .), quoting a
+passage from Johnson and Graham's Lessee v. McIntosh, supra, footnote 36, at p. 574.
+The same passage is quoted with approval by Hall J. in the Calder case, supra, footnote
+10, at pp . 381-382 (S .C .R.), 194 (D .L .R .), who reiterates at pp . 383 (S .C .R .), 195
+(D .L .R .) that "the aborigines of newly-found lands were conceded to be the rightful
+occupants of the soil with a legal as well as a just claim to retain possession of it and to
+use it according to their own discretion .
+. ." .
+
+69 This conclusion gains further support from the cases holding that title to Indian
+Reserves is presumptively the same as aboriginal title, for it has never been thought that
+Indians can only use their Reserves in ways known to them in pre-contact times. See the
+
+ 
+ 
+(cid:9)
+
+748
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+inal title includes all possible uses of land, including the right to exploit
+its non-renewable natural resources, unless the title has been abridged
+by treaty or legislation . So far as the doctrine of aboriginal rights is
+concerned, a native group that in the past lived mainly by hunting, fish-
+ing, and gathering may now turn its lands to farming, ranching, tour-
+ism, or mineral development.
+
+C . Aboriginal Title as a Property Right
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+Aboriginal title is a legal right, recognizable in the courts and main-
+tainable against the whole world, including the Crown. It is not held at
+the Crown's pleasure, and cannot be extinguished normally by a unilat
+eral exercise of Crown prerogative without recourse to Parliament .70 Thus,
+at common law a Crown grant of lands burdened by aboriginal land
+rights does not extinguish those rights . The grant takes effect subject to
+them, or is invalid if it unequivocally purports to nullify them.
+
+Prior to the Guerin decision, it was uncertain whether aboriginal
+title could, be extinguished by prerogative act.7' In St. Catherine's Mill-
+ing and Lumber Co . v. The Queen ," the Privy Council said that Indian
+title held under the Proclamation of 1763 was "dependent upon the
+good will of the Sovereign" . The statement was not explained and was
+not necessary to the decision. Nevertheless, it implied that Indian title
+was something like a mere licence to use the land, which the Crown
+could unilaterally revoke at any time by executive act. 73
+
+However, in the Calder case, the Supreme Court moved in the
+direption of recognizing aboriginal title as a full legal right. Although
+
+text infra, at footnote 171 . See also Simon v . The Queen, supra, footnote 15, at pp .
+402-403 (S .C .R .), 402403 (D .L .R .) . There the Supreme Court of Canada rejected the
+argument that a right to hunt "as usual" embodied in an Indian treaty was limited to
+hunting for purposes and by methods usual in 1752, the date the treaty was concluded.
+Dickson C.J .C . stated that "the inclusion of the phrase `as usual' appears to reflect a
+concern that the right to hunt be interpreted in a flexible way that is sensitive to the
+evolution of changes in normal hunting practices" .
+
+7° Except in exceptional situations, as in a conquered or ceded colony, where the
+Crown has prerogative powers of legislation before a local assembly is summoned; Campbell
+v. Hall, supra, footnote 37 . We are not considering here the case where the Crown
+exercises powers conferred by statute as distinct from the royal prerogative ; see text,
+infra, at footnotes 146-153, 156-157.
+
+71 See, for example, R . v. Isaac (1975), 13 N.S .R . (2d) 460, at pp . 476, 479
+
+(N .S .A .D .), per MacKeigan C.J . ; LaForest, op . cit., footnote 48, pp . 159-160 .'
+
+72 Supra, footnote 52, at p. 54 .
+73 Other interpretations of the Privy Council's words have been taken, notably that
+the Crown could express its will concerning native title only through legislation; see
+Mathias v. Findlay, [1978] 4 W.W .R . 653 (B .C .S .C .) . For discussion of the question
+whether the Proclamation of 1763 can be amended by the Crown under the prerogative,
+see Slattery, op . cit., footnote 19, pp . 319-328 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+749
+
+Judson J. merely repeats the Privy Council's statement 7' Hall J. adopts
+a well-defined position . He writes :75
+
+.
+
+. when the Nishga people came under British sovereignty .
+
+. . they were enti-
+.
+tled to assert, as a legal right, their Indian title. It being a legal right, it could not
+thereafter be extinguished except by surrender to the Crown or by competent legis-
+lative authority, and then only by specific legislation.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+By implication, then, Indian title could not be extinguished by a unilat-
+eral exercise of the prerogative.
+
+This position was endorsed by the Supreme Court in Guerin . Dickson
+J. writes that in the Calder case "this Court recognized aboriginal title
+as a legal right derived from the Indians' historic occupation and pos
+session of their tribal lands", noting that "Judson and Hall JJ. were in
+. that aboriginal title existed,.in Canada (at least where it
+agreement.
+. ." . 76 He
+has not been extinguished .by appropriate legislative action).
+goes on to adopt the view that the Indians were "the rightful occupants
+of the soil, with a legal as well as just claim to retain possession of it,
+and to use it according to their own discretion." . 77
+
+.
+
+In her separate,opinion in Guerin, Wilson J. explicitly holds that
+the Indian interest `cannot be derogated from or interfered with by the
+Crown's utilization of the land for purposes incompatible with the Indian
+title unless, of course, the Indians agree" .7s In an important passage,
+she observes :79
+
+It seems to me that the "political trust" line of authorities is clearly distinguisha-
+ble from the present case because Indian title has an existence apart altogether
+from s. 18(1) of the Indian Act. It wouldfly in theface of the clear wording of the
+section to treat that interest as terminable at will by the Crown without recourse
+by the Band .
+
+It might be thought obvious that, as a legal right to the exclusive
+possession of land maintainable against the world, aboriginal title is a
+property right. Yet this conclusion has sometimes been doubted ." Once
+
+74 Supra, footnote 10, at pp :-328 (S .C.R .), 156 (D .L .R .), Mardand and Ritchie JJ .
+
+concurring .
+
+75 Ibid ., at pp . 402.(S.C .R .), 208 (D .L .R .), Spence and Laskin JJ. concurring .
+76 Supra, footnote 4, at pp . 376-377 (S .C.R .), 335 (D .L .R .) . (Emphasis added) . It
+may be noted that this statement does not take account of Judson J.'s ambiguity on the
+question of extinguishment.
+
+77 Ibid., at pp . 378 (S .C .R .), 336 (D .L.R .), quoting from the judgment of Mar-
+shall C.J, of the United States Supreme Court in Johnson and Graham's Lessee v.
+McIntosh, supra, footnote 36, at p. 574. The first portion of the quotation is italicized in
+Dickson J.'s judgment . At several other points, Dickson J. emphasizes that aboriginal
+title is a legal right; see, for example, at pp . 378 (S .C .R .), 336, 339 (D .L .R .) .
+
+78 Ibid ., at pp. 349 (S.C .R .), 357 (D .L .R .) .
+79 Ibid., at pp . 352 (S .C .R .), 359 (D .L .R .) . (Emphasis added) .
+8° . See Hamlet ofBaker Lake v. Minister of Indian Affairs, supra; footnote 16, at p.
+
+577 .
+
+ 
+ 
+(cid:9)
+
+750
+
+THE CANADIAN BAR REVIEW
+
+(Vol . 66
+
+again, the confusion stems in part from the St. Catherine's case, where
+the Privy Council, in an unfortunate phrase, described Indian title as a
+"personal and usufructuary right" ." This might be taken to mean that
+Indian title is not a property right but a right held in some personal
+capacity against the Crown. However, this interpretation was effectively
+discounted in the Star Chrome 82 case, where the Privy Council explained
+that Indian title is "a personal right in the sense that it is in its nature
+inalienable except by surrender to the Crown" . The Supreme Court adopts
+the same view in Guerin, thereby laying any doubts to rest ."
+
+Nevertheless, it could be argued that, since property is characteris-
+tically alienable, the restrictions on the transfer of aboriginal title pre-
+vent it from being truly proprietary in nature . This is an overly rigid
+view . While there may be grounds in English law for linking property
+with alienability, there seems to be no compelling reason for identifying
+the two in principle. 84 In any case, aboriginal title is not a concept of
+English land law but a sui generis right. The restrictions on its transfer
+stemmed historically from the need to accommodate the rule, binding on
+settlers, that title to land flows from the Crown ." These restrictions are
+only partial, for aboriginal title may in fact be alienated to the Crown,
+and possibly to other native groups .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+Properly understood, the St. Catherine's case stands for the propo-
+sition that Indian title is an interest in land . The Privy Council holds that
+Indian title is an "Interest other than that of the Province" in lands
+allotted to a province by the Constitution Act, 1867, within the meaning
+
+si Supra, footnote 52, at p. 54 . The usefulness of this phrase was doubted by
+Judson J. in the Calder case, where he remarked with reference to the question of Indian
+title that "it does not help one in the solution of this problem to call it a `personal or
+usufructuary right"'; supra, footnote 10, at pp . 328 (S .C .R .), 156 (D .L .R .) . Signifi-
+cantly, the Privy Council itself disclaimed any intention of giving a comprehensive
+definition of Indian title (at p. 55): "There was a great deal of learned discussion at the
+Bar with respect to the precise quality of the Indian right, but their Lordships do not
+consider it necessary to express any opinion upon the point."
+
+sz Attorney General for Quebec v. Attorney General for Canada, [1921] 1 A.C .
+
+401, at p. 408, (1920), 56 D.L .R . 373, at p. 377 (P .C .) .
+
+83 Dickson J . states : " .
+
+. the sui generis interest which the Indians have in the
+land is personal in the sense that it cannot be transferred to a grantee.
+. "; supra,
+footnote 4, at pp . 382 (S .C .R .), 339 (D .L.R .) . See also Smith v. The Queen, [19831 1
+S.C .R . 554, at p. 571, (1983), 147 D.L .R . (3d) 237, at p. 251 .
+
+.
+
+.
+
+84 Lysyk, toe. cit., footnote 10, at p. 471 notes: " .
+
+. restrictions on alienation are
+familiar to recognized interests in land at common law, for example, in leases or in
+estates in fee tail . As one writer has observed, at English common law there were times
+when most of the land in England could not be sold to anyone ." (footnotes omitted) .
+
+.
+
+85 See discussion in text, supra, footnotes 52-54.
+86 See the remarks in the Star Chrome case, quoted in text, supra, at footnote 82,
+
+and discussion in text following footnote 53, supra.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+1987)
+
+Understanding Aboriginal Rights
+
+751
+
+of section 109 of the Act.8" Thus, a Province holds only the underlying
+title to any lands affected by aboriginal title, until the title is surrendered
+to the Crown, at which point the lands become available to the Province
+as a source of revenue . As the Privy Council later observed, the phrase
+an "Interest other than that of the Province" in section 109 denotes
+"some right or interest in a third party, independent of and capable of
+being vindicated in competition with the beneficial interest of the old
+province" ." It follows that Indian title is an interest in land, indepen-
+dent of and opposable to the Crown's underlying title, which it burdens.
+The same view permeates the terminology used in the Guerin case .
+Dickson J . speaks of the existence of "aboriginal, native, or Indian
+title", and of the "fact that Indian bands have a certain interest in lands",
+later describing the title as "a unique interest in land" . Estey J. refers to
+"the rights of the native population in those lands to which they had a
+longstanding connection", and Wilson J. to "the aboriginal title of Can-
+ada's Indians" .89
+
+D. Aboriginal Title as a Compensable Right
+
+The fact that aboriginal title is an interest in land means that it
+benefits from the common flaw presumption favouring the payment of
+just compensation upon a compulsory taking ." In the absence of clear
+words to the contrary, statutes that unilaterally extinguish aboriginal land
+rights should be interpreted as providing for compensation .91
+
+The concept that aboriginal title is a Compensable right is not a
+refinement of modern jurisprudence. It is an intrinsic part of the charac-
+terization of aboriginal title found in the Royal Proclamation of 1763 .1
+Indian lands are defined there as "such Parts of Our Dominions and
+Territories as, not having been ceded to, or purchased by Us, are reserved
+. ." . The Crown provides that "if, at any Time, any of the
+to them.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+$7 "St . Catherine's Milling and Lumber Co . v. The Queen, -supra, footnote 52, at p.
+
+58 .
+
+88 Attorney Generalfor Canada v. Attorney Generalfor Ontario, [18971 A.C . 199,
+
+at pp . 210-211 (P .C .) .
+
+89 Supra, footnote 4, at pp , 349, 376, 382, 392 (S .C .R .), 334, 339, 346 and 356
+
+(D .L .R .) .
+
+9° See, for example, Manitoba Fisheries Ltd. v. The Queen, [1979) 1 S.C .R . 101,
+[19781 6 w.w.R . 496; Attorney General v. De Keyser's RoyalHotel Ltd., [19201 A.C .
+508 (H .L .) .
+
+9' do Paul v. Canadian Pacific Ltd. (1983), 2 D.L.R. (4th) 22 (N.B .C.A .), LaForest,
+J.A . states at p. 34 : "when a taking is, in fact, authorized by statute, it is presumed that
+. . This, like the presumption against taking, must apply
+compensation will be paid. .
+with additional force to the taking of Indian lands because this affects the honour and
+good faith of the Crown." For discussion, see B. Slattery, The Constitutional Guarantee
+of Aboriginal and Treaty Rights (1982-83), 8 Queen's Law J. 232, at pp . 270-273.
+
+ 
+ 
+(cid:9)
+
+752
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+said Indians should be inclined to dispose of the said Lands, the same
+shall be purchased only for Us, in Our Name, at some publick Meeting
+. ." .92
+or Assembly of the said Indians to be held for that Purpose .
+Aboriginal title is thus portrayed as a valuable interest in land normally
+acquired by purchase . It -follows that, where the Crown does not buy
+Indian lands for a mutually-agreed price but expropriates them, the act
+will be governed by the normal presumption requiring payment of just
+compensation .
+
+3
+5
+
+s
+c
+o
+D
+
+Canadian law differs on this point from that of the United States . In
+Tee-Hit-Ton Indians v. United States, 93 the Supreme Court held that
+Indian title is not a property right within the meaning of the Fifth Amend
+ment so as to require compensation to be paid for a Congressional tak-
+ing, unless Congress had previously recognized that the Indians were
+L
+legally entitled to occupy permanently the lands in question . This hold-
+n
+a
+ing posits that "unrecognized" Indian title is not a legal right but merely
+C
+permissive occupation of land .94 Thus, the court observes that the "man-
+7
+8
+ner, method and time" of the extinguishment of Indian title "raise polit-
+9
+1
+ical not justiciable issues" ;95 that "Indian occupation of land without
+government recognition of ownership creates no rights against taking or
+extinction by the United States protected by the Fifth Amendment or
+any other principle of law" ;96 that even when Indians ceded their lands
+to the government by treaty "it was not a sale but the conquerors' will
+that deprived them of their land" ;9' and that monies given for the termi-
+nation of Indian occupancy are "gratuities" rather than "compensation
+for its value" . 9s
+
+I
+I
+
+The Tee-Hit-Ton decision has attracted strong criticism .99 For our
+purposes, it is sufficient to note that the Supreme Court of Canada in the
+Guerin case takes a markedly different view." As just seen, the judges,_,__
+hold that aboriginal title is "a unique interest in land" 1°' and an "inde-
+
+92 (Emphasis added) .
+93 348 U.S . 272 (1955) .
+94 Ibid., at pp . 278-279.
+95 Ibid ., at p. 281, quoting United States v. Santa Fe Pacific Railroad, 314 U.S .
+
+339, at p. 347 (1941) .
+
+96
+
+97
+
+98
+
+Ibid., at p. 285 .
+
+Ibid., at p. 290.
+
+Ibid., at p. 291 .
+
+99 See, for example, Henderson, loc. cit., footnote 36, at pp . 109-122. For analy-
+
+sis, see Kelly, loc. cit., footnote 56, at p. 664 ff.
+
+1°° In this respect, then, the Guerin decision effectively confirms the view of Hall
+J . in Calder, supra, footnote 10, at pp . 352, 385-386 -(S :C .R .), 173, 196-197, 219
+(D .L.R .), in preference to the view apparently taken by Judson J., at pp . 343-344
+(S .C .R .), 166-168 (D .L .R .) .
+
+101 Supra, footnote 4, at pp . 382 (S .C .R .), 339 (D .L .R .), per Dickson J.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+753
+
+pendent legal right",' 02 that the manner of its extinction raises justicia-
+ble not merely political issues, '03 and that it cannot be terminated at the
+will of the Crown. 104 The same conclusions spring naturally from a review
+of historical Crown practice in extinguishing Indian title.
+
+E. The Crown's Fiduciary Role respecting Native Lands '05
+
+The Crown has a general fiduciary duty toward native people to
+protect them in the enjoyment of their aboriginal rights and in particular
+in the possession and use of their lands . This general fiduciary duty has
+its origins in the Crown's historical commitment to protect native peo-
+ples from the inroads of British. settlers, in return for a native undertak-
+ing to renounce the use of force to defend themselves and to accept
+instead the protection of the Crown as its subjects . In offering its protec-
+tion, the Crown was animated less by philanthropy or moral sentiment
+than by the need to establish peaceful relations with peoples whose friend-
+ship was a source of military and economic advantage, and whose enmity
+was a threat to the security and prosperity of the colonies. The sources
+of the general fiduciary duty do not lie, then, in a paternalistic concern
+to protect a "weaker" or "primitive" people, as has sometimes been
+suggested, but rather in the necessity of persuading native peoples, at a
+time when they still had considerable military capacities, that their rights
+would be better protected by reliance on the Crown than by self-help. 106
+This fact is reflected in the Royal Proclamation of 1763, which
+states that "it is just and reasonable, and essential to Our Interest and
+the Security of Our Colonies, that the several Nations or Tribes of Indi
+ans, with whom We are connected, and who live under Our Protection,
+should not be molested or disturbed in the Possession of such Parts of
+Our Dominions and Territories as, not having been ceded to, or pur-
+chased by Us, are reserved to them, or any of them, as their Hunting
+Grounds" ."' One manifestation of this general duty of protection is the
+Proclamation's prohibition of private purchases of Indian lands. But the
+same duty of protection underlies the Proclamation's other Indian pro-
+
+102
+
+103
+
+Ibid., at pp . 378 (S .C .R.), 336 (D .L .R .), per Dickson J.
+Ibid ., at pp . 375, 378-379 (S .C .R .), 334, 336 (D .L.R .), per Dickson J. ; at pp .
+
+350-352 (S .C .R .), 357-359 (D .L .R .), per Wilson J.
+
+104 Ibid., at pp . 350, 352 (S .C .R .), 357, 359 (D.L .R .), per Wilson J.
+105 See, generally, Note : Rethinking the Trust Doctrine in Federal Indian Law
+(1984-85), 98 Ilarv. Law Rev . 422; R.P . Chambers, Judicial Enforcement of the Fed-
+eral Trust Responsibility to Indians (1974-75), 27 Stan . Law Rev . 1213 .
+
+106 Paternalistic attitudes became more prevalent in Canada during the nineteenth
+and twentieth centuries, but, by and large, they did not characterize British-Indian rela-
+tions of the formative period 1600-1800; see the remarks of Strong J. in St. Catharines
+Milling and Lumber Co . v. The Queen, supra, footnote 32, at p. 609, and generally,
+Slattery, op . cit., footnote 19, passim .
+
+107 Supra, footnote 3 . (Emphasis added) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+754
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+visions, notably those that prohibit colonial Governors from issuing patents
+for unceded Indian lands and require settlers to remove themselves from
+such lands.
+
+The Guerin decision, while dealing only with the particular fidu-
+ciary relations created by a surrender of Indian lands to the Crown,
+suggests that a more general fiduciary duty exists that informs and explains
+those relations .'" Estey J. observes that the Constitution and the various
+laws concerning Indians before and after Confederation "all reflect a
+strong sense of awareness of the community interest in protecting the
+rights of the native population in those lands to which they had a
+longstanding connection " .'0' This protective concern, he adds, under-
+lies the long-standing rule that native lands can only be alienated to the
+Crown .
+
+Dickson J . also draws attention to this restriction on alienation and
+
+states his view of its significance in the following passage:"'
+
+The purpose of this surrender requirement is clearly to interpose the Crown between
+the Indians and prospective purchasers or lessees of their land, so as to prevent the
+Indians from being exploited. This is made clear in the Royal Proclamation itself,
+which prefaces the provision making the Crown an intermediary with a declaration
+that "great Frauds and Abuses have been committed in purchasing Lands of the
+Indians, to the great Prejudice of our Interest and to the great Dissatisfaction of the
+said Indians.
+
+. ." .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+He goes on to say that the Indian Act confirms "the historic responsibil-
+ity which the Crown has undertaken, to act on behalf of the Indians so
+as to protect their interests in transactions with third parties" ."'
+
+Wilson J. explicitly recognizes the existence of a general fiduciary
+responsibility to protect Indian lands. She states that when section 18 of
+the Indian Act' 12 directs that reserves be held by the Crown for the use
+and benefit of the bands for which they are set apart, this is "the acknowl-
+edgment of a historic reality, namely, that Indian bands have a benefi-
+cial interest in their reserves and that the Crown has a responsibility to
+protect that interest and make sure that any purpose to which reserve
+land is put will not interfere with it" . I13
+
+It is important to understand that the possessory rights of native
+groups in aboriginal lands both precede and are logically distinct from
+
+ios The view that the fiduciary duty recognized in Guerin extends beyond the nar-
+row context of surrenders receives support from Kruger v. The Queen (1985), 17 D.L .R .
+(4th) 591 (F.C .A .), per Heald J ., at pp . 595-598, per Urie J., at pp . 645-647, per Stone
+J., at p. 658.
+
+1°9 Supra, footnote 4, at pp . 392 (S .C .R .), 346 (D .L .R .) .
+i1o Ibid . . at pp . 383 (S .C .R .), 340 (D .L .R .) .
+"' Ibid .
+112 R.S .C . 1970, c. 1-6.
+its Supra, footnote 4, at pp . 349 (S .C .R .), 356-357 (D .L .R .) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+755
+
+any rights flowing from the fiduciary relationship . Aboriginal title is a
+condition precedent for the existence of a general fiduciary obligation
+to protect aboriginal lands; it is not the creature or product of the fidu-
+ciary relationship ."' Rather, as Dickson J. emphasizes in Guerin, aborigi-
+nal title exists apart from any executive or legislative act, "5 and, by
+implication, apart from any fiduciary obligations owed by the Crown.
+
+The Crown's general fiduciary duty binds both the federal Crown
+and the various provincial Crowns within the limits of their respective
+jurisdictions. The federal Crown has primary responsibility toward native
+peoples under section 91(24) of the Constitution Act, 1867, and thus
+bears the main burden of the fiduciary trust. 116 But insofar as provincial
+Crowns have the power to affect native peoples, they also share in the
+trust.
+
+III. Aboriginal Title: Acquisition and Extinguishment
+We have seen, then, that the doctrine of aboriginal land rights is a dis-
+tinctive body of common law rules that governs a variety of matters
+concerning aboriginal peoples and their use of lands. These matters fall
+into three main areas . First, the doctrine defines the legal categories of
+"Indian Territories", "General Lands", and "Indian Reserves", and deter-
+mines how lands may pass from one category to another. Second, the
+doctrine defines the concept of aboriginal title, and describes its general
+character, and the manner in which it may be gained and lost; the doc-
+trine also characterizes such related concepts as title to Indian Reserves,
+and rights of hunting, fishing, and trapping on ceded lands . Third, the
+doctrine determines the fiduciary responsibilities of the Crown regarding
+native lands. In dealing with these matters, the doctrine touches upon
+several topics belonging to other branches of the doctrine of aboriginal
+rights, notably the status and effects of Indian treaties, and the survival
+of native custom .
+
+These subjects all merit more detailed treatment. However, in this
+paper we can deal with only a few of them . Part III discusses the acqui-
+sition and proof of aboriginal title, and the ways it can be extinguished .
+Part IV reviews the relationship between aboriginal title and title to Indian
+Reserves, and Part V deals with the troublesome topic of legislative
+authority over aboriginal rights . In discussing these matters, it will be
+convenient at times to use a vocabulary borrowed from European-style
+
+114 As Dickson J. observes in Guerin, ibid., at pp . 376 (S .C.R.), 334 (D.L .R .) :
+"The fiduciary relationship between the Crown and the Indians has its roots in the
+concept of aboriginal, native or Indian title. The fact that Indian bands have a certain
+interest in lands does not, however, in itself, give rise to a fiduciary relationship between
+the Indians and the Crown."
+
+115 See Dickson J. in Guerin, ibid., at pp . 376-382 (S .C .R .), 335-339 (D.L .R .) .
+116 See discussion, infra, at footnotes 174-176, 188-221.
+
+ 
+ 
+(cid:9)
+
+756
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol. 66
+
+property systems . This terminology should be understood in a broad,
+non-technical sense, and not as detracting from the sui generic nature of
+aboriginal title .
+
+A . Acquisition and Proof
+
+We saw earlier that the advent of European settlement in America
+did not permanently freeze the boundaries of native territories or tie
+native peoples to the lands that they happened to possess at the time.
+Aboriginal title was based on possession, and so could be acquired by
+appropriation and lost by abandonment. Here we will examine the pro-
+cess of acquisition more closely. The topic is, at present, an undeveloped
+one, and awaits authoritative judicial treatment. So, we are. venturing
+into relatively uncharted territory.
+
+Nevertheless, reflection on the essential features of aboriginal title
+suggests that for such title to be acquired, four criteria must be satisfied:
+(1) The parties asserting aboriginal title must constitute an organ-
+
+ized group of native people .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+(2) The group must possess the lands claimed:
+(3) The group must have possessed the lands for a substantial period .
+(4) The lands must form part of the Indian Territories.
+These criteria apply to groups asserting title on the basis of current
+occupation . But they can easily be adapted for other situations, such as
+where a native group asserts that it held aboriginal title in the past and
+was unlawfully dispossessed . In the latter case, the criteria would apply
+as of the time of dispossession.
+
+(1) The parties asserting aboriginal title must constitute an organized
+
+group of native people .
+This criterion excludes claims advanced by individuals. Aboriginal
+title as such is a collective right vested in a group. 117 It should be noted
+that this does not mean that individual members of a native group can
+not hold legally enforceable rights to a share in the group's collective
+title under the rules in force within the group . Such rights are not, how-
+ever, aboriginal title in the strict sense. The criterion also disqualifies
+collections of people that lack sufficient coherence, permanence, or self-
+identity to qualify as an organized group. But these requirements must
+be applied flexibly, in light of the varying levels of organization found
+in aboriginal societies.
+
+The group asserting title must be of native descent . This is a matter
+of degree, to be ascertained in each case . Clearly, a group is not dis-
+
+117 See, nevertheless, Cramer v. United States, 261 U .S . 219, at pp . 226-230
+
+(1923) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal bights
+
+757
+
+qualified by the fact that some or even all of its members are of mixed
+native and non-native origins, or that others (such as spouses) have no
+native blood at all.' is historically, groups composed mainly or entirely
+of 1Vletis or "half-breeds" have been accepted as native groups, and this
+119
+fact is now recognized in section 35(2) of the Constitution Act, 1982,
+which states that the phrase "aboriginal peoples of Canada", as used in
+the Act, includes the Indian, Inuit and Metis peoples of Canada .
+
+In determining whether or not a group of people qualifies as "native",
+regard should be had to a variety of factors, such as : (a) the self-identity
+of its members, as shown in their actions and statements, (b) the culture
+and way of life of the group; (c) the existence of group norms or cus-
+toms similar to those of other aboriginal peoples; and (d) the genetic
+composition of the group .
+
+(2) The group must possess the lands claimed.
+
+The central feature of aboriginal title is that it is founded on
+possession . 120 This fact must be kept firmly in mind, for there is a ten-
+121
+dency to assimilate aboriginal title to estates known to English law,
+where the dominant form of title is derivative, and titles to land theoretically
+can be traced back to a Crown grant.
+
+122
+
+English law recognizes, of course, that title to land may be gained
+by adverse possession under statutes of limitation . Such a title is based
+12' A possessory title
+on possession rather than a grant or transfer of title .
+of this kind has some points of similarity with aboriginal title. But cau-
+tion is necessary in drawing analogies between the two forms in view of
+the unique context in which aboriginal title arose.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+11 $ See discussion in Turtle Mountain Band of Chippewa Indians v. United States,
+
+490 F. 2d 935, at pp . 942-944 (U .S . Ct. Cl ., 1974).
+
+"9 Supra, footnote 1 .
+120 See, for example, the Guerin decision, supra, footnote 4, at pp . 382 (S .C .R .),
+339 (D .L .R.), where Dickson J. characterizes aboriginal title as "a legal right to occupy
+and possess certain lands, the ultimate title to which is in the Crown." ; and Estey J.
+refers, at pp . 393 (S .C .R .), 347 (D .L .R .), to the Indians' "right of possèssion" .
+
+121 As Viscount Haldane remarked in Amodu Tijani v. Secretary, Southern Nige-
+ria, supra, footnote 52, at pp . 402-403: " .
+. in interpreting the native title to land, not
+.
+only in Southern Nigeria, but other parts of the British Empire, much caution is essen
+tial . There is .a tendency, operating at times unconsciously, to render that title conceptu-
+ally in terms which are appropriate only to systems which have grown up under English
+law. But this tendency has to be held in check closely." This passage was quoted with
+approval by Hall J. in the Calder decision, supra, footnote 10, at pp . 354 (S .C .R .), 175
+(D .L .R .) .
+
+122 See Megarry and Wade, op . cit., footnote 65, p. 102.
+123 See Megarry and Wade, ibid ., pp . 102-109; G.C . Cheshire and E.H . Burn,
+Modern Law of Real Property (13th ed ., 1982), pp . 26-30; F. Pollock and R.S . Wright,
+An Essay on Possession in the Common Law (1888), pp. 91-100 .
+
+ 
+ 
+(cid:9)
+
+758
+
+THE CANADIAN BAR REVIEW
+
+[Vol . 66
+
+In determining whether a group can be said to possess certain lands,
+one must take into account the group's size, manner of life, material
+resources, and technological abilities, and the character of the lands claimed.
+It would be unrealistic to expect a group of hunters to possess their
+hunting grounds in the same way as a farmer occupies his fields, or to
+require that lands be used to their maximum potential with the best
+available technology . The fact that a tract of land could be mined pro-
+ductively does not mean that a hunting group that exploits its renewable
+surface resources is not truly in possession . 124
+
+It is submitted that a native group need not be the sole possessor of
+lands to hold aboriginal title, but may share the lands with other groups .
+Two main types of sharing may be envisaged, which do not necessarily
+exhaust the field. In some cases, several groups may hold a joint title to
+certain lands, where there is an explicit or tacit agreement to this effect .
+In other cases, the groups may hold distinct but overlapping titles that
+are not the product of any true agreement. Whatever the situation, the
+courts should endeavour to give effect to the actual patterns of use exist-
+ing-among the groups in question, in keeping with the sui generis char-
+acter of aboriginal title, rather than to impose a set of rigid and alien
+requirements . 125 Otherwise there is the danger that a territory continu-
+ously used and occupied by several native peoples would be considered
+vacant .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+(3) The group must have possessed the lands for a substantial period.
+The claimant group must show that it has an enduring relationship
+with the lands in question, sufficient to defeat the claims of previous
+native possessors and to resist newcomers. The requisite length of time
+depends on the circumstances, but in most cases a period of some twenty
+to fifty years would seem adequate . Time is less important for its own
+sake than for what it says about the nature of the group's relationship
+with the land and the overall merits of their claim.
+
+The view expressed here, however, is opposed by another view,
+which has won some judicial support. This theory, which may be called
+the "frozen title" theory, takes two forms . In its pure form, it requires
+proof that a claimant group has continuously used and occupied the
+lands claimed since "time immemorial" . That date, which represents
+
+'z4 See Mitchel v. United States, 9 Peters 711, at p. 746 (1835), where Baldwin J.
+stated with regard to the British law applying in the American colonies in 1763 : "Indian
+possession or occupation was considered with reference to their habits and modes of life ;
+their hunting-grounds were as much in their actual possession as the cleared fields of the
+whites ; and their rights to its exclusive enjoyment in their own way and for their own
+purposes were as much respected. . ."
+
+125 Compare with the somewhat more stringent American criterion requiring joint
+
+and amicable possession : Cohen, op . cit., footnote 56, p. 492.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+75 9
+
+the limits of legal memory, is determined by the advent of European
+sovereignty in the area . 126 In other words, it is not sufficient for the
+claimant group to show that it has held the land for a substantial period
+of time, even a very long period such as several centuries . So long as its
+possession does not predate European settlement, its claim cannot be
+sustained. Thus, in Eastern Canada, where permanent European settle-
+ments were founded in the early 1600s, native claimants would have to
+prove continuous possession for over three hundred and fifty years. If
+the voyages of Cabot, Verrazzano, and Cartier were accepted as starting
+points, even longer periods would be required .
+
+In its pure form, the "frozen title" theory maintains that the claim-
+ant group must itself have been in possession at the relevant date, that it
+cannot inherit title from earlier occupants or tack its possession on to
+theirs . But the theory could be adapted so as to allow a group to prove
+that its possession is linked by conquest, cession, merger, exchange, or
+adverse possession to the title of preceding groups in a chain extending
+back to the relevant date . This adapted version, while allowing for more
+flexibility, would still require the same kind of historical quarrying.
+
+It may be observed that the "frozen title" theory implicitly treats
+aboriginal title as a form .of derivative title based on a Crown grant. The
+underlying notion is that when the British Crown or some other Euro
+pean sovereign first came to North America it tacitly granted native
+groups the right to use and occupy the precise lands they possessed at
+that time and no others . On this premise, it follows that a claimant
+group must prove an unbroken line of title extending back to the original
+presumed grant, a line that links them both to the original grantees and
+the original lands granted .
+
+The basic objection to this approach is that it forces aboriginal title
+into a mold familiar to English law, while disregarding the factors pecu-
+liar to its origins. Aboriginal title is located outside the feudal scheme
+
+126 The "frozen title" theory was first put forward in the Baker Lake case, supra,
+footnote 16, at pp . 557-558, 562. For the lands in question there (located in the North-
+west Territories near Hudson Bay), the relevant date was held to be probably no earlier
+than 1610 and certainly no later than 1670 . Curiously, the court did not explain why
+possession from time immemorial was necessary to establish aboriginal title, or cite
+authorities specifically supporting this position. The court refers, at p. 558, to several
+cases as supporting a series of propositions laid down regarding aboriginal title, one
+being the requirement in question . Although references can be found in some of these
+cases to possession of aboriginal lands from time immemorial, none of the cases specif-
+ically holds that this is an essential requirement for proof of aboriginal title. Neverthe-
+less, the Baker Lake theory was later adopted in the Bear Island case, again without
+explanation: supra, footnote 16, at pp . 335, 340-341, 353, 361-362 . There are recent
+American authorities explicitly rejecting the proposition accepted by the court; see the
+illuminating discussion in Sac and Fox Tribe of Indians of Oklahoma v. United States,
+383 F. 2d 991, at pp. 996-999 (U .S . Ct . Cl ., 1967), and Turtle Mountain Band of
+Chippewa Indians v. United States, supra, footnote 118, at pp . 941-942.
+
+ 
+ 
+(cid:9)
+
+760
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+that permeates English land law . Its basis is possession . As Judson J.
+noted in the Calder case, " .
+. the fact is that when the settlers came,
+the Indians were there, organized in societies and occupying the land as
+their forefathers had done for centuries . This is what Indian title
+means .
+
+. "
+
+.127
+
+.
+
+.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+From the earliest days of colonization, Europeans were aware that
+boundaries between native tribes and bands shifted over time. It would
+have seemed strange to suggest that the founding of small European
+settlements on the eastern coastline had permanently crystallized native
+boundaries inland . In practice, the Crown recognized that native groups
+were entitled to the lands they actually used and occupied at. any given
+time, so long as their possession was not purely transitory . When the
+Crown wanted to secure the cession of Indian lands, it dealt with the
+native group actually occupying them.
+
+This practice was not just a matter of administrative convenience.
+To have acted otherwise would have attacked the very basis of aborigi-
+nal title and undermined the purpose it served . A "frozen title" theory
+would have been a fertile source of conflict between the Crown and
+Indian nations, conflict that the fragile settler communities could ill afford.
+It would also have rendered official cessions of native lands insecure,
+introducing doubts as to whether the native group signing the surrender
+was in fact the one entitled to do so. It would have turned a substantial
+number of native groups into squatters on their own lands., notably in
+the Canadian Prairies, where many of the modern native occupants arrived
+after the Crown's initial assertion of sovereignty. 128 Yet those same native
+hunters were essential to the prosperity of the fur trade and the survival
+of the Hudson's Bay Company. Finally, the theory would have frus-
+trated the governmental policy of encouraging native self-subsistence,
+barring a native group from migrating to another area when the game on
+its lands was depleted, the area was devastated by fire or flood, or the
+population swelled beyond the land's capacity .
+
+It could be argued that the adapted version of the theory avoids
+these pitfalls by allowing native groups to move to lands already occu-
+pied by other native peoples and acquire their title. However, this ver
+sion of the theory has an odd anomaly . It holds that an Indian group that
+seizes the territory of another group may acquire aboriginal title, but a
+migrating group that settles on vacant lands, having failed to find some
+other Indians to oust, cannot gain title no matter how long they stay
+there. 129 The conqueror is rewarded and the peaceful migrant punished -.
+
+127 Supra, footnote 10, at pp . 328 (S .C .R .), 156 (D .L .R .) .
+1`$ See Mandelbaum, op . cit., footnote 49 .
+129 This point is made in Turtle Mountain Band of Chippewa Indians v. United
+
+States, supra, footnote 118, at pp . 941-942.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+76 1
+
+The "frozen title" theory also has serious practical difficulties . The
+requirement that title be traced back to the advent of Europeans presup-
+poses the existence of orderly documentary records showing the location
+and extent of aboriginal lands and the identity of successive native occu-
+pants. Yet documentary evidence for early periods of Canadian history
+is at best fragmentary, and what little can be unearthed is often open to
+varying interpretations . It is reasonable to think that the theory of aborigi-
+nal title does not entail an evidentiary requirement that normally cannot
+be met. 130
+
+The better view, then, is that a native group need only show that it
+has possessed the lands claimed for a period of time sufficient to estab-
+lish a stable relationship with them, and to defeat the claims of previous
+native occupants. Possession from "time immemorial" need not be shown.
+
+(4) The lands must form part of the Indian Territories .
+
+The final requirement for the acquisition of aboriginal title is that
+the lands claimed must form part of the Indian Territories . Lands pre-
+viously removed from the Territories and converted to General Lands
+are no longer freely available for appropriation by native groups .
+
+We will consider in the next section the ways in which lands in the
+Indian Territories may lawfully be transformed into General Lands . Here
+it is sufficient to note that where a group asserts aboriginal title to lands
+currently in their possession, it will be presumed in law that the lands
+still form part of the Indian Territories, in the absence of proof to the
+contrary . It is for the party submitting that the lands have been con-
+verted to General Lands to establish that fact . 131 Otherwise the group
+claiming aboriginal title would be put to the task of proving a negative,
+namely that at no previous time had the lands been withdrawn from the
+Indian Territories . The same presumption operates where the claimant
+group is not currently in possession of the lands but can show that it
+held them at some time in the past, in which case the presumption applies
+to the period when the group was last in possession .
+
+B . Removal of Land from the Indian Territories and Extinguishment of
+
+Aboriginal Title
+
+As we have seen, the Indian Territories, are lands under Crown
+sovereignty that are open to native use and occupation . However, not
+tso In Simon v. The Queen, supra, footnote 15, at pp . 407-408 (S .C .R .), 407
+(D .L .R .), the Supreme Court of Canada, in the course of holding that relatively slim
+evidence was sufficient to prove that an Indian was a descendant of Micmac Indians
+. . be sufficient, for
+who signed a treaty with the Crown in 1752, stated: "It must .
+otherwise no Micmac Indian would be able to establish descendancy. The Micmacs did
+not keep written records. Micmac traditions are largely oral in nature . To impose an
+impossible burden of proof would, in effect, render nugatory any right to hunt that a
+present-day Shubenacadie Micmac Indian would otherwise be entitled to invoke based
+on this Treaty ."
+
+ 
+ 
+(cid:9)
+
+762
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+every part of the Indian Territories is necessarily subject to aboriginal
+land rights at a given time. Areas that have not been occupied or used
+by native peoples for a considerable period are free of aboriginal title for
+the time.-being. 132 But as long as they are part of the Indian Territories
+they remain available for native occupation in the future . In principle,
+then, one can distinguish between the Indian Territories proper and the
+areas within the Territories that are subject to aboriginal title.
+
+This distinction gives rise to two separate but related questions.
+First, in what ways may lands in the Indian Territories be converted to
+General Lands, and thus made available for settlement? Second, in what
+ways may aboriginal title be extinguished? The questions are closely
+linked in practice, because the conversion of lands in the Indian Territories
+to General Lands usually involves the extinguishment of aboriginal title,
+and the extinguishment of aboriginal title often converts the lands in
+question to General Lands. However, in neither instance is this always
+true. Thus, where the lands withdrawn from the Indian Territories are
+vacant at the time, the withdrawal does not extinguish the aboriginal
+title of any group. Again, where a native group abandons lands in the
+Indian Territories, their aboriginal title to the lands will lapse after a
+period, but the lands will remain in the Indian Territories .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+We will deal first with the ways of withdrawing lands from the
+Indian Territories, covering both vacant and occupied lands. In doing
+this, we will also consider most of the methods for extinguishing aborig
+inal title. We will then briefly consider methods of extinguishment that
+do not involve a withdrawal from the Indian Territories.
+
+(1) Removal of Lands from the Indian Territories
+
+What lands make up the Indian Territories? The simple answer,
+which requires elaboration, is as follows. Under the doctrine of aborigi-
+nal land rights, all North American lands claimed by the Crown pre
+sumptively form part of the Indian Territories; the presumption is defeated
+by proof of a lawful act converting portions of the Indian Territories into
+General Lands or Indian Reserves . The Indian Territories, then, are a
+residual category : they comprise what remains after lands converted to
+
+131
+
+In Simon v. The Queen, ibid ., it was argued that the Crown had extinguished
+native rights to all territories in Nova Scotia outside of Indian reserves, and in so doing
+had extinguished a treaty right to hunt over such lands. The court held, at pp . 405-407
+(S .C.R.), 405-406 (D.L.R.), that strict proof of the fact of extinguishment is required in
+each case, remarking: "It is impossible for this Court to consider the doctrine of extin-
+guishment `in the air' ; the respondent must anchor that argument in the bedrock of
+specific lands." In the Calder case, supra, footnote 10, at pp . 404 (S .C .R .), 210 D.L .R .),
+Hall J. stated that the onus of proving extinguishment of Indian title lies on the party
+alleging extinguishment.
+
+132 As will be argued below, the failure to occupy or use lands did not bring about
+
+the immediate cessation of aboriginal title; a certain period of time was necessary.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+763
+
+General Lands and Indian Reserves are subtracted . Here we are con-
+cerned only with the transformation of Indian Territories into General
+Lands. The creation of Indian Reserves will be discussed later. 133
+
+Under the doctrine of aboriginal title, the prime method for con-
+verting Indian Territories into General Lands is cession from the native
+occupants to the Crown. Arguments of varying strength can also be
+made for additional methods: Crown occupation, statutory taking ; act of
+state, Crown grant, adverse possession, and act of the French Crown.
+We will examine each of these as a matter of Canadian common law,
+while also giving some attention to the Royal Proclamation of 1763 and
+the Constitution Acts of 1867 and 1982.
+
+(a) Cession
+A native group may cede or sell lands in its possession to the Crown,
+thus extinguishing its rights in accordance with the terms of the agree-
+ment. Any lands ceded outright cease to belong to the Indian Territories
+and enter the general land system of the jurisdiction . For a treaty to
+extinguish aboriginal title, it must be concluded voluntarily by the group
+holding title to the land, with knowledge of the significance of the
+transaction .
+
+From the early stages of English settlement, private individuals often
+purchased lands from the Indians and claimed to have obtained a title
+that was valid within the general land system of the colony . Such trans
+actions were repeatedly forbidden by legislation passed in most of the
+English colonies, and were generally outlawed by royal decree in the
+Royal Proclamation of 1763 . 131 Official practice coupled with strong
+policy considerations gave rise to a common law rule that aboriginal
+title cannot be transferred to private persons but only to the Crown. "'
+As noted earlier, this rule seemingly did not affect the capacity of native
+peoples to deal in lands among themselves, assuming that native custom
+permitted transactions of this kind . 136
+
+The Federal Crown has the exclusive power to negotiate land ces-
+sion agreements with Indians under section 91(24) of the Constitution
+Act, 1867 . 13 Indian lands that are surrendered to the Federal Crown
+pass into the general land system of the Province in which they are
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+133 See below, the text at footnotes 165-171 .
+134 See Slattery, op . cit., footnote 19, pp . 112-117, 310-312.
+135 Johnson and Graham's Lessee v. McIntosh, supra, footnote 36 ; Calder v. Attorney-
+General ofBritish Columbia, supra, footnote 10, per Judson J., at pp . 320-321 (S .C .R .),
+151 D.L.R.), per Hall J., at pp. 381-385 (S .C .R .), 194-196 (D .L .R .) . See text above at
+footnotes 52-54.
+
+136 See text above, at footnote 54 .
+137 .Supra, footnote 43 . See the discussion below at footnotes 174-176, 188-221 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+764
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+located and, in the absence of special agreements, are at the disposal of
+the Provincial Crown. 138 It seems likely that the federal power to negoti-
+ate land cessions has not ended with the entrenchment of "existing aborig-
+inal and treaty rights" in section 35(1) of the Constitution Act, 1982 . 139
+The section protects unextinguished aboriginal land rights from future
+statutory abridgment, but it does not prohibit voluntary cessions to the
+Crown . Nevertheless, the section arguably imports strict constitutional
+standards safeguarding the interests of the native groups concerned and
+ensuring the essential fairness of a cession. 140
+
+(b) Crown occupation
+It is submitted that the Crown or persons acting under its authority
+may take possession of lands within the Indian Territories that are not at
+that time subject to the aboriginal rights of any native group. 141 These
+lands enter the general land system of the relevant jurisdiction and hence-
+forth are not available for native appropriation under aboriginal title. For
+this mode to operate, the lands in question must be free of existing
+aboriginal rights . The fact that lands are temporarily unoccupied does
+not necessarily mean that they are legally vacant, because, as will be
+seen below, a certain period of time must pass before a native group
+loses title to lands that it has ceased to occupy .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+It could be argued, to the contrary, that lands in the Indian Territories
+cannot be converted to General Lands by occupation, because this method
+allows the Crown to reduce unilaterally the stock of lands available for
+aboriginal occupation without the consent of the native peoples indi-
+rectly affected. This argument suggests, in effect, that the Indian Territories
+are the patrimony of native peoples generally, and cannot be appropri-
+ated by the Crown without native consent, in the absence of" valid legis-
+lation . The argument, however, is not persuasive . Were it true, Indian
+Territories that were not burdened by aboriginal title could not readily
+be converted to General Lands because there would be no identifiable
+native group capable of ceding them . Thus, such lands would actually
+be more difficult for the Crown to obtain for settlement than lands sub-
+ject to aboriginal title, where the title-holders could be identified .
+
+St. Catherine's Milling and Lumber Co . v . The Queen, supra, footnote 52 .
+
+138
+139 Supra, footnote 1 .
+lao
+
+The argument is made in Slattery
+
+.
+at pp 256-257 ; B
+Slattery, The Hidden Constitution : Aboriginal Rights in Canada (1984), 32 Amer. J . of
+Comp . Law 361, at p . 387 .
+
+,OC., .
+
+I ,".,f^-tote 91
+
+141 As seen earlier, the Crown cannot, by virtue of the prerogative, lawfully take
+possession of lands burdened by aboriginal title ; see text, supra, at footnotes 70-79 .
+Moreover, private individuals cannot gain title to vacant lands in the Indian Territories
+by occupation, in the absence of authority from the Crown in a grant ; see discussion
+below at footnotes 158-159 .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+765
+
+It seems probable, then, that occupation is a valid method of
+transferring lands from the Indian Territories, and that the settlement of
+certain parts of Canada, such as portions of the St. Lawrence Valley,
+can be justified on this basis . It should be noted, however, that the
+amount of land available for unilateral occupation by the Crown was
+always relatively small.
+
+The Crown or its deputies must perform definite acts of possession
+in order to remove vacant lands from the Indian Territories by occupa-
+tion. A Crown grant coupled with possessory acts by the grantee would
+be sufficient, but it is submitted that a grant standing alone would not."'
+Unless the grantee takes possession, the land arguably remains available
+for aboriginal occupation. This observation, however, does not apply to
+lands withdrawn from the Indian Territories by other methods, such as
+cession. It is submitted that these lands are permanently removed from
+the pool of lands available for aboriginal occupation, regardless of whether
+or not they are granted out by the Crown or are actually in anyone's
+possession . Otherwise the Crown might have to secure the cession of
+lands several times over, and grants of ceded lands would often be affected
+by uncertainty over the lands' status .
+
+Occupation as a mode of withdrawing lands from the Indian Territories
+may have virtually ceased to operate in the provinces at Confederation,
+due to the division of powers effected in the Constitution Act, 1867 . 143
+The provincial Crown has the general power to grant lands within pro-
+vincial boundaries, but its capacity to withdraw unoccupied lands from
+the Indian Territories is seemingly limited by section 91(24) of the Act,
+which gives the federal government jurisdiction over "Indians and Lands
+reserved for the Indians" . 44 The federal Crown, on the other hand,
+arguably has general legislative and administrative authority over aborigi-
+nal lands under that section, but lacks the power to grant such lands to
+others . '45 The result may be that neither Crown can withdraw vacant
+land from the Indian Territories simply by means of a grant.
+
+(c) Statutory taking
+Aboriginal title, like other property rights, can in principle be statutorily
+expropriated, subject to any constitutional limitations. The statute must
+express a clear intention to terminate Indian title, whether by specific
+words or necessary implication, and ambiguous phraseology will be inter-
+
+" Certainly, the original Royal Charters granting North American lands to various
+groups and individuals were not in practice taken to convert Indian Territories into lands
+unavailable for native appropriation ; see discussion in Slattery, op . cit., footnote 19, pp .
+95-125 .
+
+143 Supra, footnote 43 .
+144
+
+See infra, at footnotes 174-176, 188-221 .
+
+14s
+
+St. Catherine's Milling and Lumber Co . v . The Queen, supra, footnote 52 .
+
+ 
+ 
+(cid:9)
+
+766
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+preted in favour of the Indians. tab The taking of native lands presump-
+tively gives rise to a duty to pay fair compensation . 147 Generally speak-
+ing, the Crown cannot expropriate aboriginal lands by prerogative act;
+legislation is required."'
+
+As we will see later, it can be argued that the Royal Proclamation
+of 1763'49 imposed strict constitutional limitations on the power of local
+Canadian legislatures to expropriate aboriginal land rights . These restric
+tions remained in place until the passage of the Constitution Act, 1867,' 50
+or possibly until the Statute of Westminster, 1931 .'5 ' In any case, by
+virtue of section 91(24) of the Constitution Act, 1867, the Federal Par-
+liament alone is competent to extinguish aboriginal title. 152 Since the
+enactment of section 35 of the Constitution Act, 1982,' 53 the federal
+power to expropriate aboriginal lands is defunct, except perhaps in cases
+of necessity .
+
+(d) Act of state
+In the early days of colonization, the Crown sometimes conquered
+aboriginal territories in the course of war. In British law, the property
+rights of a conquered people are presumed to continue undisturbed, in
+the absence of some definite act of expropriation by the Crown per-
+formed in the course of acquisition."' On the occasions when the Crown
+actually conquered a native American group, it seems normally to have
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+146 In Calder, supra, footnote 10, at pp . 401-404 (S .C .R.), 208-210 (D .L .R .),
+Hall J. at one point states that legislation must be "specific", and later that the intention
+to extinguish must be "clear and plain" . In the Baker Lake case, supra, footnote 16, at
+pp . 566-569, Mahoney J. holds that a clear intention may be inferred from the necessary
+effects of legislation. As for the origins of the requirement, LaForest J.A . comments in
+Paul v. Canadian Pacific Limited, supra, footnote 91, at p. 33 : "This appears to be a
+special application of the general presumption that the Legislature does not, in the absence
+of clear words, intend to interfere with vested rights . . ." The rule that statutes relating
+to Indians should be liberally construed in their favour was laid down by the Supreme
+Court of Canada in Nowegijick v. The Queen, [19831 I S .C .R . 29, at p. 36, (1983), 144
+D.L .R. (3d) 193, at p. 198.
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+See text, supra, at footnotes 90-104 .
+See text, supra, at footnotes 70-79.
+Supra, footnote 3.
+Supra, footnote 43 .
+22 Geo. V, c.4 (U .K .) . See discussion below at footnotes 183-1,87 .
+See discussion below at footnotes 174-176, 188-221 .
+Supra, footnote 1 . See discussion in Slattery, loc. cit., footnote 91, and Slattery,
+
+loc. cit., footnote 140.
+
+154 Guerin v. The Queen, supra, footnote 4, per Dickson J., at pp . 378 (S .C .R .),
+336 (D .L .R .) ; Calder v. Attorney-General of British Columbia, supra, faotnote 10, per
+Hall J., at pp . 402-403 (S .C .R .) . 208-209 (D .L .R .) ; Amodu Tijani v. Secretary, South
+ern Nigeria, supra, footnote 52 ; Oyekan v. Adele, [19571 2 All E.R . 785 (P .C .) . See
+discussion and references in Slattery, op . cit., footnote 19, pp . 45-62.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+767
+
+left them in the.possession of their lands . However, at times, lands may
+have been seized as an act of state and placed at the disposal of the
+colony .
+
+®f course, conquest ceased to operate as a possible mode of acquir-
+ing aboriginal lands once the Crown gained sovereignty over the native
+peoples in question . As subjects of the Crown, such peoples would hence
+forth be entitled to its protection . Their lands could not be seized by
+executive act, without authorizing legislation. 155
+
+(e) Crown grant
+
+At common law, a Crown grant of land burdened by aboriginal title
+will not extinguish it, but will take effect subject to the title or else be
+void . 156 This rule applies to the Federal and Provincial Crowns, and also
+to the Imperial Crown and local colonial governments before Confederation .
+
+A Crown grant authorized by legislation is in a different position .
+Its effect on existing aboriginal rights is determined by a number of
+factors, including the constitutional powers, of the legislature in ques
+tion, the wording of the legislation, and the terms of the grant. But there
+is a strong presumption against the extinguishment of aboriginal title
+without native consent, which is displaced only by clear words or neces-
+sary intendment . 157
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+(f) Adverse possession
+
+It might be thought that lands subject to aboriginal title could be
+acquired by adverse possession, in situations where private individuals
+have occupied such lands for long periods of time . Put, as seen earlier,
+the land systems introduced into the American colonies were founded on
+the principle that settlers could gain title to land only by grant from the
+Crown. Title to ungranted land could not be obtained at common law
+either by settling on it or buying it from the Indians, and the Proclama-
+tion of 1763 158. reflects the common law on this point.
+
+The rule may have harsh consequences in particular cases . Take the
+position of a private individual who himself and through his predeces-
+sors has been in possession of aboriginal lands continuously for over a
+century. Let us suppose his possession is not tainted by fraud, secrecy,
+permission, or force, and that throughout this period the original native
+
+15s The technical reason is that there can be no act of state between the Crown and
+
+its subjects on British territory; see Slattery, ibid ., pp . 46-48.
+
+.
+
+156 See text, supra, at footnotes 70-79.
+157 See text, supra, at footnote 146.
+158 Supra, footnote 3. See text above at footnotes 52-54. The question whether title
+to Indian lands may be gained by adverse possession under statutory provisions govern-
+ing the limitation of actions is a distinct matter .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+768
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+possessors were capable in law and fact of taking action to eject the
+squatters but failed, until now, to do so. It can be argued that in such
+circumstances the adverse possessor must surely be capable at common
+law of defeating the claim of the aboriginal group . Whatever the force
+of this argument, it is hard to see how it can be accepted without
+undermining the premises upon which the land systems of the colonies
+were constructed .
+
+If, however, one accepts the view that private individuals may acquire
+title to aboriginal lands by long periods of adverse possession, aborigi-
+nal peoples dispossessed in this manner arguably would be entitled to
+receive monetary compensation for their loss where the dispossession
+took place with the support of a governmental authority. Take, for exam-
+ple, a situation where a settler took possession of native lands under a
+Crown grant that in law did not extinguish the aboriginal title of the
+native occupants, who nevertheless were sufficiently intimidated to move
+off the land. In such a case, the government involved or its successor
+would have the legal duty to compensate the native people, on the argu-
+ment that a defacto expropriation of this kind is governed by the same
+presumption requiring compensation as a statutory expropriation. '59
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+(g) Act of the French Crown
+It could be argued that territories acquired by the British Crown by
+cession or conquest from France did not form part of the Indian Territories
+and, with a few exceptions, were not burdened with aboriginal title or
+any other form of native land rights . This argument _maintains that the
+French Crown never generally recognized the existence of native land
+rights in the territories it claimed, or alternately that it extinguished such
+rights in the process of colonization . The only exceptions, on this view,
+were a few small tracts of land specifically set aside by French authori-
+ties for Indian use.' 60
+
+Two sorts of responses may be made to such arguments. First, it
+can be argued that the French did not in fact claim full title to lands
+occupied by Indian nations within the asserted boundaries of New France . '6'
+Such a claim would have been imprudent, because the security and wel-
+fare of the French colony depended on good relations with the native
+peoples. In any case, the number of French settlers was small, and little
+
+159 See text, supra, at footnotes 90-104 .
+16° See, for example, H . Brun, Les droits des Indiens sur le territoire du Québec
+
+(1969), 10 C. de D. 415, pp . 428-430.
+
+161 For detailed analysis of the relevant documents, see: Slattery, ov . cit., footnote
+19, pp . 70-94; B. Slattery, Did France Claim Canada upon Discovery?, in J.M . Bumsted
+(ed.), Interpreting Canada's Past (1986), Vol . I, pp . 2-26, originally published in (1978),
+59 Can. Hist . Rev. 139. Se e also W.J . Eccles, Sovereignty-Association, 1500-1783
+(1984), 65 Can. Hist. Rev. 475.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+769
+
+land was needed to accommodate them. Much of the land settled by the
+French in the St. Lawrence Valley seems to have been unoccupied at the
+time of settlement .
+
+Second, it can be argued that in areas that the British crown acquired
+by conquest or cession from France, the doctrine of aboriginal rights
+applied as fully as it did in areas that Britain claimed as a matter of
+original right. The status of lands in a conquered or ceded territory such
+as Acadia or Canada is governed by colonial law, which incorporates
+the doctrine of aboriginal rights . t 62 Under British colonial law, the lands
+gained from France presumptively belonged to the Indian Territories, in
+the absence of some act converting them to General Lands .
+
+Regardless of the position at common law, the salient provisions of
+the Royal Proclamation of 1763'63 applied to the lands acquired from the
+French Crown, both in Acadia and Canada, and these provisions consti
+tute an official recognition by the British Crown of the existence of
+subsisting aboriginal land rights to unceded Indian lands within the territories
+formerly claimed by France . 16'
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+(2) Loss of Aboriginal Title Within The Indian Territories
+We have seen that the Indian Territories make up an area where
+aboriginal title is gained by appropriation and maintained by possession .
+It follows that aboriginal title may be lost when a native group voluntar
+ily leaves its lands and moves elsewhere. However, in such a case, the
+group's title will lapse only after a sufficient time has passed to indicate
+that the group has irrevocably cut its links with the lands, and taken up
+permanent residence elsewhere. How long a time this takes depends on
+the circumstances. It seems unlikely that a native group would lose title
+to its former lands more rapidly than it could acquire title to its new
+lands .
+
+When aboriginal title to lands in the Indian Territories is extin-
+guished by abandonment, the lands revert to the common pool of lands
+available for native use, and may be appropriated in future by other
+native groups . In other words, the lands do not become General Lands,
+but remain part of the Indian Territories .
+
+IV. Aboriginal Lands and Indian Reserves
+As we have seen, at an early stage of colonial settlement, the categories
+of Indian Territories and General Lands were supplemented by a third:
+
+162 See text, supra, at footnotes 31-33.
+163 Supra, footnote 3.
+164 See Adams v . R., [1985] 4 C.N.L.R. 39 (Que. S.C.), [1985] 4 C.N.L.R. 123
+(Que . C.S.P.), and detailed discussion in Slattery, op. cit., footnote 19, esp. pp. 165-174,
+217-227, 244-247, 261-267. Cf. Brun, loc. cit., footnote 160, at pp. 440-450. For
+analysis of the Proclamation of 1763, see text, infra, at footnotes 172-173, 183-187.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+770
+
+THE CANADIAN BAR REVIEW
+
+[Vol . 66
+
+"Indian Reserves" ."' An Indian Reserve is land that has become per-
+manently attached to a particular group of native people under a legal
+regime similar to that of aboriginal title . Unlike lands in the Indian
+Territories, a Reserve cannot be lost by non-occupation or gained by
+another group simply by appropriation. On the other hand, a Reserve is
+not governed by the land regime applying to General Lands but by a
+special body of rules .
+
+Indian Reserves can be classified along various lines. For our pur-
+poses, there are two types. In the first type of reserve, the group's title
+can be traced back to its title to aboriginal lands in the Indian Territories.
+Title to such a Reserve is thus a derivative form of aboriginal title . In
+the second type of Reserve, the group's title stems from a statutory
+provision, Crown Grant, or other similar instrument, and not from aborigi-
+nal title at common law. We will call the first type, "Aboriginal Reserves",
+and the second, "Granted Reserves" .
+
+A. Aboriginal Reserves
+
+Reserves of this type are remarkably diverse, and are often overlaid
+with so thick a veneer of history that they are not immediately recogniz-
+able . Some comprise small pockets of land that were retained by a native
+group when they ceded the rest their aboriginal territories to the Crown. 166
+So long as the lands were not included in the cession (as distinct from
+lands that were surrendered to the Crown and then granted back to the
+Indians as Reserves), the group's title to them will continue to rest on
+the common law, although the treaty may, of course, confirm it. Reserves
+carved by unilateral governmental act out of a group's unsurrendered
+ancestral lands are in the same position, unless the constituent act extin-
+guishes the group's aboriginal title."' It seems arguable that Reserves
+may also emerge by more gradual and informal processes, as when aborigi-
+nal lands occupied by a particular group come to be surrounded by Gen-
+eral Lands, and acquire definite boundaries and strong historical ties
+with the group in question."'
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+165 See text above at footnote 55 . For a survey, see R.H . Bartlett, Reserve Lands,
+
+in Morse, op. cit., footnote 6, pp . 467-578 .
+
+166 See, for example, the Robinson Huron Treaty of 1850, where the Indians cede
+to the Crown their rights to a designated territory "save and except the reservations set
+forth in the schedule hereunto annexed" ; Morris, op . cit., footnote 27, p. 305 .
+
+167 Thus, in the Guerin case, supra, footnote 4, Dickson J., after stating that the
+Indian interest in a reserve was the same as in traditional tribal lands, went on to remark,
+at pp . 379 (S .C .R.), 337 (D .L.R .) : "It is worth noting . . . that the reserve in question
+here was created out of the ancient tribal territory of the Musqueam Band by the unilat-
+eral action of the Colony of British Columbia, prior to Confederation ."
+
+168 An example may be the St. Regis Reserve, the history of which is discussed in
+
+R. v. Adams, supra, footnote 164.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+771
+
+. Granted Reserves
+
+Other Reserves are held by virtue of a Crown act or statute, and not
+under the common law doctrine of aboriginal title. Some, for example,
+owe their origins to grants to Indian nations dislocated as the result of
+war, as with the lands set aside after the American Revolution for Iroquois
+Loyalists in southern Ontario, `9 and the lands granted to the Hurons in
+Quebec during the French regime . "° Other Reserves were created by the
+Crown out of lands ceded to it by Indian treaty . These differ (at least
+notionally) from tracts excepted from a surrender since the Indians' right
+to such a tract arguably depends on the treaty or other act creating the
+reserve, rather than the common law .
+
+The fact that Granted Reserves owe their existence to particular
+provisions that differ in wording and status clearly allows for the possi-
+bility that such Reserves lack a uniform legal character. Nevertheless,
+we are bound to take account of an authoritative and long-standing judi-
+cial holding, reaffirmed by the Supreme Court in Guerin, that title to
+Indian Reserves of all sorts is identical to aboriginal title. 171 On this
+view, there is no significant legal difference between Aboriginal Reserves
+and Granted Reserves, or between Reserve title and aboriginal title.
+
+This holding is obviously apt as regards Aboriginal Reserves, since
+title to these Reserves originates in aboriginal title. But it is less clearly
+applicable to Granted Reserves . While it is arguable that the Crown
+under the prerogative cannot create reserves that depart substantially from
+the aboriginal model, it seems unlikely that a legislature would be inca-
+pable of doing so . The judicial holding is perhaps best understood, then,
+as laying down a presumption of uniformity . On this view, title to Granted
+Reserves is presumptively the same as title to Aboriginal Reserves and
+aboriginal title generally, in the absence of wording in the governing act
+that signals a clear departure from the normal model .
+
+It is submitted, however, that in one respect Reserve title presump-
+tively differs from aboriginal title in its pure form. Whereas in the Indian
+Territories aboriginal title is founded on appropriation and maintained
+by possession, title to a Reserve is permanently vested in a particular
+group, and cannot be lost simply by non-occupation or gained by another
+group by appropriation.
+
+169 See the account in R.J. Surtees, Indian Land Surrenders in Ontario, 1763-1867
+
+(Research Branch, Indian and Northern Affairs Canada, 1984), pp . 19-26.
+
+17° See the account of the foundation of the reserve at Lorette in G.F .G . Stanley,
+The First Indian `Reserves' in Canada (1950), 4 Rev. d'Histoire de l'Am6rique Française
+178, at pp . 191-195. For discussion of the legal status of Quebec reserves, see R.H .
+Bartlett, Indian Reserves in Quebec (U . of Sask . Native Law Centre : 1984).
+
+"1 Per Dickson J., supra, footnote 4, at pp . 379 (S .C .R .), 336-337 (D .L .R .),
+reaffirming the holding in Attorney-General for Quebec v. Attorney-General for Can-
+ada, supra, footnote 82 . The holding has attracted its share of criticism. For a recent
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+772
+
+LA REVUE DU BARRE CANADIEN
+
+[Vol . 66
+
+C. Statuton Classifications ofNative Lands
+
+It remains to explain how this common law classification of native
+lands relates to such statutory schemes as the Royal Proclamation of
+1763, the Constitution Act, 1867, and the federal Indian Acts .
+
+The Royal Proclamation of 1763 refers to several overlapping cate-
+gories of native lands. I'2 The first is described in the preamble to the
+Indian Part, where the King affirms that the Indian nations who live
+under British protection "should not be molested or disturbed in the
+Possession of such Parts of Our Dominions and Territories as, not hav-
+ing been ceded to, or purchased by Us, are reserved to them, or any of
+them, as their Hunting Grounds" . This passage treats as reserved for
+Indians all those parts of the Crown's dominions in America that the
+Indians have not ceded or sold to the Crown. The description is broad
+enough to cover both the Indian Territories and Aboriginal Reserves .
+However, strictly interpreted, it might not include certain Granted Reserves:
+those created out of Indian lands that had already been ceded to the
+Crown.
+
+Later, the Proclamation refers to a broader category of Indian lands .
+It states that no private person shall make any purchases "of any Lands
+reserved to the said Indians", and provides that such lands can only be
+purchased by the colonial governments. This provision refers to any
+lands whatever that are reserved to the Indians, and so covers not only
+the Indian Territories and Aboriginal Reserves, but also Granted Reserves .
+The third category described in the Proclamation is what may be
+called "the Indian Country" . This category has attracted a lot of aca-
+demic and judicial attention, apparently on the assumption that it is still
+relevant today. In fact, the category was overtaken by historical events
+in the decade following the Proclamation's appearance and has less legal
+interest than the two categories considered above. The Proclamation cre-
+ates a temporary pool of lands lying west of the main settled areas that
+is closed to settlement and official purchases for the time being. The
+Country is defined negatively as all British Territories lying west of the
+Appalachian Mountains that are not included within the colonial bound-
+aries of Quebec, East and West Florida, and Rupert's Land (the territories
+granted to the Hudson's Bay Company) . The intention was to prevent
+any purchases of Indian lands from taking place in this area for the time
+being (even purchases by colonial governments), and thus to halt the
+spread of white settlement into the American interior . But the Proclama-
+tion's wording makes it clear that the provision was a temporary expedi-
+ent, and in fact the eastern boundaries of the Indian Country were rede-
+
+example, see H. Brun, La possession et la réglementation des droits mimers, forestiers
+et de réversion dans les réserves indiennes du Québec (1985), 30 McGill L.J . 415 .
+
+172 Supra, footnote 3. For detailed discussion, see Slattery, op . cit., footnote 19,
+
+pp . 191-282.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+773
+
+fmed and substantially altered in a series of treaties negotiated with various
+Indian nations over the next decade, with the Crown's approval . 173
+
+The Indian Country is a creature of the Proclamation, and does not
+reflect the common law categories considered above. The Country clearly
+does not include all the lands in the Indian Territories . Large parts of
+Quebec and Rupert's Land, for example, were still part of the Indian
+Territories, yet they are excluded from the Country as defined. Nor does
+it include most of the Aboriginal and Granted Reserves existing at that
+period . For most purposes, the Indian Country is of little interest today.
+The continuing relevance of the Proclamation of 1763 lies in the general
+provisions dealing with Indian lands, which in essence closely follow
+the tenets of the common law doctrine of aboriginal title.
+
+Section 91(24) of the Constitution Act, 1867 174 gives the federal
+Parliament exclusive jurisdiction over "Indians and Lands reserved for
+the Indians" . The phrase likely covers all lands reserved for aboriginal
+peoples, whether Indian, Inuit, or Metis . 17' The important question is
+how broadly the term "reserved" should be interpreted .
+
+In the ,fit. Catherine's case, 176 the Privy Council considered the
+argument that section 91(24) does not cover land occupied by virtue of
+the Proclamation of 1763, but only tracts set aside for Indians after the
+Proclamation was issued . The Committee rejected this argument, observ-
+ing that the words used in the section "are, according to their natural
+meaning, sufficient to include all lands reserved, upon any terms or
+conditions, for Indian occupation". They continued: "It appears to be
+the plain policy of the Act that, in order to ensure uniformity of admin-
+istration, all such lands, and Indian affairs generally, shall be under the
+legislative control of one central authority . "177 These observations strongly
+suggest that section 91(24) covers native lands generally, both those in
+the Indian Territories as well as Aboriginal and Granted Reserves . This
+conclusion follows directly from the holding that Proclamation lands are
+within the section's scope, for, as we have just seen, all forms of native
+lands are covered by one or other of the Proclamation's provisions .
+
+Greater uncertainty surrounds another statutory class of native lands.
+In the various Indian Acts passed since Confederation, Parliament has
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+173 See, for example, L. Ire Vorsey, The Indian Boundary in the Southern Colo-
+
+nies, 1763-1775 (1966) .
+
+174 Supra, footnote 43 .
+175 The term "Indians" has been held to include the Inuit or Eskimo peoples, and
+it probably also covers some people of mixed blood, such as the Metis. See: Re Term
+"Indians", [1939] S.C .R . 104; C. Chartier, `Indian' : An Analysis of the Term as Used
+in Section 91(24) of the British North America Act, 1867 (1978-79), 43 Sask . L. Rev.
+37 ; P.W. Hogg, Constitutional Law of Canada (2nd ed ., 1985), pp . 552-553.
+
+176 Supra, footnote 52 .
+177 Ibid., at p. 59 .
+
+ 
+ 
+(cid:9)
+
+774
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+singled out for special treatment a category of lands usually described as
+"reserves" . 178 The term is defined in slightly different ways in the vari-
+ous Acts . The current Act states that "reserve" means "a tract of land,
+the legal title to which is vested in Her Majesty, that has been set apart
+by Her Majesty for the use and benefit of a band" .179 If this definition is
+read in the light of the Proclamation of 1763 and the Privy Council's
+remarks in St. Catherine's, it arguably extends not just to granted lands
+but to aboriginal lands generally. The common assumption, however, is
+that a narrower class of lands is designated, although how that class
+should be identified is problematical . There is every reason to think that
+the definition is not confined to granted lands and that at least certain
+types of lands held under aboriginal title are covered, notably what we
+have called Aboriginal Reserves . "' Whether coverage extends beyond
+such Reserves to aboriginal lands generally is an open question .
+
+V. Legislative Authority over Aboriginal Rights
+Aboriginal rights have clearly been affected over the years by legislation,"
+but the extent of the inroads is uncertain . The matter is complicated by
+the provisions of several important constitutional documents, including
+the Royal Proclamation of 1763, the Constitution Act, 1867, and the
+Constitution Act, 1982, which shield aboriginal rights from legislative
+intrusion. 182
+
+It can be argued, for instance, that the Indian provisions of the
+Royal- Proclamation of 1763 1$3 could not be repealed by Canadian legis-
+latures prior to 1931, but only by the Imperial Parliament . This proposi
+tion rests on judicial holdings that the Proclamation was an act of the
+Imperial Crown equivalent in force and effect to an Act of Parliament . "a
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+17 $ See generally R.H . Bartlett, The Indian Act of Canada (University of Saskatch-
+
+ewan Native Law Centre, 1980); first published in (1977-78), 27 Buf. Law Rev. 581 .
+
+179 Indian Act, supra, footnote 112, s. 2(l) .
+is° In R . v. Lady McMaster, [19261 Ex . C .R . 68, the court proceeded on the basis
+that the Indian lands in question were Proclamation lands (at pp . 69, 73), and also held,
+at p. 75, that the lands were covered by certain provisions of the Indian Act. See also:
+R . v. Easterbrook, [19291 Ex . C.R . 28, aff'd. [19311 S.C .R . 210; St . Catharines Mill-
+ing and Lumber Co . v. The Queen, supra, footnote 52, at pp . 636-637, per Strong J.
+
+1$ ' See text, supra, at footnotes 45-47.
+1$= These are the most general of the relevant instruments . But some parts of Can-
+ada are governed by particular constitutional instruments of equal importance . See, for
+example, the excellent discussion of the constitutional terms governing the transfer of
+Rupert's Land and the North-Western Territory to Canada, in K. McNeil, Native Claims
+in Rupert's Land and the North-Western Territory: Canada's Constitutional Obligations
+(U . of Sask . Native Law Centre : 1982). See, generally, Cumming and Mickenberg, op .
+cit., footnote 8.
+
+iss Supra, footnote 3 .
+1$4 R. v. Lady McMaster, supra. footnote 180, at pp . 72-73; Easterbrook v. R.,
+[19311 S.C .R . 210, at pp . 214-215, 217-218, affirming [19291 Ex . C.R . 28, at pp .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+775
+
+As such, it arguably had the effect of an Imperial statute and was para-
+mount to local statutes under the Colonial Laws Yalidity Act, 1865 . 185 If
+this is correct, pre-Confederation colonial legislation must be read sub-
+ject to the Proclamation's terms. The same may hold . true of statutes
+passed by the Canadian Parliament and provincial legislatures prior to
+the Statute of Westminster, 186 which in 1931 released Canada from any
+imperial bonds other than those embodied in the Constitution Acts . 187
+
+A second issue relates to the distribution of powers between federal
+and provincial legislatures under the Constitution Act, 1867,188 section
+91(24) of which gives the Canadian Parliament exclusive authority over
+"Indians, and Lands reserved for the Indians" . Aboriginal rights are
+intimately connected with the special status and capacities of Indian peo-
+ples and the possession and use of their lands . 189 It seems probable,
+then, that they form an intrinsic part of the subject-matters covered by
+section 91(24) . ®n this view, the federal Parliament has the exclusive
+power to deal with aboriginal rights, and, subject to the possible consti-
+tutional limitations mentioned above, it may exercise that power so as to
+regulate or extinguish the rights in question ."
+
+Under general constitutional principles, the provinces cannot legis-
+late in relation to subject-matters falling within exclusive federal juris-
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+29-30; R. v. White and Bob (1964), 50 D.L.R . (2d) 613 (B .C .C .A .), per Norris J.A., at
+pp . 636, 644; R. v. Isaac, supra, footnote 71, per MacKeigan C.J ., at p. 478, per
+Cooper J.A ., at p. 496; Calder v. Attorney General of British Columbia, supra, foot-
+note 10, per Hall J., at pp . 394-395 (S .C .R .), 203 (D .L .R .) . The Proclamation's valid-
+ity and legal effects are considered in Slattery, op . cit., footnote 19, pp . 283-313.
+
+185 R . v. White and Bob, ibid ., per Norris J.A ., at p. 662; R. v. Isaac, supra,
+footnote 71, per MacKeigan C.J ., at p . 485; R. v. Secretary of State for Foreign and
+Commonwealth Affairs, [1982] 2 All E.R . 118 (C .A .), per Lord Denning M.R ., at pp.
+124, 125. The arguments pro and con are discussed in Slattery, op . cit., footnote 19,
+pp . 315-319.
+
+186 Supra, footnote 151 .
+187 See Hogg, op . cit., footnote 175, pp . 40-42; Slattery, loc. cit., footnote 31, at
+
+pp . 393-396.
+
+188 Supra, footnote 43 . See generally, Lysyk, loc. cit., footnote 57 ; K.M . Lysyk,
+Constitutional Developments Relating to Indians and Indian Lands: An Overview, in
+Law Society of Upper Canada Special Lectures, The Constitution and. the Future of
+Canada (1978), pp . 201-228; Hogg, op . cit., footnote 175, pp . 551-562; K. McNeil,
+Indian Hunting, Trapping and Fishing Rights in the Prairie Provinces of Canada (Uni-
+versity of Saskatchewan Native Law Centre : 1983); N. Lyon, Constitutional Issues in
+Native Law, in Morse, op . cit., footnote 6,_pp. 408-451; D. Sanders, The Application
+of Provincial Laws, in Morse, ibid., pp . 452-466; P. Hughes, Indians and Lands Reserved
+for the Indians: Off-Limits to the Provinces? (1983), 21 Osg. Hall Law J. 82 .
+
+189 The requirement of a close connection with Indian status or rights is articulated
+by Beetz J. in Four B Manufacturing Ltd. v. United Garment Workers of America,
+[19801 1 S .C .R . 1031, at pp . 1047-1048, (1979), 102 D.L .R . (3d) 385, at p. 397.
+
+190 R. v. Derriksan, supra, footnote 45 ; Kruger and Manuel v. The Queen, supra,
+
+footnote 45, at pp . 116 (S .C .R .), 443 (D .L .R .) .
+
+ 
+ 
+(cid:9)
+
+776
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol. 66
+
+diction. Thus, provincial laws that single out Indians and Indian lands
+for special treatment are invalid."' This does not mean, however, that
+these subjects are immune to provincial power. Provincial laws of gen-
+eral application may apply to them in aspects falling within provincial
+jurisdiction ."' It is clear, for example, that provincial traffic laws gov-
+ern Indians driving on a public road, and that the laws of contract apply
+to Indians shopping in a normal drug-store .
+
+Nevertheless, there is a point at which provincial laws of general
+application intrude into federal jurisdiction . That point is reached where
+the laws affect matters that are integral to the federal heads of power. 193
+Provincial laws of general application that impair the particular status,
+capacities, or rights of Indians qua Indians, 194 that affect the possession
+and use of Indian lands, 195 or that abrogate or qualify Indian treaty rights"'
+are invalid or must be read down so as not to affect the federal matters
+in question . "' Aboriginal rights lie at the core of rights held by Indians
+qua Indians. In many instances, they are intimately connected with the
+use of Indian lands, as with aboriginal title and hunting and fishing
+rights . In other cases, they are recognized or defined in treaties with the
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+191 R . v. Sutherland, [1980] 2 S .C .R . 451, at pp . 455-456, (1980), 113 D.L .R . (3d)
+374, at pp . 378-379; Dick v. The Queen, supra, footnote 57, at pp . 322-323 (S .C .R .),
+56-57 (D .L .R .) .
+
+192 Cardinal v. Attorney General ofAlberta, [1974] S .C .R . 695, at p. 703, (1973),
+
+40 D.L .R . (3d) 553, at pp . 559-560.
+
+193 Four B Manufacturing Ltd. v. United Garment Workers, supra, footnote 189,
+
+per Beetz J., at pp . 1047 (S .C .R .) . 396-397 (D .L .R .) .
+
+19a Natural Parents v. Superintendent of Child Welfare, [197612 S.C .R . 751, (1975),
+60 D.L .R . (3d) 148, per Laskin C.J ., at pp . 760-763 (S .C .R .), 154-156 (D .L.R .), per
+Martiand J., at pp . 775 (S .C .R .), 165-166 (D .L .R .), per Ritchie J., at pp . 777 (S .C .R .),
+167 (D .L .R .) ; Four B Manufacturing Ltd. v. United Garment Workers, supra, footnote
+191, per Beetz J ., at pp . 1047-1048 (S .C .R .), 397 (D .L.R .) ; Dick v. The Queen, supra,
+footnote 57, at pp . 315-321, 325-326 (S .C .R .), 51-55, 59 (D .L .R .) .
+
+195 The leading case is Derrickson v . Derrickson, [1986] 1 S.C .R . 285, at pp .
+295-296, (1986), 26 D.L .R . (4th) 175, at pp . 183-184. For earlier authorities, see, R. v.
+Jim (1915), 26 C.C .C . 236 (B .C .S .C .) ; R. v. Rodgers, [1923] 3 D.L .R . 414 (Man .
+C.A .) ; Corporation of Surrey v. Peace Arch Enterprises (1970), 74 W.W .R. 380
+(B .C .C .A . ); Cardinal v. Attorney General of Alberta, supra, footnote 192, per Martland .
+J., at pp . 704-708 (S .C .R .), 560-563 (D .L .R .) ; Millbrook Indian Band v. Northern
+Counties Residential Tenancies Board (1978), 84 D.L.R . (3d) 174 (N .S .S .C .) ; Western
+Industrial Contractors Ltd. v. Sarcee Developments Ltd. (1979), 98 D.L .R . (3d) 424, at
+pp . 428-429. 435-436 (Alta. A.D.), The Queen v. Smith (1980) . 113 D.L.R . (3d) 522,
+at pp. 571-572 (F .C .A.) ; Re Stony Plain Indian Reserve No . 135 (1981), 130 D.L .R .
+(3d) 636, at p. 654 (Alta. C.A .) .
+
+196 R. v. White and Bob, supra, footnote 184, per Davey J.A ., at p. 618; approved
+in Kruger and Manuel v. The Queen, supra, footnote 45, at pp . 113 (S .C .R .), 440
+(D .L .R .), and Simon v. The Queen, supra, footnote 15, at pp . 441 (S .C .R .), 410 (D .L.R .) .
+197 See discussion in Dick v. The Queen, supra, footnote 57, at pp . 332 (S .C .R.),
+
+56 (D.L .R .) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+19871
+
+Understanding Aboriginal Rights
+
+77 7
+
+Crown. There is thus a strong argument for the view that aboriginal
+rights cannot be impaired by provincial laws of general application . "'
+The same result flows from the doctrine of federal paramountcy .' 99
+This doctrine holds that, where there is a conflict between otherwise
+valid federal laws and provincial laws affecting federal subject-matters
+such as Indians and Indian lands, the federal laws will prevail ."' The
+common law rules governing aboriginal rights are arguably federal laws
+for these purposes, and the same holds true of the Royal Proclamation
+of 1763 . These two points will be considered separately .
+
+It has been held that common law rules falling within the jurisdic-
+tion of the Canadian Parliament are paramount to provincial laws . This
+was the burden of the Supreme Court's ruling in Bisaillon v . Keable,2°1
+where Beetz J., speaking for the court, stated : " .
+. I do not see why
+the federal Parliament is under an obligation to codify legal rules if it
+wishes to ensure that they have paramountcy over provincial laws, at
+least when some of those legal rules fall under its exclusive jurisdic-
+. ." . On this view, provincial statutes inconsistent with the com-
+tion.
+mon law rules governing aboriginal rights are ineffective even when
+they would otherwise be valid under the constitutional division of powers ."
+Pre-Confederation acts that fall within federal jurisdiction are also
+federal laws for purposes of the paramountcy rule. This conclusion flows
+
+.
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19s The Supreme Court has not yet decided whether provincial laws of general
+application may affect aboriginal rights ex proprio vigore and apart from the effect of
+section 88 of the Indian Act, considered below. The major appeals to the Supreme Court
+on the application of provincial laws to Indian hunting rights have been argued and
+decided apart from the question of aboriginal rights and title; see Kruger and Manuel v.
+The Queen, supra, footnote 45, at pp . 108-109 (S .C .R .), 437 (D .L .R .) ; Dick v. The
+Queen, supra, footnote 57, at pp . 315 (S .C .R .), 51 (D .L .R .) . In Cardinal v. Attorney
+General ofAlberta, supra, footnote 192, at pp. 706-707 (S .C .R .), 562 (D .L .R .), Martland
+J. expressed the opinion that a provincial game law of general application would not
+relate to Indians qua Indians and so would apply to Indians hunting outside a reserve.
+But the decision turned on the wording of the Alberta Natural Resources Transfer Agree-
+ment, and aboriginal hunting rights were not at issue. By contrast, in Dick v. The
+Queen, ibid., pp . 320 (S .C .R .), 55 (D .L .R .), Beetz J. noted that there was considerable
+evidence capable of supporting the conclusion that provincial legislation restricting hunt-
+ing did in fact impair the Indianness of the Band in question there, and adopted that
+assumption for the purposes of the decision .
+
+i99 See, generally, Hogg, op . cit., footnote 175, Chap . 16 .
+z°° Four B Manufacturing Ltd. v. United Garment Workers of America, supra,
+
+footnote 189, per Beetz J., at pp . 1048-1049 (S .C .R .), 398 (D .L.R .) .
+
+20' [198312 S.C .R . 60, at p. 108, (1983), 2 D.L .R . (4th) 193, at p. 232.
+202 See discussion in R . v. Isaac, supra, footnote 71, per MacKeigan C.J ., at p.
+469 . The point must be distinguished from the argument, discussed in Dick v. The
+Queen, supra, footnote 57, that provincial laws of - general application that have the
+effect of limiting certain aboriginal rights are invalid insofar as they affect Indians as
+Indians, because they intrude into an area of exclusive federal jurisdiction . The latter
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+778
+
+THE CANADIAN BAR REVIEW
+
+[Vol . 66
+
+from section 129 of the Constitution Act, 1867,203 which provides that
+laws in effect in the uniting colonies shall continue in effect after Con-
+federation, subject to alteration or repeal by the legislature empowered
+to deal with the subject-matter in question. So, where the subject-matter
+of a pre-Confederation law falls under federal jurisdiction, Parliament
+alone can repeal or amend it. 204 It follows that such a law is paramount
+to provincial laws that are inconsistent with its terms . Otherwise a prov-
+ince would effectively be able to amend or repeal a pre-Confederation
+law falling within federal jurisdiction . As seen above, the Canadian Par-
+liament has the exclusive power to repeal the Indian provisions of the
+Proclamation of 1763, under section 91(24) of the Constitution Act,
+1867 . 20' Therefore, the Proclamation takes precedence over conflicting
+provincial laws .
+
+This, then, is the general scheme that results from the division of
+powers under the Constitution Act, 1867 . However, the operation of the
+scheme is significantly affected by section 88 of the federal Indian Act, 206
+which provides :
+
+Subject to the terms of any treaty and any other Act of the Parliament of Canada,
+all laws of general application from time to time in force in any province are
+applicable to and in respect of Indians in the province, except to the extent that
+such laws are inconsistent with this Act or any order, rule, regulation or by-law
+made thereunder, and except to the extent that such laws make provision for any
+matter for which provision is made by or under this Act.
+
+This section gives force to provincial laws of general application that
+would otherwise be invalid in their application to Indians . 207 It achieves
+this result by incorporating them into federal law . The laws incorporated
+are subordinated to the terms of "any treaty", "any other Act of the
+Parliament of Canada", and the provisions of the Indian Act and its
+attendant legislation. The section does not refer to the common law
+rules governing aboriginal rights . It follows that these rules can be overriden
+by provincial statutes adopted as federal law.'O' This conclusion, how-
+ever, is subject to several important qualifications .
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+argument does not assert the existence of a federal law paramount to the provincial
+statutes in question, and so differs from the point made here .
+
+203 Supra, footnote 43 . See Hellens v. Densmore, [1957] S.C .R . 768, at p. 784
+(1957), 10 D.L .R . (2d) 561, at p. 569; Re Broddy (1982), 142 D.L .R . (3d) 151 (Alta.
+C.A .) ; R. v. Isaac, supra, footnote 71, per MacKeigan C.J ., at p . 468.
+
+204 Dobie v. The Temporalities Board (1882), 7 A.C . 136 (P .C .) . For discussion
+and further references, see A.H .F. Lefroy, The Law of Legislative Power in Canada
+(1897-98), pp . 365-371 ; A.H .F . Lefroy, Canada's Federal System (1913), pp . 161-163.
+
+205 See text, supra, at footnotes 174-177.
+206 Supra, footnote 112.
+207 Dick v. The Queen, supra, footnote 57 .
+208 Kruger and Manuel v . The Queen, supra, footnote 45, at pp. 115-117 (S .C.R .),
+
+442-443 (D .L .R .) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+779
+
+The first stems from the Royal Proclamation of 1763. 2°9 Section 88
+refers to "any treaty and any other Act of the Parliament of Canada".
+The word "other" is significant, for it indicates that the phrase "Act of
+Parliament" is used in a sense broad enough to include treaties . Yet
+most Indian treaties were Crown acts that were never approved or rati-
+fied by the Canadian Parliament . And it has never been thought that an
+Indian treaty must be ratified by Parliament to meet the section's require-
+ments. Second, it is clear that Indian treaties signed by the Crown before
+Confederation are covered by the section, even though they obviously
+cannot be viewed as "other" acts of a Parliament not yet in existence . 210
+It seems possible, then, that the phrase "Act of the Parliament of Can-
+ada" does not refer exclusively to laws passed by Parliament but includes
+all laws and acts in force in Canada that are subject to repeal by Parlia-
+211 ®n this view, the
+ment, including Crown acts prior to Confederation .
+Proclamation of 1763 qualifies for the section's protection . The question
+has yet to be decided by the Supreme Court. Nevertheless, lower courts
+have held that the Proclamation is not a treaty or act of Parliament saved
+by the section. 212
+
+The second qualification is founded on the fact that section 88 makes
+provincial laws applicable to "Indians" but does not refer to "lands
+reserved forthe Indians" . Section 91(24) ofthe Constitution Act, 1867 gives
+Parliament jurisdiction over both subject-matters, and the Supreme Court
+has held that they are two distinct heads of power. 213 It follows that
+section 88 does not referentially incorporate provincial laws that affect
+the possession and use of lands reserved for Indians. 214 This interpreta-
+
+209 Supra, footnote 3.
+210 R. v. White and Bob, supra, footnote 184 (affirmed on appeal, [19561 S.C .R .
+vi, (1965), 52 D.L .R . (2d) 481n); Simon v. The Queen, supra, footnote 15, at pp .
+408-410 (S .C .R .), 407-409 (D .L .R .) .
+
+21
+
+1 The courts have given a similarly broad interpretation to the phrase "laws of
+general application from time to time in force in any province", stating that it includes
+not only laws passed by provincial legislatures but also any laws that form part of
+provincial law, such as laws of England received into the province ; The Queen v. George,
+[19661 S.C .R . 267, at pp . 280-281, (1966), 55 D.L .R. (2d) 386, at p. 398, per Martland
+J. ; Natural Parents v. Superintendent of Child Welfare, supra, footnote 194, per Laskin
+C.J .C ., at pp . 759 (S .C .R .), 153 (D .L .R .) ; Kruger and Manuel v'. The Queen, supra,
+footnote 45, at pp . 109 (S .C .R .), 438 (D .L .R .) .
+
+212 Kruger and Manuel v. The Queen (1975), 60 D.L .R. (3d) 144, at p. 147
+(B .C .C .A .) (not considered on further appeal to the Supreme Court of Canada, supra,
+footnote 45); R. v. Tennisco (1981), 131 D.L .R . (3d) 96 (Ont . H.C .), reversing (1980),
+[19831 1 C.N .L .R . 112 (Ont . RC .) ; R. v. Polchies (1982), 113 A.P .R . 449, at p. 454
+(N .B .C .A .) .
+
+213 Four B Manufacturing Ltd. v. United Garment Workers, supra, footnote 189,
+
+at pp . 1040-1050 (S .C .R .), 398-399 (D .L .R .) .
+
+214 R. v. Johns (1962), 133 C.C .C . 43, at p. 47 (Sask. C.A .); R. v. Isaac, supra,
+footnote 71, per MacKeigan C.J ., at p. 474; Millbrook Indian Band v. Northern Coun-
+ties Residential Tenancies Board, supra, footnote 195, at pp . 182-183; The Queen v.
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+780
+
+LA REVUE DU BARREAU CANADIEN
+
+[Vol . 66
+
+tion is consistent with the fiduciary responsibility of the federal Crown
+to protect Indian lands . 215 It also accords with the principle that statutes
+relating to Indians should be construed liberally and doubtful expres-
+sions resolved in their favour . 216
+
+This limitation on the effect of section 88 is important for several
+reasons. As noted earlier, the expression "lands reserved for the Indi-
+ans" includes not only Indian reserves in the narrow sense, but also
+aboriginal lands recognized by the Royal Proclamation of 1763 .2 17 Thus,
+even if the Proclamation is not directly saved by the section, its provis-
+ions regarding Indian lands are protected . Second, it appears that aborigi-
+nal rights of hunting and fishing may properly be characterized as prop-
+erty rights, which may bring them under the shield of Indian lands . 218
+These conclusions, however, have occasionally been disputed . It
+has been argued that section 88 provides that all provincial laws of
+general application are applicable to Indians, and it makes no difference
+whether the laws are in relation to land or some other subject-matter . 219
+The argument seems plausible as far as it goes . Thus, lands held by
+Indians as ordinary citizens are subject to the general laws of the prov-
+ince, so that they must conform for example to local building and health
+requirements .220 But it does not follow that section 88 makes provincial
+laws applicable to the special category of lands reserved for Indians. 221
+That conclusion would follow only if such lands did not constitute a
+distinct constitutional subject-matter, but were simply subsumed under
+"Indians" . As it is, Parliament's power to legislate for Indian lands
+does not flow from its jurisdiction over Indians . So Parliament's deci-
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+Smith, supra, footnote 195, at pp . 570-571 ; Re Stony Plain Indian Reserve No . 135,
+supra, footnote 195, at pp . 653-654; Derrickson v. Derrickson (1984), 9 D .L .R . (4th)
+204, at p. 208 (B .C .C .A .) ; Lysyk, loc. cit., footnote 57, at p. 518; Sanders, loc. cit.,
+footnote 188, at p. 456. For a different view, see Attorney-General of Ontario v. Bear
+Island Foundation, supra, footnote 16, at pp . 474-475. The Supreme Court reviewed
+the issue in Derrickson v. Derrick-son, supra, footnote 195, at pp . 296-299 (S .C .R .),
+185-187 (D .L .R .), but made no ruling on it .
+
+215 See text, supra, at footnotes 105-116.
+216 Nowegijick v. The Queen, supra, footnote 146, at pp. 36 (S .C .R .), 198 (D .L .R .) .
+217 See text, supra, at footnotes 174-177 .
+218 See text, supra, at footnote 57 .
+219 The argument is referred to, without comment, in Derrickson v. Derrickson,
+
+supra, footnote 195, at pp . 298-299 (S .C .R .), 186-187 (D .L .R.) .
+
+220 Re Stony Plain Indian Reserve No . 135, supra, footnote 195, at p. 656 .
+221 In Cardinal v. Attorney General of Alberta, supra, footnote 192, the Supreme
+Court held that the following provision of the Alberta Natural Resources Transfer Agree-
+ment had the effect of making provincial game laws applicable to Indians even when
+they were on Indian Reserves : "Canada agrees that the laws respecting game in force in
+the Province from time to time shall apply to the Indians within the boundaries thereof. . ."
+However, the reasoning turned on the particular wording and rationale of the clause in
+question .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+1987]
+
+Understanding Aboriginal Rights
+
+781
+
+sion to make provincial laws of general application applicable to Indians
+leaves the subject-matter of Indian lands untouched.
+
+Other fundamental issues are posed by section 35(1) of the Consti-
+tution Act, 1982, which recognizes and affirms the "existing aboriginal
+and treaty rights of the aboriginal peoples of Canada" . 222 It seems clear
+that this provision entrenches the rights it refers to, so that laws that are
+inconsistent with its terms are ineffective under section 52. Greater uncer-
+tainty surrounds the meaning of the word "existing" . Leaving aside
+treaty rights, which pose separate problems, it appears that the word
+ensures that aboriginal rights that were validly extinguished before the
+Constitution Act, 1982 came into effect on 17 April 1982 are not revived
+by the section. On this view, "existing" means "unextinguished" . 223
+What then is the position of aboriginal rights 'that had not been
+extinguished prior to 17 April 1982 but were subject at that time to laws
+that regulated the way in which they could bé exercised?224 Take, for
+example, an aboriginal hunting right that was governed by statutory reg-
+ulations limiting the times of hunting, the species that could be hunted,
+the number of animals that could be taken, and so on. Such regulations
+would not extinguish the right or permanently abridge it. If they were
+repealed, the right in question would resume its former shape, just as
+the right of a property owner to build as he pleases on his property
+revives once building restrictions are lifted . It follows that the hunting
+right in question is protected by section 35(1) as an unextinguished aborig-
+inal right. The contentious issue is how far the right is subject to the
+restrictions in place on 17 April 1982.
+
+There are several possible solutions. The first holds that section
+35(1) entrenches the right in the precise form it held on 17 April 1982,
+subject to the full range of regulations in existence then. This approach
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+222 Supra, footnote 1 . The constitutional provisions are discussed in : Slattery, loc.
+cit., footnote 91 ; Slattery, loc.- cit., footnote 140; K.M . Lysyk, The Rights and Free-
+doms of the Aboriginal Peoples of Canada, in W.S . Tarnopolsky and G.-A. Beaudoin
+(eds .), The .Canadian Charter of Rights and Freedoms (1982), pp . 467-488; Hogg, op .
+cit., footnote 175, Chap . 24 ; K. McNeil, The Constitutional Rights of the Aboriginal
+Peoples of Canada (1982), 4 Sup. Ct . L. Rev. 25 5; D . Sanders, The Rights of the
+Aboriginal Peoples of Canada (1983), 61 Can. Bar Rev. 314; G. Emery, Reflexions sur
+le sens et la portée au Québec des articles 25, 35, et 37 de la Loi constitutionnelle de
+1982 (1985), 25 C . de D. 145; 3. O'Reilly, La Loi constitutionnelle de 1982, droit des
+autochtones (1984), 25 C. de D. 125. For recent jurisprudence on section 35, see, for
+example, R. v. Eninew (1983), 1 D.L .R . (4th) 595 (Sask. Q.B .), aff'd. (1984), 10
+D.L .R . (4th) 137 (Sask. C.A .) ; R. v. Horse, [1984] 4 C.N .L .R . 99 (Sask. C.A .) ; R. v.
+Adams, [1985] 4 C.N .L .R. 123 (Que . C.S .P.), [1985] 4 C.N .L .R . 39 (Que . S.C .);
+Sparrow v. R., [1987] 2 W.W.R . 577 (B .C .C .A .) .
+
+223 See discussion in Slattery, loc. cit., footnote 140, at pp . 376-387.
+224 Compare the following discussion with the analysis of the British Columbia
+
+Court of Appeal in Sparrow v. R., supra, footnote 222.
+
+ 
+ 
+(cid:9)
+(cid:9)
+(cid:9)
+
+782
+
+THE CANADIAN BAR REVIEW
+
+[Vol. 66
+
+reads into the Constitution the myriad of regulations affecting the exer-
+cise of aboriginal rights, regulations that differed considerably from place
+to place across the country. It does not permit differentiation between
+regulations of long-term significance and those enacted to deal with tem-
+porary conditions, or between reasonable and unreasonable restrictions .
+Moreover, it might require that a constitutional amendment be enacted
+to implement regulations more stringent than those in existence on 17
+April 1982 . This solution seems unsatisfactory .
+
+An alternative approach is to hold that section 35(1) recognizes
+unextinguished aboriginal rights in their original form, so that any regu-
+lations restricting their exercise are invalid. This approach leads to extreme
+consequences . It suggests, for example, that regulations implementing
+basic safety precautions in hunting, or protecting a rare species of ani-
+mal might be invalid. It seems, moreover, inconsistent with the word
+"existing", which suggests that the rights in question are affirmed in a
+contemporary form rather than in their primeval simplicity and vigour .
+The desirable solution, then, lies between these two extremes . It is
+submitted that section 35(1) permits a court to uphold certain regulations
+in existence at the commencement date, while striking down others, and
+allows legislatures a limited power of regulation in the future . The gov-
+erning criteria should be worked out-on a case by case basis . But, at the
+least, the following sorts of regulations would be valid: (1) regulations
+that operate to preserve or advance section 35 rights (as by conserving a
+natural resource essential to the exercise of such rights); (2) regulations
+that prevent the exercise of section 35 rights from causing serious harm
+to the general populace or native peoples themselves (such as standard
+safety restrictions governing the use of fire-arms in hunting),
+and (3)
+regulations that implement state policies of overriding importance to the
+general welfare (as in times of war or emergency) .
+
+225
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+Conclusion
+
+From early colonial days, the doctrine of aboriginal rights has formed
+part of the basic constitutional structure of Canada . It originated in prin-
+ciples of colonial law that defined the relationship between the British
+Crown and the native peoples of Canada and the status of their lands,
+laws, and existing political structures . Some of those principles were
+articulated in the Royal Proclamation of 1763, and were reflected in
+treaties concluded between the Crown and particular native groups . At
+Confederation, they passed into the federal sphere, and formed a body
+of basic common law principles operating across Canada . In principle,
+these principles were liable to be overriden by legislation. However,
+
+225 For analogous holdings in other contexts, see: Myran v . The Queen, [1976] 2
+S.C .R . 137, (1975), 58 D.L .R . (3d) 1 ; R. v. Napoleon, [1985] 6 W.W .R . 302 (B .C .C .A .) .
+
+ 
+ 
+(cid:9)
+(cid:9)
+
+3
+5
+
+s
+c
+o
+D
+
+I
+I
+
+L
+n
+a
+C
+7
+8
+9
+1
+
+19871
+
+Understanding Aboriginal Rights
+
+78 3
+
+they were protected in part by the provisions of constitutional instru-
+ments such as the Proclamation of 1763, and the Constitution Act, 1867.
+With the enactment of the Constitution Act in 1952, they have become
+constitutionally entrenched .
+
+The Constitution Act, 1982 signifies more than a mere mechanical
+adjustment in the doctrine of aboriginal rights, protecting it henceforth
+from legislative inroads . It represents a conscious political act whereby
+the people of an independent Canada reaffirm the values implicit in
+the doctrine . In 1969, when the government of Canada issued its famous
+White Paper on Indian policy, it was possible to view aboriginal rights
+as the embarrassing relics of a half-forgotten colonial past, to be interred
+as quickly and decently as possible, and certainly not to be taken as the
+basis for modern governmental policies . 22s The remarkable reaction of
+native communities across the country to the White Paper demonstrated
+that what was mere history for some was a matter of life or death for
+others . So, when section 35 of the Constitution Act, 1982, recognizes
+and affirms the existing aboriginal rights of the aboriginal peoples of
+Canada it constitutes a significant step toward the acceptance of the
+_native point of view .
+
+But there is a danger that section 35 can become a legal prison,
+locking native peoples into historically-based structures that impede them
+from playing their proper role in modern Canadian society. This danger
+can be averted only by interpreting the section in the light of the funda-
+mental values that inform it. A full discussion of these matters must be
+left to another occasion . Briefly, however, it may be suggested that two
+major considerations lie at the foundation of section 35. First, basic
+historical commitments made to native peoples should not be lightly
+overturned, and generally not without their consent. These commitments
+may at times have been ill-considered, and they may not always have
+been in the best interests of native peoples themselves. But they are the
+basis upon which native peoples entered Canadian society, and which
+gave them a stable foothold in an often difficult struggle to survive . If
+these commitments are now to be changed, native peoples must be fully
+involved in the process of renegotiation. Second, native Canadians are
+not just people who happen to have a heritage differing from that of the
+majority of Canadians, one more ingredient in the cultural potpourri of
+modern Canada. In ways that we may not fully recognize or appreciate,
+native Canadians represent our society's only deep historical links to the
+land, consolidated over millenia . If their land is now our land as well,
+their relationship with that land is particularly worthy of understanding
+and respect.
+
+... See, S. Weaver, Making Canadian Indian-Policy: The Hidden Agenda, 1968-1970
+
+(1981) .
+
+ 
+ 
+
